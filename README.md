@@ -8,7 +8,7 @@ One SideStore source for all my apps. In SideStore: **Sources → +**, then
 |---|---|
 | Paint by Moonlight | [paint-by-number](https://github.com/pbordjadze/paint-by-number)'s own source (`sidestore` branch) |
 | Beanbox | [beanbox](https://github.com/pbordjadze/beanbox)'s own source (`sidestore` branch) |
-| Treasurr | Private repo; its CI publishes each build here as a `treasurr-<n>` release and updates `apps/treasurr.json` |
+| Treasurr | Private repo; the seedbox relays each green build: the IPA goes on the `builds` branch, the entry in `apps/treasurr.json` |
 
 ## How it works
 
@@ -18,6 +18,8 @@ One SideStore source for all my apps. In SideStore: **Sources → +**, then
   here changes and every 30 minutes, and commits `source.json` if it changed. A
   remote source that can't be fetched leaves `source.json` as it was.
 - Each app keeps only its five newest builds.
+- `builds` holds IPAs for apps whose own repos are private (served from
+  raw.githubusercontent.com). It's force-pushed, so it never grows.
 
 GitHub disables scheduled workflows in public repos after 60 days without
 activity. Any app build pushed here counts as activity; if it does get disabled,
@@ -26,6 +28,7 @@ re-enable it under Actions, or run it by hand (workflow_dispatch).
 ## Adding an app
 
 - **Public repo with its own source:** add its `source.json` URL to `sources.json`.
-- **Private repo:** have its CI create a release here with the IPA and push an
-  app entry to `apps/<name>.json` (see Treasurr's `ci/publish_sidestore.sh`). It
-  needs a fine-grained token with Contents: read and write on this repo only.
+- **Private repo:** something with push access has to put the IPA where SideStore
+  can download it and write `apps/<name>.json`. Treasurr does it from the seedbox
+  with a deploy key (its `ci/relay_sidestore.py`): IPAs live on the `builds`
+  branch, one force-pushed commit with the newest five builds.
