@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.5",
+          "buildVersion": "5",
+          "date": "2026-10-04T23:52:32Z",
+          "localizedDescription": "Transcode stats: stream badge and a \"How it played\" card",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-5.ipa",
+          "size": 733549,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.4",
           "buildVersion": "4",
           "date": "2026-10-04T23:06:32Z",
@@ -145,11 +154,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.4",
-      "versionDate": "2026-10-04T23:06:32Z",
-      "versionDescription": "Publish through a seedbox relay instead of a token",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-4.ipa",
-      "size": 687876,
+      "version": "0.1.5",
+      "versionDate": "2026-10-04T23:52:32Z",
+      "versionDescription": "Transcode stats: stream badge and a \"How it played\" card",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-5.ipa",
+      "size": 733549,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
