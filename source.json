@@ -1,0 +1,130 @@
+{
+  "name": "pbordjadze's apps",
+  "identifier": "com.pbordjadze.source",
+  "subtitle": "Paint by Moonlight, Beanbox and Treasurr",
+  "website": "https://github.com/pbordjadze/sidestore",
+  "tintColor": "#7B3F7E",
+  "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/source.png",
+  "apps": [
+    {
+      "name": "Paint by Moonlight",
+      "bundleIdentifier": "com.pbordjadze.paintbynumber",
+      "developerName": "pbordjadze",
+      "subtitle": "Turn any photo into a painting",
+      "localizedDescription": "Turn your photos into paint-by-numbers canvases, entirely on device, and paint them with a finger or Apple Pencil. Built for iPad, works on iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/pbordjadze/paint-by-number/sidestore/icon.png",
+      "tintColor": "#7B3F7E",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0.213",
+          "buildVersion": "213",
+          "date": "2026-10-04T20:29:29Z",
+          "localizedDescription": "ci/fetch.sh: wait up to 100 minutes, since a full CI run takes about 70 [iphone]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-213/PaintByNumber.ipa",
+          "size": 58900267,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.211",
+          "buildVersion": "211",
+          "date": "2026-10-04T13:08:46Z",
+          "localizedDescription": "Merge origin/main (the Coloring Book default and drawing model) into claude/picker-taps [iphone]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-211/PaintByNumber.ipa",
+          "size": 59770799,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.208",
+          "buildVersion": "208",
+          "date": "2026-10-04T11:57:19Z",
+          "localizedDescription": "The book's outline threshold is 0.6, as measured: it cannot sit under the detail threshold",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-208/PaintByNumber.ipa",
+          "size": 59770734,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.176",
+          "buildVersion": "176",
+          "date": "2026-10-04T01:27:58Z",
+          "localizedDescription": "Book canvas test: the mosaic's selected cells have four color edges, not six",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-176/PaintByNumber.ipa",
+          "size": 51829962,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.161",
+          "buildVersion": "161",
+          "date": "2026-10-03T14:11:12Z",
+          "localizedDescription": "Palette: choose its rows and order, or arrange a painting's colors by hand [iphone]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-161/PaintByNumber.ipa",
+          "size": 51791830,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0.213",
+      "versionDate": "2026-10-04T20:29:29Z",
+      "versionDescription": "ci/fetch.sh: wait up to 100 minutes, since a full CI run takes about 70 [iphone]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-213/PaintByNumber.ipa",
+      "size": 58900267,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Paint by Moonlight uses the camera to take a photo you can turn into a paint-by-numbers picture. The photo stays on your device.",
+          "NSPhotoLibraryAddUsageDescription": "Paint by Moonlight saves a finished painting to your photo library when you choose Save to Photos."
+        }
+      }
+    },
+    {
+      "name": "Beanbox",
+      "bundleIdentifier": "com.pbordjadze.beanbox",
+      "developerName": "pbordjadze",
+      "subtitle": "Paper for every jelly bean",
+      "localizedDescription": "Match origami paper to jelly bean flavours. Measure sheets and beans from photos, get the best sheet for every flavour, and split look-alike beans into groups, entirely on device.",
+      "iconURL": "https://raw.githubusercontent.com/pbordjadze/beanbox/sidestore/icon.png",
+      "tintColor": "#E2542C",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.7",
+          "buildVersion": "7",
+          "date": "2026-10-04T06:03:48Z",
+          "localizedDescription": "Nothing has to be white; the printable mat is gone",
+          "downloadURL": "https://github.com/pbordjadze/beanbox/releases/download/build-7/BeanBox.ipa",
+          "size": 950021,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.5",
+          "buildVersion": "5",
+          "date": "2026-10-04T05:33:51Z",
+          "localizedDescription": "Chart gridlines are solid hairlines; flavour labels take turns above and below",
+          "downloadURL": "https://github.com/pbordjadze/beanbox/releases/download/build-5/BeanBox.ipa",
+          "size": 960845,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.2",
+          "buildVersion": "2",
+          "date": "2026-10-04T03:44:51Z",
+          "localizedDescription": "CI: one macOS job per push — screenshots on branches, the IPA on main",
+          "downloadURL": "https://github.com/pbordjadze/beanbox/releases/download/build-2/BeanBox.ipa",
+          "size": 958139,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0.7",
+      "versionDate": "2026-10-04T06:03:48Z",
+      "versionDescription": "Nothing has to be white; the printable mat is gone",
+      "downloadURL": "https://github.com/pbordjadze/beanbox/releases/download/build-7/BeanBox.ipa",
+      "size": 950021,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Beanbox uses the camera to photograph paper and beans so it can measure their colours. Photos stay on your device."
+        }
+      }
+    }
+  ],
+  "news": []
+}

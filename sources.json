@@ -1,0 +1,13 @@
+{
+  "name": "pbordjadze's apps",
+  "identifier": "com.pbordjadze.source",
+  "subtitle": "Paint by Moonlight, Beanbox and Treasurr",
+  "website": "https://github.com/pbordjadze/sidestore",
+  "tintColor": "#7B3F7E",
+  "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/source.png",
+  "apps": [
+    {"remote": "https://raw.githubusercontent.com/pbordjadze/paint-by-number/sidestore/source.json"},
+    {"remote": "https://raw.githubusercontent.com/pbordjadze/beanbox/sidestore/source.json"},
+    {"local": "apps/treasurr.json"}
+  ]
+}
