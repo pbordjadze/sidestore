@@ -1,0 +1,33 @@
+{
+  "name": "Treasurr",
+  "bundleIdentifier": "com.pbordjadze.treasurr",
+  "developerName": "pbordjadze",
+  "subtitle": "Your seedbox, in your pocket",
+  "localizedDescription": "A personal dashboard for a self-hosted media server: live speeds, who's watching, downloads, service status and fun watch stats. Pairs with its own gateway by QR code; it does nothing without one.",
+  "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/treasurr.png",
+  "tintColor": "#C7548F",
+  "category": "utilities",
+  "versions": [
+    {
+      "version": "0.1.4",
+      "buildVersion": "4",
+      "date": "2026-10-04T23:06:32Z",
+      "localizedDescription": "Publish through a seedbox relay instead of a token",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-4.ipa",
+      "size": 687876,
+      "minOSVersion": "18.0"
+    }
+  ],
+  "version": "0.1.4",
+  "versionDate": "2026-10-04T23:06:32Z",
+  "versionDescription": "Publish through a seedbox relay instead of a token",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-4.ipa",
+  "size": 687876,
+  "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+      "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+      "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+    }
+  }
+}
