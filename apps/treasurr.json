@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.6",
+      "buildVersion": "6",
+      "date": "2026-10-05T00:21:34Z",
+      "localizedDescription": "Notes: a lightbulb on every tab, and Settings → Your notes",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
+      "size": 796973,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.5",
       "buildVersion": "5",
       "date": "2026-10-04T23:52:32Z",
@@ -27,11 +36,11 @@
       "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.5",
-  "versionDate": "2026-10-04T23:52:32Z",
-  "versionDescription": "Transcode stats: stream badge and a \"How it played\" card",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-5.ipa",
-  "size": 733549,
+  "version": "0.1.6",
+  "versionDate": "2026-10-05T00:21:34Z",
+  "versionDescription": "Notes: a lightbulb on every tab, and Settings → Your notes",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
+  "size": 796973,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
