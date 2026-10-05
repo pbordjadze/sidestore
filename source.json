@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.216",
+          "buildVersion": "216",
+          "date": "2026-10-05T00:10:28Z",
+          "localizedDescription": "gallery-open demo: open the painting once, so a seed landing after Close can't reopen it [iphone]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-216/PaintByNumber.ipa",
+          "size": 58900158,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.213",
           "buildVersion": "213",
           "date": "2026-10-04T20:29:29Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-176/PaintByNumber.ipa",
           "size": 51829962,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.161",
-          "buildVersion": "161",
-          "date": "2026-10-03T14:11:12Z",
-          "localizedDescription": "Palette: choose its rows and order, or arrange a painting's colors by hand [iphone]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-161/PaintByNumber.ipa",
-          "size": 51791830,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.213",
-      "versionDate": "2026-10-04T20:29:29Z",
-      "versionDescription": "ci/fetch.sh: wait up to 100 minutes, since a full CI run takes about 70 [iphone]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-213/PaintByNumber.ipa",
-      "size": 58900267,
+      "version": "1.0.216",
+      "versionDate": "2026-10-05T00:10:28Z",
+      "versionDescription": "gallery-open demo: open the painting once, so a seed landing after Close can't reopen it [iphone]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-216/PaintByNumber.ipa",
+      "size": 58900158,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "6",
+          "date": "2026-10-05T00:21:34Z",
+          "localizedDescription": "Notes: a lightbulb on every tab, and Settings → Your notes",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
+          "size": 796973,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "5",
           "date": "2026-10-04T23:52:32Z",
@@ -154,11 +163,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.5",
-      "versionDate": "2026-10-04T23:52:32Z",
-      "versionDescription": "Transcode stats: stream badge and a \"How it played\" card",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-5.ipa",
-      "size": 733549,
+      "version": "0.1.6",
+      "versionDate": "2026-10-05T00:21:34Z",
+      "versionDescription": "Notes: a lightbulb on every tab, and Settings → Your notes",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
+      "size": 796973,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
