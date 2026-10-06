@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.17",
+      "buildVersion": "17",
+      "date": "2026-10-06T00:44:11Z",
+      "localizedDescription": "Activity → Watched, and rows that open their title",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
+      "size": 1507154,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.16",
       "buildVersion": "16",
       "date": "2026-10-06T00:32:00Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-11.ipa",
       "size": 1465920,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.6",
-      "buildVersion": "6",
-      "date": "2026-10-05T00:21:34Z",
-      "localizedDescription": "Notes: a lightbulb on every tab, and Settings → Your notes",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
-      "size": 796973,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.16",
-  "versionDate": "2026-10-06T00:32:00Z",
-  "versionDescription": "APIClient.statData: the raw stat body, with the phone's zone",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-16.ipa",
-  "size": 1463036,
+  "version": "0.1.17",
+  "versionDate": "2026-10-06T00:44:11Z",
+  "versionDescription": "Activity → Watched, and rows that open their title",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
+  "size": 1507154,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
