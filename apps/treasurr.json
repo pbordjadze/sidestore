@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.40",
+      "buildVersion": "40",
+      "date": "2026-10-06T19:13:23Z",
+      "localizedDescription": "Paul's TV: Home shows a short request list",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
+      "size": 2724343,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.38",
       "buildVersion": "38",
       "date": "2026-10-06T18:36:58Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
       "size": 2358669,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.28",
-      "buildVersion": "28",
-      "date": "2026-10-06T04:50:05Z",
-      "localizedDescription": "Paul's TV: no greetings",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
-      "size": 2345209,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.38",
-  "versionDate": "2026-10-06T18:36:58Z",
-  "versionDescription": "Live TV: backup channels for when the provider drops one",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
-  "size": 2703371,
+  "version": "0.1.40",
+  "versionDate": "2026-10-06T19:13:23Z",
+  "versionDescription": "Paul's TV: Home shows a short request list",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
+  "size": 2724343,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
