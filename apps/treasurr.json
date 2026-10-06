@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.38",
+      "buildVersion": "38",
+      "date": "2026-10-06T18:36:58Z",
+      "localizedDescription": "Live TV: backup channels for when the provider drops one",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
+      "size": 2703371,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.36",
       "buildVersion": "36",
       "date": "2026-10-06T12:53:29Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
       "size": 2345209,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.25",
-      "buildVersion": "25",
-      "date": "2026-10-06T03:03:51Z",
-      "localizedDescription": "Treasurr's Keychain wrapper gets its own file name",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
-      "size": 1889413,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.36",
-  "versionDate": "2026-10-06T12:53:29Z",
-  "versionDescription": "Treasurr: a Live TV tab to manage the channel lineup, with previews",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-36.ipa",
-  "size": 2661778,
+  "version": "0.1.38",
+  "versionDate": "2026-10-06T18:36:58Z",
+  "versionDescription": "Live TV: backup channels for when the provider drops one",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
+  "size": 2703371,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
