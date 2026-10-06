@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.20",
+      "buildVersion": "20",
+      "date": "2026-10-06T01:23:45Z",
+      "localizedDescription": "Requests → Live TV: answer family channel requests",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
+      "size": 1617150,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.19",
       "buildVersion": "19",
       "date": "2026-10-06T01:18:10Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-16.ipa",
       "size": 1463036,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.14",
-      "buildVersion": "14",
-      "date": "2026-10-06T00:27:00Z",
-      "localizedDescription": "TreasurrKit: recently watched, and which title an item is",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-14.ipa",
-      "size": 1458334,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.19",
-  "versionDate": "2026-10-06T01:18:10Z",
-  "versionDescription": "TreasurrKit: Live TV channel requests",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
-  "size": 1535884,
+  "version": "0.1.20",
+  "versionDate": "2026-10-06T01:23:45Z",
+  "versionDescription": "Requests → Live TV: answer family channel requests",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
+  "size": 1617150,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
