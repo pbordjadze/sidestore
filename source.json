@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.34",
+          "buildVersion": "34",
+          "date": "2026-10-06T12:49:27Z",
+          "localizedDescription": "Paul's TV: new seasons come by themselves",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-34.ipa",
+          "size": 2359539,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.31",
           "buildVersion": "31",
           "date": "2026-10-06T11:35:32Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-22.ipa",
           "size": 1618230,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.20",
-          "buildVersion": "20",
-          "date": "2026-10-06T01:23:45Z",
-          "localizedDescription": "Requests → Live TV: answer family channel requests",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
-          "size": 1617150,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.31",
-      "versionDate": "2026-10-06T11:35:32Z",
-      "versionDescription": "Paul's TV: requests don't sound like they go to Paul",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
-      "size": 2358669,
+      "version": "0.1.34",
+      "versionDate": "2026-10-06T12:49:27Z",
+      "versionDescription": "Paul's TV: new seasons come by themselves",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-34.ipa",
+      "size": 2359539,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
