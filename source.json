@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.18",
+          "buildVersion": "18",
+          "date": "2026-10-06T00:46:57Z",
+          "localizedDescription": "Requests: \"Because you watched…\" instead of Trending",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
+          "size": 1516479,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.17",
           "buildVersion": "17",
           "date": "2026-10-06T00:44:11Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-13.ipa",
           "size": 1448527,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.11",
-          "buildVersion": "11",
-          "date": "2026-10-05T11:09:08Z",
-          "localizedDescription": "Fixes from an independent review",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-11.ipa",
-          "size": 1465920,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.17",
-      "versionDate": "2026-10-06T00:44:11Z",
-      "versionDescription": "Activity → Watched, and rows that open their title",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
-      "size": 1507154,
+      "version": "0.1.18",
+      "versionDate": "2026-10-06T00:46:57Z",
+      "versionDescription": "Requests: \"Because you watched…\" instead of Trending",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
+      "size": 1516479,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
