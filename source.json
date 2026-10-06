@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.16",
+          "buildVersion": "16",
+          "date": "2026-10-06T00:32:00Z",
+          "localizedDescription": "APIClient.statData: the raw stat body, with the phone's zone",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-16.ipa",
+          "size": 1463036,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.14",
           "buildVersion": "14",
           "date": "2026-10-06T00:27:00Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-6.ipa",
           "size": 796973,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.5",
-          "buildVersion": "5",
-          "date": "2026-10-04T23:52:32Z",
-          "localizedDescription": "Transcode stats: stream badge and a \"How it played\" card",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-5.ipa",
-          "size": 733549,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.14",
-      "versionDate": "2026-10-06T00:27:00Z",
-      "versionDescription": "TreasurrKit: recently watched, and which title an item is",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-14.ipa",
-      "size": 1458334,
+      "version": "0.1.16",
+      "versionDate": "2026-10-06T00:32:00Z",
+      "versionDescription": "APIClient.statData: the raw stat body, with the phone's zone",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-16.ipa",
+      "size": 1463036,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
