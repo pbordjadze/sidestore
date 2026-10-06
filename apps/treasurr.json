@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.25",
+      "buildVersion": "25",
+      "date": "2026-10-06T03:03:51Z",
+      "localizedDescription": "Treasurr's Keychain wrapper gets its own file name",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
+      "size": 1889413,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.22",
       "buildVersion": "22",
       "date": "2026-10-06T01:30:06Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
       "size": 1516479,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.17",
-      "buildVersion": "17",
-      "date": "2026-10-06T00:44:11Z",
-      "localizedDescription": "Activity → Watched, and rows that open their title",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
-      "size": 1507154,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.22",
-  "versionDate": "2026-10-06T01:30:06Z",
-  "versionDescription": "Channel lookup copies the selection.txt rule",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-22.ipa",
-  "size": 1618230,
+  "version": "0.1.25",
+  "versionDate": "2026-10-06T03:03:51Z",
+  "versionDescription": "Treasurr's Keychain wrapper gets its own file name",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
+  "size": 1889413,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
