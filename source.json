@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.245",
+          "buildVersion": "245",
+          "date": "2026-10-06T18:15:34Z",
+          "localizedDescription": "Merge pull request #3 from pbordjadze/claude/feature-cuts",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-245/PaintByNumber.ipa",
+          "size": 58758554,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.243",
           "buildVersion": "243",
           "date": "2026-10-06T11:38:25Z",
@@ -51,27 +60,18 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-238/PaintByNumber.ipa",
           "size": 59117934,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.235",
-          "buildVersion": "235",
-          "date": "2026-10-06T06:13:52Z",
-          "localizedDescription": "SoundPlayer: measure the setup outside the log message",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-235/PaintByNumber.ipa",
-          "size": 59117780,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.243",
-      "versionDate": "2026-10-06T11:38:25Z",
-      "versionDescription": "CI: tell pbordjadze/sidestore when a build is published",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-243/PaintByNumber.ipa",
-      "size": 59118785,
+      "version": "1.0.245",
+      "versionDate": "2026-10-06T18:15:34Z",
+      "versionDescription": "Merge pull request #3 from pbordjadze/claude/feature-cuts",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-245/PaintByNumber.ipa",
+      "size": 58758554,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "Paint by Moonlight uses the camera to take a photo you can turn into a paint-by-numbers picture. The photo stays on your device.",
-          "NSPhotoLibraryAddUsageDescription": "Paint by Moonlight saves a finished painting to your photo library when you choose Save to Photos."
+          "NSPhotoLibraryAddUsageDescription": "Paint by Moonlight saves a painting or its time-lapse to your photo library when you choose Save Image or Save Video as you share it."
         }
       }
     },
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.38",
+          "buildVersion": "38",
+          "date": "2026-10-06T18:36:58Z",
+          "localizedDescription": "Live TV: backup channels for when the provider drops one",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
+          "size": 2703371,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.36",
           "buildVersion": "36",
           "date": "2026-10-06T12:53:29Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
           "size": 2345209,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.25",
-          "buildVersion": "25",
-          "date": "2026-10-06T03:03:51Z",
-          "localizedDescription": "Treasurr's Keychain wrapper gets its own file name",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
-          "size": 1889413,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.36",
-      "versionDate": "2026-10-06T12:53:29Z",
-      "versionDescription": "Treasurr: a Live TV tab to manage the channel lineup, with previews",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-36.ipa",
-      "size": 2661778,
+      "version": "0.1.38",
+      "versionDate": "2026-10-06T18:36:58Z",
+      "versionDescription": "Live TV: backup channels for when the provider drops one",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
+      "size": 2703371,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
