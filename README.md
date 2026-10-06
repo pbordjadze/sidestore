@@ -15,8 +15,10 @@ One SideStore source for all my apps. In SideStore: **Sources → +**, then
 - `sources.json` lists the apps in order: either another public repo's source
   (`remote`) or an entry file in `apps/` (`local`).
 - `.github/workflows/build.yml` runs `scripts/build_source.py` whenever an entry
-  here changes and every 30 minutes, and commits `source.json` if it changed. A
-  remote source that can't be fetched leaves `source.json` as it was.
+  here changes, when Paint by Moonlight's CI publishes a build (a
+  `repository_dispatch`), and every 15 minutes (off the hour and half hour, where
+  GitHub drops scheduled runs), and commits `source.json` if it changed. A remote
+  source that can't be fetched leaves `source.json` as it was.
 - Each app keeps only its five newest builds.
 - `builds` holds IPAs for apps whose own repos are private (served from
   raw.githubusercontent.com). It's force-pushed, so it never grows.

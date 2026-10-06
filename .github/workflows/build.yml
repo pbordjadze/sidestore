@@ -1,7 +1,10 @@
 name: Build source
 
-# Rebuilds source.json when an app entry changes here, and every 30 minutes to
-# pick up new builds from the apps whose sources live in their own repos.
+# Rebuilds source.json when an app entry changes here, when an app's CI says it
+# published a build (repository_dispatch: Paint by Moonlight's), and every 15
+# minutes to pick up new builds from the apps whose sources live in their own
+# repos. The schedule keeps off :00 and :30, where GitHub drops scheduled runs
+# under load: on 2026-10-06 the half-hourly schedule ran twice in seven hours.
 # Public repo, so these runs cost no Actions minutes.
 
 on:
@@ -9,7 +12,7 @@ on:
     branches: [main]
     paths: ['apps/**', 'sources.json', 'scripts/**', '.github/workflows/**']
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
   repository_dispatch:
 
