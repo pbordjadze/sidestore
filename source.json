@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.19",
+          "buildVersion": "19",
+          "date": "2026-10-06T01:18:10Z",
+          "localizedDescription": "TreasurrKit: Live TV channel requests",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
+          "size": 1535884,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.18",
           "buildVersion": "18",
           "date": "2026-10-06T00:46:57Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-14.ipa",
           "size": 1458334,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.13",
-          "buildVersion": "13",
-          "date": "2026-10-06T00:14:25Z",
-          "localizedDescription": "Home without highlight cards; Activity lists from the title menu",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-13.ipa",
-          "size": 1448527,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.18",
-      "versionDate": "2026-10-06T00:46:57Z",
-      "versionDescription": "Requests: \"Because you watched…\" instead of Trending",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
-      "size": 1516479,
+      "version": "0.1.19",
+      "versionDate": "2026-10-06T01:18:10Z",
+      "versionDescription": "TreasurrKit: Live TV channel requests",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
+      "size": 1535884,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
