@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.243",
+          "buildVersion": "243",
+          "date": "2026-10-06T11:38:25Z",
+          "localizedDescription": "CI: tell pbordjadze/sidestore when a build is published",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-243/PaintByNumber.ipa",
+          "size": 59118785,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.242",
           "buildVersion": "242",
           "date": "2026-10-06T10:23:01Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-235/PaintByNumber.ipa",
           "size": 59117780,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.233",
-          "buildVersion": "233",
-          "date": "2026-10-06T04:32:52Z",
-          "localizedDescription": "Merge claude/zen-mode: taps paint during the hint's flight; Zen Mode",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-233/PaintByNumber.ipa",
-          "size": 59056454,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.242",
-      "versionDate": "2026-10-06T10:23:01Z",
-      "versionDescription": "Create flow: a phone's card rows sit closer; the canvas logs long waits for a drawable",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-242/PaintByNumber.ipa",
-      "size": 59118948,
+      "version": "1.0.243",
+      "versionDate": "2026-10-06T11:38:25Z",
+      "versionDescription": "CI: tell pbordjadze/sidestore when a build is published",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-243/PaintByNumber.ipa",
+      "size": 59118785,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.31",
+          "buildVersion": "31",
+          "date": "2026-10-06T11:35:32Z",
+          "localizedDescription": "Paul's TV: requests don't sound like they go to Paul",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
+          "size": 2358669,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.28",
           "buildVersion": "28",
           "date": "2026-10-06T04:50:05Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
           "size": 1617150,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.19",
-          "buildVersion": "19",
-          "date": "2026-10-06T01:18:10Z",
-          "localizedDescription": "TreasurrKit: Live TV channel requests",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
-          "size": 1535884,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.28",
-      "versionDate": "2026-10-06T04:50:05Z",
-      "versionDescription": "Paul's TV: no greetings",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
-      "size": 2345209,
+      "version": "0.1.31",
+      "versionDate": "2026-10-06T11:35:32Z",
+      "versionDescription": "Paul's TV: requests don't sound like they go to Paul",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
+      "size": 2358669,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
