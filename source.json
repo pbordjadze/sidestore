@@ -17,6 +17,24 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.226",
+          "buildVersion": "226",
+          "date": "2026-10-06T01:03:14Z",
+          "localizedDescription": "CreateFlowTests: find the preview's back button by its identifier",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-226/PaintByNumber.ipa",
+          "size": 59054068,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.225",
+          "buildVersion": "225",
+          "date": "2026-10-06T00:56:17Z",
+          "localizedDescription": "Merge painting feedback: mark up the painting, write notes, send a bundle",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-225/PaintByNumber.ipa",
+          "size": 59054068,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.216",
           "buildVersion": "216",
           "date": "2026-10-05T00:10:28Z",
@@ -42,31 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-211/PaintByNumber.ipa",
           "size": 59770799,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.208",
-          "buildVersion": "208",
-          "date": "2026-10-04T11:57:19Z",
-          "localizedDescription": "The book's outline threshold is 0.6, as measured: it cannot sit under the detail threshold",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-208/PaintByNumber.ipa",
-          "size": 59770734,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.176",
-          "buildVersion": "176",
-          "date": "2026-10-04T01:27:58Z",
-          "localizedDescription": "Book canvas test: the mosaic's selected cells have four color edges, not six",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-176/PaintByNumber.ipa",
-          "size": 51829962,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.216",
-      "versionDate": "2026-10-05T00:10:28Z",
-      "versionDescription": "gallery-open demo: open the painting once, so a seed landing after Close can't reopen it [iphone]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-216/PaintByNumber.ipa",
-      "size": 58900158,
+      "version": "1.0.226",
+      "versionDate": "2026-10-06T01:03:14Z",
+      "versionDescription": "CreateFlowTests: find the preview's back button by its identifier",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-226/PaintByNumber.ipa",
+      "size": 59054068,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
