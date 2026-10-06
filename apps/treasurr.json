@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.31",
+      "buildVersion": "31",
+      "date": "2026-10-06T11:35:32Z",
+      "localizedDescription": "Paul's TV: requests don't sound like they go to Paul",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
+      "size": 2358669,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.28",
       "buildVersion": "28",
       "date": "2026-10-06T04:50:05Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
       "size": 1617150,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.19",
-      "buildVersion": "19",
-      "date": "2026-10-06T01:18:10Z",
-      "localizedDescription": "TreasurrKit: Live TV channel requests",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
-      "size": 1535884,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.28",
-  "versionDate": "2026-10-06T04:50:05Z",
-  "versionDescription": "Paul's TV: no greetings",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
-  "size": 2345209,
+  "version": "0.1.31",
+  "versionDate": "2026-10-06T11:35:32Z",
+  "versionDescription": "Paul's TV: requests don't sound like they go to Paul",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
+  "size": 2358669,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
