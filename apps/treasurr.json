@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.28",
+      "buildVersion": "28",
+      "date": "2026-10-06T04:50:05Z",
+      "localizedDescription": "Paul's TV: no greetings",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
+      "size": 2345209,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.25",
       "buildVersion": "25",
       "date": "2026-10-06T03:03:51Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-19.ipa",
       "size": 1535884,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.18",
-      "buildVersion": "18",
-      "date": "2026-10-06T00:46:57Z",
-      "localizedDescription": "Requests: \"Because you watched…\" instead of Trending",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
-      "size": 1516479,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.25",
-  "versionDate": "2026-10-06T03:03:51Z",
-  "versionDescription": "Treasurr's Keychain wrapper gets its own file name",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
-  "size": 1889413,
+  "version": "0.1.28",
+  "versionDate": "2026-10-06T04:50:05Z",
+  "versionDescription": "Paul's TV: no greetings",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-28.ipa",
+  "size": 2345209,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
