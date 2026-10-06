@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.228",
+          "buildVersion": "228",
+          "date": "2026-10-06T02:20:49Z",
+          "localizedDescription": "Seed paintings at utility priority; keep the app's log of the UI tests",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-228/PaintByNumber.ipa",
+          "size": 59054815,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.226",
           "buildVersion": "226",
           "date": "2026-10-06T01:03:14Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-213/PaintByNumber.ipa",
           "size": 58900267,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.211",
-          "buildVersion": "211",
-          "date": "2026-10-04T13:08:46Z",
-          "localizedDescription": "Merge origin/main (the Coloring Book default and drawing model) into claude/picker-taps [iphone]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-211/PaintByNumber.ipa",
-          "size": 59770799,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.226",
-      "versionDate": "2026-10-06T01:03:14Z",
-      "versionDescription": "CreateFlowTests: find the preview's back button by its identifier",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-226/PaintByNumber.ipa",
-      "size": 59054068,
+      "version": "1.0.228",
+      "versionDate": "2026-10-06T02:20:49Z",
+      "versionDescription": "Seed paintings at utility priority; keep the app's log of the UI tests",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-228/PaintByNumber.ipa",
+      "size": 59054815,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.25",
+          "buildVersion": "25",
+          "date": "2026-10-06T03:03:51Z",
+          "localizedDescription": "Treasurr's Keychain wrapper gets its own file name",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
+          "size": 1889413,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "22",
           "date": "2026-10-06T01:30:06Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-18.ipa",
           "size": 1516479,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.17",
-          "buildVersion": "17",
-          "date": "2026-10-06T00:44:11Z",
-          "localizedDescription": "Activity → Watched, and rows that open their title",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
-          "size": 1507154,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.22",
-      "versionDate": "2026-10-06T01:30:06Z",
-      "versionDescription": "Channel lookup copies the selection.txt rule",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-22.ipa",
-      "size": 1618230,
+      "version": "0.1.25",
+      "versionDate": "2026-10-06T03:03:51Z",
+      "versionDescription": "Treasurr's Keychain wrapper gets its own file name",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-25.ipa",
+      "size": 1889413,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
