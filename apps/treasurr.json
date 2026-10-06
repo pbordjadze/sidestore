@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.13",
+      "buildVersion": "13",
+      "date": "2026-10-06T00:14:25Z",
+      "localizedDescription": "Home without highlight cards; Activity lists from the title menu",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-13.ipa",
+      "size": 1448527,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.11",
       "buildVersion": "11",
       "date": "2026-10-05T11:09:08Z",
@@ -45,11 +54,11 @@
       "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.11",
-  "versionDate": "2026-10-05T11:09:08Z",
-  "versionDescription": "Fixes from an independent review",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-11.ipa",
-  "size": 1465920,
+  "version": "0.1.13",
+  "versionDate": "2026-10-06T00:14:25Z",
+  "versionDescription": "Home without highlight cards; Activity lists from the title menu",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-13.ipa",
+  "size": 1448527,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
