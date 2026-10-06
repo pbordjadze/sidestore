@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.235",
+          "buildVersion": "235",
+          "date": "2026-10-06T06:13:52Z",
+          "localizedDescription": "SoundPlayer: measure the setup outside the log message",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-235/PaintByNumber.ipa",
+          "size": 59117780,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.233",
           "buildVersion": "233",
           "date": "2026-10-06T04:32:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-225/PaintByNumber.ipa",
           "size": 59054068,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.216",
-          "buildVersion": "216",
-          "date": "2026-10-05T00:10:28Z",
-          "localizedDescription": "gallery-open demo: open the painting once, so a seed landing after Close can't reopen it [iphone]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-216/PaintByNumber.ipa",
-          "size": 58900158,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.233",
-      "versionDate": "2026-10-06T04:32:52Z",
-      "versionDescription": "Merge claude/zen-mode: taps paint during the hint's flight; Zen Mode",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-233/PaintByNumber.ipa",
-      "size": 59056454,
+      "version": "1.0.235",
+      "versionDate": "2026-10-06T06:13:52Z",
+      "versionDescription": "SoundPlayer: measure the setup outside the log message",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-235/PaintByNumber.ipa",
+      "size": 59117780,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
