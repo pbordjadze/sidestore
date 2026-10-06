@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.247",
+          "buildVersion": "247",
+          "date": "2026-10-06T21:03:27Z",
+          "localizedDescription": "Merge pull request #4 from pbordjadze/claude/canvas-main-thread",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-247/PaintByNumber.ipa",
+          "size": 58759493,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.245",
           "buildVersion": "245",
           "date": "2026-10-06T18:15:34Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-240/PaintByNumber.ipa",
           "size": 59117898,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.238",
-          "buildVersion": "238",
-          "date": "2026-10-06T07:44:22Z",
-          "localizedDescription": "Text finding on the simulator looks for 1/48 of the photo; its test reads off the main actor",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-238/PaintByNumber.ipa",
-          "size": 59117934,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.245",
-      "versionDate": "2026-10-06T18:15:34Z",
-      "versionDescription": "Merge pull request #3 from pbordjadze/claude/feature-cuts",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-245/PaintByNumber.ipa",
-      "size": 58758554,
+      "version": "1.0.247",
+      "versionDate": "2026-10-06T21:03:27Z",
+      "versionDescription": "Merge pull request #4 from pbordjadze/claude/canvas-main-thread",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-247/PaintByNumber.ipa",
+      "size": 58759493,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.45",
+          "buildVersion": "45",
+          "date": "2026-10-06T21:36:00Z",
+          "localizedDescription": "Polish Paul's TV: one close button, readable bars and hints, large text, plain reasons",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-45.ipa",
+          "size": 2827399,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.40",
           "buildVersion": "40",
           "date": "2026-10-06T19:13:23Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-34.ipa",
           "size": 2359539,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.31",
-          "buildVersion": "31",
-          "date": "2026-10-06T11:35:32Z",
-          "localizedDescription": "Paul's TV: requests don't sound like they go to Paul",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-31.ipa",
-          "size": 2358669,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.40",
-      "versionDate": "2026-10-06T19:13:23Z",
-      "versionDescription": "Paul's TV: Home shows a short request list",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
-      "size": 2724343,
+      "version": "0.1.45",
+      "versionDate": "2026-10-06T21:36:00Z",
+      "versionDescription": "Polish Paul's TV: one close button, readable bars and hints, large text, plain reasons",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-45.ipa",
+      "size": 2827399,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
