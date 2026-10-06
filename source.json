@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.22",
+          "buildVersion": "22",
+          "date": "2026-10-06T01:30:06Z",
+          "localizedDescription": "Channel lookup copies the selection.txt rule",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-22.ipa",
+          "size": 1618230,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.20",
           "buildVersion": "20",
           "date": "2026-10-06T01:23:45Z",
@@ -170,22 +179,13 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-17.ipa",
           "size": 1507154,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.16",
-          "buildVersion": "16",
-          "date": "2026-10-06T00:32:00Z",
-          "localizedDescription": "APIClient.statData: the raw stat body, with the phone's zone",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-16.ipa",
-          "size": 1463036,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.20",
-      "versionDate": "2026-10-06T01:23:45Z",
-      "versionDescription": "Requests → Live TV: answer family channel requests",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-20.ipa",
-      "size": 1617150,
+      "version": "0.1.22",
+      "versionDate": "2026-10-06T01:30:06Z",
+      "versionDescription": "Channel lookup copies the selection.txt rule",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-22.ipa",
+      "size": 1618230,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
