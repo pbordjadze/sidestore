@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.266",
+          "buildVersion": "266",
+          "date": "2026-10-07T19:26:05Z",
+          "localizedDescription": "Merge pull request #8 from pbordjadze/claude/main-thread-stalls",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-266/PaintByNumber.ipa",
+          "size": 58845252,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.259",
           "buildVersion": "259",
           "date": "2026-10-07T11:24:10Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-245/PaintByNumber.ipa",
           "size": 58758554,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.243",
-          "buildVersion": "243",
-          "date": "2026-10-06T11:38:25Z",
-          "localizedDescription": "CI: tell pbordjadze/sidestore when a build is published",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-243/PaintByNumber.ipa",
-          "size": 59118785,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.259",
-      "versionDate": "2026-10-07T11:24:10Z",
-      "versionDescription": "Merge pull request #7 from pbordjadze/claude/template-refine",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-259/PaintByNumber.ipa",
-      "size": 58845407,
+      "version": "1.0.266",
+      "versionDate": "2026-10-07T19:26:05Z",
+      "versionDescription": "Merge pull request #8 from pbordjadze/claude/main-thread-stalls",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-266/PaintByNumber.ipa",
+      "size": 58845252,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
