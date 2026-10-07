@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.49",
+      "buildVersion": "49",
+      "date": "2026-10-07T02:53:56Z",
+      "localizedDescription": "Watch while recording: the remote in Live TV (A26)",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-49.ipa",
+      "size": 3012674,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.45",
       "buildVersion": "45",
       "date": "2026-10-06T21:36:00Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-36.ipa",
       "size": 2661778,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.34",
-      "buildVersion": "34",
-      "date": "2026-10-06T12:49:27Z",
-      "localizedDescription": "Paul's TV: new seasons come by themselves",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-34.ipa",
-      "size": 2359539,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.45",
-  "versionDate": "2026-10-06T21:36:00Z",
-  "versionDescription": "Polish Paul's TV: one close button, readable bars and hints, large text, plain reasons",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-45.ipa",
-  "size": 2827399,
+  "version": "0.1.49",
+  "versionDate": "2026-10-07T02:53:56Z",
+  "versionDescription": "Watch while recording: the remote in Live TV (A26)",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-49.ipa",
+  "size": 3012674,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
