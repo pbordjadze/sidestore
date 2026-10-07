@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.259",
+          "buildVersion": "259",
+          "date": "2026-10-07T11:24:10Z",
+          "localizedDescription": "Merge pull request #7 from pbordjadze/claude/template-refine",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-259/PaintByNumber.ipa",
+          "size": 58845407,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.252",
           "buildVersion": "252",
           "date": "2026-10-07T02:16:21Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-243/PaintByNumber.ipa",
           "size": 59118785,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.242",
-          "buildVersion": "242",
-          "date": "2026-10-06T10:23:01Z",
-          "localizedDescription": "Create flow: a phone's card rows sit closer; the canvas logs long waits for a drawable",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-242/PaintByNumber.ipa",
-          "size": 59118948,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.252",
-      "versionDate": "2026-10-07T02:16:21Z",
-      "versionDescription": "Merge pull request #5 from pbordjadze/claude/ci-reliability",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-252/PaintByNumber.ipa",
-      "size": 58759497,
+      "version": "1.0.259",
+      "versionDate": "2026-10-07T11:24:10Z",
+      "versionDescription": "Merge pull request #7 from pbordjadze/claude/template-refine",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-259/PaintByNumber.ipa",
+      "size": 58845407,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
