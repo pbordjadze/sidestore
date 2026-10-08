@@ -29,7 +29,15 @@ re-enable it under Actions, or run it by hand (workflow_dispatch).
 
 ## Adding an app
 
-- **Public repo with its own source:** add its `source.json` URL to `sources.json`.
+Every entry in `sources.json` names the `bundleIdentifiers` it may publish, and
+every URL in an app (IPA, icon, screenshots) must be on
+`https://github.com/pbordjadze/` or `https://raw.githubusercontent.com/pbordjadze/`.
+Anything else stops the build and leaves `source.json` as it was, so a remote
+source whose repo or CI is compromised can't add an app or point one at an IPA
+hosted elsewhere.
+
+- **Public repo with its own source:** add its `source.json` URL to `sources.json`,
+  with its bundle id.
 - **Private repo:** something with push access has to put the IPA where SideStore
   can download it and write `apps/<name>.json`. Treasurr does it from the seedbox
   with a deploy key (its `ci/relay_sidestore.py`): IPAs live on the `builds`

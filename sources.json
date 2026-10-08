@@ -6,8 +6,8 @@
   "tintColor": "#7B3F7E",
   "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/source.png",
   "apps": [
-    {"remote": "https://raw.githubusercontent.com/pbordjadze/paint-by-number/sidestore/source.json"},
-    {"remote": "https://raw.githubusercontent.com/pbordjadze/beanbox/sidestore/source.json"},
-    {"local": "apps/treasurr.json"}
+    {"remote": "https://raw.githubusercontent.com/pbordjadze/paint-by-number/sidestore/source.json", "bundleIdentifiers": ["com.pbordjadze.paintbynumber"]},
+    {"remote": "https://raw.githubusercontent.com/pbordjadze/beanbox/sidestore/source.json", "bundleIdentifiers": ["com.pbordjadze.beanbox"]},
+    {"local": "apps/treasurr.json", "bundleIdentifiers": ["com.pbordjadze.treasurr"]}
   ]
 }
