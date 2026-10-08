@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.51",
+          "buildVersion": "51",
+          "date": "2026-10-08T22:14:54Z",
+          "localizedDescription": "CI: give the App Store Connect secrets only to the steps that use them",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-51.ipa",
+          "size": 3012674,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.49",
           "buildVersion": "49",
           "date": "2026-10-07T02:53:56Z",
@@ -170,21 +179,12 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
           "size": 2703371,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.36",
-          "buildVersion": "36",
-          "date": "2026-10-06T12:53:29Z",
-          "localizedDescription": "Treasurr: a Live TV tab to manage the channel lineup, with previews",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-36.ipa",
-          "size": 2661778,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.49",
-      "versionDate": "2026-10-07T02:53:56Z",
-      "versionDescription": "Watch while recording: the remote in Live TV (A26)",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-49.ipa",
+      "version": "0.1.51",
+      "versionDate": "2026-10-08T22:14:54Z",
+      "versionDescription": "CI: give the App Store Connect secrets only to the steps that use them",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-51.ipa",
       "size": 3012674,
       "appPermissions": {
         "entitlements": [],
