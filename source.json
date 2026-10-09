@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.273",
+          "buildVersion": "273",
+          "date": "2026-10-09T04:44:41Z",
+          "localizedDescription": "Merge pull request #10 from pbordjadze/claude/ipad-photo-picker",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-273/PaintByNumber.ipa",
+          "size": 58906205,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.271",
           "buildVersion": "271",
           "date": "2026-10-08T06:20:46Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-252/PaintByNumber.ipa",
           "size": 58759497,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.247",
-          "buildVersion": "247",
-          "date": "2026-10-06T21:03:27Z",
-          "localizedDescription": "Merge pull request #4 from pbordjadze/claude/canvas-main-thread",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-247/PaintByNumber.ipa",
-          "size": 58759493,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.271",
-      "versionDate": "2026-10-08T06:20:46Z",
-      "versionDescription": "Merge pull request #9 from pbordjadze/claude/refine-draw-lines",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-271/PaintByNumber.ipa",
-      "size": 58902805,
+      "version": "1.0.273",
+      "versionDate": "2026-10-09T04:44:41Z",
+      "versionDescription": "Merge pull request #10 from pbordjadze/claude/ipad-photo-picker",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-273/PaintByNumber.ipa",
+      "size": 58906205,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
