@@ -17,6 +17,24 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.283",
+          "buildVersion": "283",
+          "date": "2026-10-10T14:43:58Z",
+          "localizedDescription": "Merge pull request #12 from pbordjadze/claude/finish-moment",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-283/PaintByNumber.ipa",
+          "size": 58914266,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.282",
+          "buildVersion": "282",
+          "date": "2026-10-10T14:29:26Z",
+          "localizedDescription": "Merge pull request #11 from pbordjadze/claude/preview-swipe-back",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-282/PaintByNumber.ipa",
+          "size": 58910475,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.277",
           "buildVersion": "277",
           "date": "2026-10-10T02:38:15Z",
@@ -42,31 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-273/PaintByNumber.ipa",
           "size": 58906205,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.271",
-          "buildVersion": "271",
-          "date": "2026-10-08T06:20:46Z",
-          "localizedDescription": "Merge pull request #9 from pbordjadze/claude/refine-draw-lines",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-271/PaintByNumber.ipa",
-          "size": 58902805,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.266",
-          "buildVersion": "266",
-          "date": "2026-10-07T19:26:05Z",
-          "localizedDescription": "Merge pull request #8 from pbordjadze/claude/main-thread-stalls",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-266/PaintByNumber.ipa",
-          "size": 58845252,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.277",
-      "versionDate": "2026-10-10T02:38:15Z",
-      "versionDescription": "Palette: By Number demo and a UI test of where swatches sit",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-277/PaintByNumber.ipa",
-      "size": 58908553,
+      "version": "1.0.283",
+      "versionDate": "2026-10-10T14:43:58Z",
+      "versionDescription": "Merge pull request #12 from pbordjadze/claude/finish-moment",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-283/PaintByNumber.ipa",
+      "size": 58914266,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
