@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.51",
+  "CFBundleVersion": "51",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "CI: give the App Store Connect secrets only to the steps that use them",
+  "commit": "0eca18f4ea37651924035fc18a0f76e907d0a793",
+  "date": "2026-10-08T22:14:54Z"
+}

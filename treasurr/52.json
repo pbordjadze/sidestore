@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.52",
+  "CFBundleVersion": "52",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "CI: build only main, pull requests and ci/<name> branches",
+  "commit": "c6bdb849ee9c8f6f61a3e77162d0aba79f7ce0b5",
+  "date": "2026-10-10T17:22:35Z"
+}

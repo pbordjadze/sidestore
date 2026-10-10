@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.40",
+  "CFBundleVersion": "40",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "Paul's TV: Home shows a short request list",
+  "commit": "7381473d32a3f885bf1e79fe0900074ce9c9602e",
+  "date": "2026-10-06T19:13:23Z"
+}

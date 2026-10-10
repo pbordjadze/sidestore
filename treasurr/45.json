@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.45",
+  "CFBundleVersion": "45",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "Polish Paul's TV: one close button, readable bars and hints, large text, plain reasons",
+  "commit": "d38e5097810c3f6b04f9c3de8eedf0879208b584",
+  "date": "2026-10-06T21:36:00Z"
+}
