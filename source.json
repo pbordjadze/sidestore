@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.284",
+          "buildVersion": "284",
+          "date": "2026-10-10T15:10:27Z",
+          "localizedDescription": "Merge pull request #13 from pbordjadze/claude/refine-pen-as-drawn",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-284/PaintByNumber.ipa",
+          "size": 58925718,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.283",
           "buildVersion": "283",
           "date": "2026-10-10T14:43:58Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-275/PaintByNumber.ipa",
           "size": 58908555,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.273",
-          "buildVersion": "273",
-          "date": "2026-10-09T04:44:41Z",
-          "localizedDescription": "Merge pull request #10 from pbordjadze/claude/ipad-photo-picker",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-273/PaintByNumber.ipa",
-          "size": 58906205,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.283",
-      "versionDate": "2026-10-10T14:43:58Z",
-      "versionDescription": "Merge pull request #12 from pbordjadze/claude/finish-moment",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-283/PaintByNumber.ipa",
-      "size": 58914266,
+      "version": "1.0.284",
+      "versionDate": "2026-10-10T15:10:27Z",
+      "versionDescription": "Merge pull request #13 from pbordjadze/claude/refine-pen-as-drawn",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-284/PaintByNumber.ipa",
+      "size": 58925718,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -136,6 +136,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.52",
+          "buildVersion": "52",
+          "date": "2026-10-10T17:22:35Z",
+          "localizedDescription": "CI: build only main, pull requests and ci/<name> branches",
+          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
+          "size": 3012674,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.51",
           "buildVersion": "51",
           "date": "2026-10-08T22:14:54Z",
@@ -170,21 +179,12 @@
           "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
           "size": 2724343,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.38",
-          "buildVersion": "38",
-          "date": "2026-10-06T18:36:58Z",
-          "localizedDescription": "Live TV: backup channels for when the provider drops one",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
-          "size": 2703371,
-          "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1.51",
-      "versionDate": "2026-10-08T22:14:54Z",
-      "versionDescription": "CI: give the App Store Connect secrets only to the steps that use them",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-51.ipa",
+      "version": "0.1.52",
+      "versionDate": "2026-10-10T17:22:35Z",
+      "versionDescription": "CI: build only main, pull requests and ci/<name> branches",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
       "size": 3012674,
       "appPermissions": {
         "entitlements": [],
