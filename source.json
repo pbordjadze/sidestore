@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.277",
+          "buildVersion": "277",
+          "date": "2026-10-10T02:38:15Z",
+          "localizedDescription": "Palette: By Number demo and a UI test of where swatches sit",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-277/PaintByNumber.ipa",
+          "size": 58908553,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.275",
           "buildVersion": "275",
           "date": "2026-10-10T00:16:01Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-266/PaintByNumber.ipa",
           "size": 58845252,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.259",
-          "buildVersion": "259",
-          "date": "2026-10-07T11:24:10Z",
-          "localizedDescription": "Merge pull request #7 from pbordjadze/claude/template-refine",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-259/PaintByNumber.ipa",
-          "size": 58845407,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.275",
-      "versionDate": "2026-10-10T00:16:01Z",
-      "versionDescription": "Palette: fill swatches down each column before across",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-275/PaintByNumber.ipa",
-      "size": 58908555,
+      "version": "1.0.277",
+      "versionDate": "2026-10-10T02:38:15Z",
+      "versionDescription": "Palette: By Number demo and a UI test of where swatches sit",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-277/PaintByNumber.ipa",
+      "size": 58908553,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
