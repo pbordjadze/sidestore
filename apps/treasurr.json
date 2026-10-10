@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.52",
+      "buildVersion": "52",
+      "date": "2026-10-10T17:22:35Z",
+      "localizedDescription": "CI: build only main, pull requests and ci/<name> branches",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
+      "size": 3012674,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.51",
       "buildVersion": "51",
       "date": "2026-10-08T22:14:54Z",
@@ -43,21 +52,12 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
       "size": 2724343,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.38",
-      "buildVersion": "38",
-      "date": "2026-10-06T18:36:58Z",
-      "localizedDescription": "Live TV: backup channels for when the provider drops one",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-38.ipa",
-      "size": 2703371,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.51",
-  "versionDate": "2026-10-08T22:14:54Z",
-  "versionDescription": "CI: give the App Store Connect secrets only to the steps that use them",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-51.ipa",
+  "version": "0.1.52",
+  "versionDate": "2026-10-10T17:22:35Z",
+  "versionDescription": "CI: build only main, pull requests and ci/<name> branches",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
   "size": 3012674,
   "appPermissions": {
     "entitlements": [],
