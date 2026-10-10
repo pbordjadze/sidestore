@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.275",
+          "buildVersion": "275",
+          "date": "2026-10-10T00:16:01Z",
+          "localizedDescription": "Palette: fill swatches down each column before across",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-275/PaintByNumber.ipa",
+          "size": 58908555,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.273",
           "buildVersion": "273",
           "date": "2026-10-09T04:44:41Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-259/PaintByNumber.ipa",
           "size": 58845407,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.252",
-          "buildVersion": "252",
-          "date": "2026-10-07T02:16:21Z",
-          "localizedDescription": "Merge pull request #5 from pbordjadze/claude/ci-reliability",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-252/PaintByNumber.ipa",
-          "size": 58759497,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.273",
-      "versionDate": "2026-10-09T04:44:41Z",
-      "versionDescription": "Merge pull request #10 from pbordjadze/claude/ipad-photo-picker",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-273/PaintByNumber.ipa",
-      "size": 58906205,
+      "version": "1.0.275",
+      "versionDate": "2026-10-10T00:16:01Z",
+      "versionDescription": "Palette: fill swatches down each column before across",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-275/PaintByNumber.ipa",
+      "size": 58908555,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
