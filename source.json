@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.287",
+          "buildVersion": "287",
+          "date": "2026-10-10T17:51:42Z",
+          "localizedDescription": "Merge pull request #14 from pbordjadze/claude/refine-fill",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-287/PaintByNumber.ipa",
+          "size": 58954896,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.284",
           "buildVersion": "284",
           "date": "2026-10-10T15:10:27Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-277/PaintByNumber.ipa",
           "size": 58908553,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.275",
-          "buildVersion": "275",
-          "date": "2026-10-10T00:16:01Z",
-          "localizedDescription": "Palette: fill swatches down each column before across",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-275/PaintByNumber.ipa",
-          "size": 58908555,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.284",
-      "versionDate": "2026-10-10T15:10:27Z",
-      "versionDescription": "Merge pull request #13 from pbordjadze/claude/refine-pen-as-drawn",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-284/PaintByNumber.ipa",
-      "size": 58925718,
+      "version": "1.0.287",
+      "versionDate": "2026-10-10T17:51:42Z",
+      "versionDescription": "Merge pull request #14 from pbordjadze/claude/refine-fill",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-287/PaintByNumber.ipa",
+      "size": 58954896,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
