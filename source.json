@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.294",
+          "buildVersion": "294",
+          "date": "2026-10-11T16:24:45Z",
+          "localizedDescription": "The Marginarium: how the app is made, told in chapters, with Pip",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-294/PaintByNumber.ipa",
+          "size": 59192298,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.292",
           "buildVersion": "292",
           "date": "2026-10-11T04:05:11Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-283/PaintByNumber.ipa",
           "size": 58914266,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.282",
-          "buildVersion": "282",
-          "date": "2026-10-10T14:29:26Z",
-          "localizedDescription": "Merge pull request #11 from pbordjadze/claude/preview-swipe-back",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-282/PaintByNumber.ipa",
-          "size": 58910475,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.292",
-      "versionDate": "2026-10-11T04:05:11Z",
-      "versionDescription": "Merge pull request #15 from pbordjadze/claude/refine-screen-line-erasure-k7snxk",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-292/PaintByNumber.ipa",
-      "size": 58977194,
+      "version": "1.0.294",
+      "versionDate": "2026-10-11T16:24:45Z",
+      "versionDescription": "The Marginarium: how the app is made, told in chapters, with Pip",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-294/PaintByNumber.ipa",
+      "size": 59192298,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
