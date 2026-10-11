@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.303",
+          "buildVersion": "303",
+          "date": "2026-10-11T22:45:03Z",
+          "localizedDescription": "Merge claude/f30-play-harness",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-303/PaintByNumber.ipa",
+          "size": 59434585,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.294",
           "buildVersion": "294",
           "date": "2026-10-11T16:24:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-284/PaintByNumber.ipa",
           "size": 58925718,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.283",
-          "buildVersion": "283",
-          "date": "2026-10-10T14:43:58Z",
-          "localizedDescription": "Merge pull request #12 from pbordjadze/claude/finish-moment",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-283/PaintByNumber.ipa",
-          "size": 58914266,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.294",
-      "versionDate": "2026-10-11T16:24:45Z",
-      "versionDescription": "The Marginarium: how the app is made, told in chapters, with Pip",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-294/PaintByNumber.ipa",
-      "size": 59192298,
+      "version": "1.0.303",
+      "versionDate": "2026-10-11T22:45:03Z",
+      "versionDescription": "Merge claude/f30-play-harness",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-303/PaintByNumber.ipa",
+      "size": 59434585,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
