@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.292",
+          "buildVersion": "292",
+          "date": "2026-10-11T04:05:11Z",
+          "localizedDescription": "Merge pull request #15 from pbordjadze/claude/refine-screen-line-erasure-k7snxk",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-292/PaintByNumber.ipa",
+          "size": 58977194,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.287",
           "buildVersion": "287",
           "date": "2026-10-10T17:51:42Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-282/PaintByNumber.ipa",
           "size": 58910475,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.277",
-          "buildVersion": "277",
-          "date": "2026-10-10T02:38:15Z",
-          "localizedDescription": "Palette: By Number demo and a UI test of where swatches sit",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-277/PaintByNumber.ipa",
-          "size": 58908553,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.287",
-      "versionDate": "2026-10-10T17:51:42Z",
-      "versionDescription": "Merge pull request #14 from pbordjadze/claude/refine-fill",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-287/PaintByNumber.ipa",
-      "size": 58954896,
+      "version": "1.0.292",
+      "versionDate": "2026-10-11T04:05:11Z",
+      "versionDescription": "Merge pull request #15 from pbordjadze/claude/refine-screen-line-erasure-k7snxk",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-292/PaintByNumber.ipa",
+      "size": 58977194,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
