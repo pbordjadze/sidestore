@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.333",
+          "buildVersion": "333",
+          "date": "2026-10-12T22:59:23Z",
+          "localizedDescription": "Merge the Marginarium's highlights: notes point at their words, Colophon, goodnight pets",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-333/PaintByNumber.ipa",
+          "size": 77399557,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.329",
           "buildVersion": "329",
           "date": "2026-10-12T19:13:35Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-311/PaintByNumber.ipa",
           "size": 59509704,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.303",
-          "buildVersion": "303",
-          "date": "2026-10-11T22:45:03Z",
-          "localizedDescription": "Merge claude/f30-play-harness",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-303/PaintByNumber.ipa",
-          "size": 59434585,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.329",
-      "versionDate": "2026-10-12T19:13:35Z",
-      "versionDescription": "Merge the Marginarium for newcomers: margins beside the story, Who's Who, Dino",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-329/PaintByNumber.ipa",
-      "size": 76715777,
+      "version": "1.0.333",
+      "versionDate": "2026-10-12T22:59:23Z",
+      "versionDescription": "Merge the Marginarium's highlights: notes point at their words, Colophon, goodnight pets",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-333/PaintByNumber.ipa",
+      "size": 77399557,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
