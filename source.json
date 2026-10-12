@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.329",
+          "buildVersion": "329",
+          "date": "2026-10-12T19:13:35Z",
+          "localizedDescription": "Merge the Marginarium for newcomers: margins beside the story, Who's Who, Dino",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-329/PaintByNumber.ipa",
+          "size": 76715777,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.325",
           "buildVersion": "325",
           "date": "2026-10-12T14:10:12Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-303/PaintByNumber.ipa",
           "size": 59434585,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.294",
-          "buildVersion": "294",
-          "date": "2026-10-11T16:24:45Z",
-          "localizedDescription": "The Marginarium: how the app is made, told in chapters, with Pip",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-294/PaintByNumber.ipa",
-          "size": 59192298,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.325",
-      "versionDate": "2026-10-12T14:10:12Z",
-      "versionDescription": "Marginarium off by default, with a Settings switch; reader readiness fixed",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-325/PaintByNumber.ipa",
-      "size": 76636578,
+      "version": "1.0.329",
+      "versionDate": "2026-10-12T19:13:35Z",
+      "versionDescription": "Merge the Marginarium for newcomers: margins beside the story, Who's Who, Dino",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-329/PaintByNumber.ipa",
+      "size": 76715777,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
