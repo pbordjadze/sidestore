@@ -17,6 +17,24 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.325",
+          "buildVersion": "325",
+          "date": "2026-10-12T14:10:12Z",
+          "localizedDescription": "Marginarium off by default, with a Settings switch; reader readiness fixed",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-325/PaintByNumber.ipa",
+          "size": 76636578,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.322",
+          "buildVersion": "322",
+          "date": "2026-10-12T11:41:10Z",
+          "localizedDescription": "TemplateEditor keeps traced writing marked through edits",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-322/PaintByNumber.ipa",
+          "size": 59733521,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.311",
           "buildVersion": "311",
           "date": "2026-10-12T02:29:43Z",
@@ -42,31 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-294/PaintByNumber.ipa",
           "size": 59192298,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.292",
-          "buildVersion": "292",
-          "date": "2026-10-11T04:05:11Z",
-          "localizedDescription": "Merge pull request #15 from pbordjadze/claude/refine-screen-line-erasure-k7snxk",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-292/PaintByNumber.ipa",
-          "size": 58977194,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.287",
-          "buildVersion": "287",
-          "date": "2026-10-10T17:51:42Z",
-          "localizedDescription": "Merge pull request #14 from pbordjadze/claude/refine-fill",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-287/PaintByNumber.ipa",
-          "size": 58954896,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.311",
-      "versionDate": "2026-10-12T02:29:43Z",
-      "versionDescription": "Merge F31: three flaky UI tests, root-caused",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-311/PaintByNumber.ipa",
-      "size": 59509704,
+      "version": "1.0.325",
+      "versionDate": "2026-10-12T14:10:12Z",
+      "versionDescription": "Marginarium off by default, with a Settings switch; reader readiness fixed",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-325/PaintByNumber.ipa",
+      "size": 76636578,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
