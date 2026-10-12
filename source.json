@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.311",
+          "buildVersion": "311",
+          "date": "2026-10-12T02:29:43Z",
+          "localizedDescription": "Merge F31: three flaky UI tests, root-caused",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-311/PaintByNumber.ipa",
+          "size": 59509704,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.303",
           "buildVersion": "303",
           "date": "2026-10-11T22:45:03Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-287/PaintByNumber.ipa",
           "size": 58954896,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.284",
-          "buildVersion": "284",
-          "date": "2026-10-10T15:10:27Z",
-          "localizedDescription": "Merge pull request #13 from pbordjadze/claude/refine-pen-as-drawn",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-284/PaintByNumber.ipa",
-          "size": 58925718,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.303",
-      "versionDate": "2026-10-11T22:45:03Z",
-      "versionDescription": "Merge claude/f30-play-harness",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-303/PaintByNumber.ipa",
-      "size": 59434585,
+      "version": "1.0.311",
+      "versionDate": "2026-10-12T02:29:43Z",
+      "versionDescription": "Merge F31: three flaky UI tests, root-caused",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-311/PaintByNumber.ipa",
+      "size": 59509704,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
