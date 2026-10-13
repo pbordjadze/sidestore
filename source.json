@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.340",
+          "buildVersion": "340",
+          "date": "2026-10-13T01:58:17Z",
+          "localizedDescription": "Merge the Marginarium's polish: a wash that fills the gaps, bigger pets, Bart",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-340/PaintByNumber.ipa",
+          "size": 77412016,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.333",
           "buildVersion": "333",
           "date": "2026-10-12T22:59:23Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-322/PaintByNumber.ipa",
           "size": 59733521,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.311",
-          "buildVersion": "311",
-          "date": "2026-10-12T02:29:43Z",
-          "localizedDescription": "Merge F31: three flaky UI tests, root-caused",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-311/PaintByNumber.ipa",
-          "size": 59509704,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.333",
-      "versionDate": "2026-10-12T22:59:23Z",
-      "versionDescription": "Merge the Marginarium's highlights: notes point at their words, Colophon, goodnight pets",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-333/PaintByNumber.ipa",
-      "size": 77399557,
+      "version": "1.0.340",
+      "versionDate": "2026-10-13T01:58:17Z",
+      "versionDescription": "Merge the Marginarium's polish: a wash that fills the gaps, bigger pets, Bart",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-340/PaintByNumber.ipa",
+      "size": 77412016,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
