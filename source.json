@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.350",
+          "buildVersion": "350",
+          "date": "2026-10-15T15:25:41Z",
+          "localizedDescription": "Paint by Moonlight v1: steadier saves, polish, a lighter Marginarium",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-350/PaintByNumber.ipa",
+          "size": 77439033,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.340",
           "buildVersion": "340",
           "date": "2026-10-13T01:58:17Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-325/PaintByNumber.ipa",
           "size": 76636578,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.322",
-          "buildVersion": "322",
-          "date": "2026-10-12T11:41:10Z",
-          "localizedDescription": "TemplateEditor keeps traced writing marked through edits",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-322/PaintByNumber.ipa",
-          "size": 59733521,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.340",
-      "versionDate": "2026-10-13T01:58:17Z",
-      "versionDescription": "Merge the Marginarium's polish: a wash that fills the gaps, bigger pets, Bart",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-340/PaintByNumber.ipa",
-      "size": 77412016,
+      "version": "1.0.350",
+      "versionDate": "2026-10-15T15:25:41Z",
+      "versionDescription": "Paint by Moonlight v1: steadier saves, polish, a lighter Marginarium",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-350/PaintByNumber.ipa",
+      "size": 77439033,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
