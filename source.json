@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.355",
+          "buildVersion": "355",
+          "date": "2026-10-15T16:07:57Z",
+          "localizedDescription": "Paint by Moonlight v1: Choose Photo on iPhone, the Marginarium left out for now",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-355/PaintByNumber.ipa",
+          "size": 59318458,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.350",
           "buildVersion": "350",
           "date": "2026-10-15T15:25:41Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-329/PaintByNumber.ipa",
           "size": 76715777,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.325",
-          "buildVersion": "325",
-          "date": "2026-10-12T14:10:12Z",
-          "localizedDescription": "Marginarium off by default, with a Settings switch; reader readiness fixed",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-325/PaintByNumber.ipa",
-          "size": 76636578,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.350",
-      "versionDate": "2026-10-15T15:25:41Z",
-      "versionDescription": "Paint by Moonlight v1: steadier saves, polish, a lighter Marginarium",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-350/PaintByNumber.ipa",
-      "size": 77439033,
+      "version": "1.0.355",
+      "versionDate": "2026-10-15T16:07:57Z",
+      "versionDescription": "Paint by Moonlight v1: Choose Photo on iPhone, the Marginarium left out for now",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-355/PaintByNumber.ipa",
+      "size": 59318458,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
