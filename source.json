@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.362",
+          "buildVersion": "362",
+          "date": "2026-10-15T21:42:45Z",
+          "localizedDescription": "The Marginarium on SideStore, light enough for iPhone; the release still leaves it out",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-362/PaintByNumber.ipa",
+          "size": 77446106,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.355",
           "buildVersion": "355",
           "date": "2026-10-15T16:07:57Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-333/PaintByNumber.ipa",
           "size": 77399557,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.329",
-          "buildVersion": "329",
-          "date": "2026-10-12T19:13:35Z",
-          "localizedDescription": "Merge the Marginarium for newcomers: margins beside the story, Who's Who, Dino",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-329/PaintByNumber.ipa",
-          "size": 76715777,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.355",
-      "versionDate": "2026-10-15T16:07:57Z",
-      "versionDescription": "Paint by Moonlight v1: Choose Photo on iPhone, the Marginarium left out for now",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-355/PaintByNumber.ipa",
-      "size": 59318458,
+      "version": "1.0.362",
+      "versionDate": "2026-10-15T21:42:45Z",
+      "versionDescription": "The Marginarium on SideStore, light enough for iPhone; the release still leaves it out",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-362/PaintByNumber.ipa",
+      "size": 77446106,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
