@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.369",
+          "buildVersion": "369",
+          "date": "2026-10-16T14:40:29Z",
+          "localizedDescription": "Confirmations point at the painting, draft or button that asked",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-369/PaintByNumber.ipa",
+          "size": 77445885,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.365",
           "buildVersion": "365",
           "date": "2026-10-16T00:54:21Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-350/PaintByNumber.ipa",
           "size": 77439033,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.340",
-          "buildVersion": "340",
-          "date": "2026-10-13T01:58:17Z",
-          "localizedDescription": "Merge the Marginarium's polish: a wash that fills the gaps, bigger pets, Bart",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-340/PaintByNumber.ipa",
-          "size": 77412016,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.365",
-      "versionDate": "2026-10-16T00:54:21Z",
-      "versionDescription": "UI tests: the gallery's Settings tap is retried too when lost, and every lost tap leaves the whole screen",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-365/PaintByNumber.ipa",
-      "size": 77446104,
+      "version": "1.0.369",
+      "versionDate": "2026-10-16T14:40:29Z",
+      "versionDescription": "Confirmations point at the painting, draft or button that asked",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-369/PaintByNumber.ipa",
+      "size": 77445885,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
