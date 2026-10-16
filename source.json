@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.379",
+          "buildVersion": "379",
+          "date": "2026-10-16T21:21:37Z",
+          "localizedDescription": "Release 2: the making-of without a crew, feedback sent straight to us, and fixes",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-379/PaintByNumber.ipa",
+          "size": 77759570,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.369",
           "buildVersion": "369",
           "date": "2026-10-16T14:40:29Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-355/PaintByNumber.ipa",
           "size": 59318458,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.350",
-          "buildVersion": "350",
-          "date": "2026-10-15T15:25:41Z",
-          "localizedDescription": "Paint by Moonlight v1: steadier saves, polish, a lighter Marginarium",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-350/PaintByNumber.ipa",
-          "size": 77439033,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.369",
-      "versionDate": "2026-10-16T14:40:29Z",
-      "versionDescription": "Confirmations point at the painting, draft or button that asked",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-369/PaintByNumber.ipa",
-      "size": 77445885,
+      "version": "1.0.379",
+      "versionDate": "2026-10-16T21:21:37Z",
+      "versionDescription": "Release 2: the making-of without a crew, feedback sent straight to us, and fixes",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-379/PaintByNumber.ipa",
+      "size": 77759570,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
