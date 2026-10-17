@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.421",
+          "buildVersion": "421",
+          "date": "2026-10-17T20:53:21Z",
+          "localizedDescription": "Music: Sun, Moon or Auto, a plain list, in the release",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-421/PaintByNumber.ipa",
+          "size": 77904934,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.418",
           "buildVersion": "418",
           "date": "2026-10-17T17:12:32Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-379/PaintByNumber.ipa",
           "size": 77759570,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.369",
-          "buildVersion": "369",
-          "date": "2026-10-16T14:40:29Z",
-          "localizedDescription": "Confirmations point at the painting, draft or button that asked",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-369/PaintByNumber.ipa",
-          "size": 77445885,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.418",
-      "versionDate": "2026-10-17T17:12:32Z",
-      "versionDescription": "Sun and Moon, in SideStore builds only; Madeleine, the Bible School Teacher",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-418/PaintByNumber.ipa",
-      "size": 77903356,
+      "version": "1.0.421",
+      "versionDate": "2026-10-17T20:53:21Z",
+      "versionDescription": "Music: Sun, Moon or Auto, a plain list, in the release",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-421/PaintByNumber.ipa",
+      "size": 77904934,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
