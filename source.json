@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.409",
+          "buildVersion": "409",
+          "date": "2026-10-17T10:23:39Z",
+          "localizedDescription": "UI tests: drag a slider from its thumb, and take Lines to the end [iphone] [ipa]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-409/PaintByNumber.ipa",
+          "size": 77886771,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.398",
           "buildVersion": "398",
           "date": "2026-10-17T04:47:32Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-365/PaintByNumber.ipa",
           "size": 77446104,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.362",
-          "buildVersion": "362",
-          "date": "2026-10-15T21:42:45Z",
-          "localizedDescription": "The Marginarium on SideStore, light enough for iPhone; the release still leaves it out",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-362/PaintByNumber.ipa",
-          "size": 77446106,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.398",
-      "versionDate": "2026-10-17T04:47:32Z",
-      "versionDescription": "Painting: a back chevron instead of an X to return to the gallery",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-398/PaintByNumber.ipa",
-      "size": 77758878,
+      "version": "1.0.409",
+      "versionDate": "2026-10-17T10:23:39Z",
+      "versionDescription": "UI tests: drag a slider from its thumb, and take Lines to the end [iphone] [ipa]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-409/PaintByNumber.ipa",
+      "size": 77886771,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
