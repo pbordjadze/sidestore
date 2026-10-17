@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.418",
+          "buildVersion": "418",
+          "date": "2026-10-17T17:12:32Z",
+          "localizedDescription": "Sun and Moon, in SideStore builds only; Madeleine, the Bible School Teacher",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-418/PaintByNumber.ipa",
+          "size": 77903356,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.409",
           "buildVersion": "409",
           "date": "2026-10-17T10:23:39Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-369/PaintByNumber.ipa",
           "size": 77445885,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.365",
-          "buildVersion": "365",
-          "date": "2026-10-16T00:54:21Z",
-          "localizedDescription": "UI tests: the gallery's Settings tap is retried too when lost, and every lost tap leaves the whole screen",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-365/PaintByNumber.ipa",
-          "size": 77446104,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.409",
-      "versionDate": "2026-10-17T10:23:39Z",
-      "versionDescription": "UI tests: drag a slider from its thumb, and take Lines to the end [iphone] [ipa]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-409/PaintByNumber.ipa",
-      "size": 77886771,
+      "version": "1.0.418",
+      "versionDate": "2026-10-17T17:12:32Z",
+      "versionDescription": "Sun and Moon, in SideStore builds only; Madeleine, the Bible School Teacher",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-418/PaintByNumber.ipa",
+      "size": 77903356,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
