@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.458",
+          "buildVersion": "458",
+          "date": "2026-10-18T17:47:15Z",
+          "localizedDescription": "Merge the page tips: a card on the page, no arrow",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-458/PaintByNumber.ipa",
+          "size": 77988609,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.456",
           "buildVersion": "456",
           "date": "2026-10-18T16:17:49Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-444/PaintByNumber.ipa",
           "size": 77969517,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.440",
-          "buildVersion": "440",
-          "date": "2026-10-18T08:28:03Z",
-          "localizedDescription": "Merge Send Template: send a refined template to someone else",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-440/PaintByNumber.ipa",
-          "size": 77970357,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.456",
-      "versionDate": "2026-10-18T16:17:49Z",
-      "versionDescription": "Merge calmer menus: fewer buttons at once",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-456/PaintByNumber.ipa",
-      "size": 77986904,
+      "version": "1.0.458",
+      "versionDate": "2026-10-18T17:47:15Z",
+      "versionDescription": "Merge the page tips: a card on the page, no arrow",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-458/PaintByNumber.ipa",
+      "size": 77988609,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
