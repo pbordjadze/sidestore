@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.462",
+          "buildVersion": "462",
+          "date": "2026-10-18T20:25:30Z",
+          "localizedDescription": "Merge the retro review: fixes from reviewing everything merged since Release 2",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-462/PaintByNumber.ipa",
+          "size": 77989747,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.458",
           "buildVersion": "458",
           "date": "2026-10-18T17:47:15Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-448/PaintByNumber.ipa",
           "size": 77979189,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.444",
-          "buildVersion": "444",
-          "date": "2026-10-18T10:31:34Z",
-          "localizedDescription": "Merge the Color Splitter: Refine splits a color without a line; the detail brushes and their setting go",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-444/PaintByNumber.ipa",
-          "size": 77969517,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.458",
-      "versionDate": "2026-10-18T17:47:15Z",
-      "versionDescription": "Merge the page tips: a card on the page, no arrow",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-458/PaintByNumber.ipa",
-      "size": 77988609,
+      "version": "1.0.462",
+      "versionDate": "2026-10-18T20:25:30Z",
+      "versionDescription": "Merge the retro review: fixes from reviewing everything merged since Release 2",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-462/PaintByNumber.ipa",
+      "size": 77989747,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
