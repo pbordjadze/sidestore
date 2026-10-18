@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.456",
+          "buildVersion": "456",
+          "date": "2026-10-18T16:17:49Z",
+          "localizedDescription": "Merge calmer menus: fewer buttons at once",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-456/PaintByNumber.ipa",
+          "size": 77986904,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.452",
           "buildVersion": "452",
           "date": "2026-10-18T14:36:04Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-440/PaintByNumber.ipa",
           "size": 77970357,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.436",
-          "buildVersion": "436",
-          "date": "2026-10-18T06:17:47Z",
-          "localizedDescription": "Merge the Give Feedback send flake fix: thanks once the sheet has gone",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-436/PaintByNumber.ipa",
-          "size": 77916586,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.452",
-      "versionDate": "2026-10-18T14:36:04Z",
-      "versionDescription": "Merge the Refine and Settings test flake fixes",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-452/PaintByNumber.ipa",
-      "size": 77979180,
+      "version": "1.0.456",
+      "versionDate": "2026-10-18T16:17:49Z",
+      "versionDescription": "Merge calmer menus: fewer buttons at once",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-456/PaintByNumber.ipa",
+      "size": 77986904,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
