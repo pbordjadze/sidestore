@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.444",
+          "buildVersion": "444",
+          "date": "2026-10-18T10:31:34Z",
+          "localizedDescription": "Merge the Color Splitter: Refine splits a color without a line; the detail brushes and their setting go",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-444/PaintByNumber.ipa",
+          "size": 77969517,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.440",
           "buildVersion": "440",
           "date": "2026-10-18T08:28:03Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-427/PaintByNumber.ipa",
           "size": 77903533,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.425",
-          "buildVersion": "425",
-          "date": "2026-10-17T23:23:48Z",
-          "localizedDescription": "SettingsTests: check the Music rows one at a time",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-425/PaintByNumber.ipa",
-          "size": 77904813,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.440",
-      "versionDate": "2026-10-18T08:28:03Z",
-      "versionDescription": "Merge Send Template: send a refined template to someone else",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-440/PaintByNumber.ipa",
-      "size": 77970357,
+      "version": "1.0.444",
+      "versionDate": "2026-10-18T10:31:34Z",
+      "versionDescription": "Merge the Color Splitter: Refine splits a color without a line; the detail brushes and their setting go",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-444/PaintByNumber.ipa",
+      "size": 77969517,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
