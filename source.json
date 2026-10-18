@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.431",
+          "buildVersion": "431",
+          "date": "2026-10-18T03:11:31Z",
+          "localizedDescription": "Merge Refine: honest \"too small\", drawn shapes take the photo's colors, pbn refine",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-431/PaintByNumber.ipa",
+          "size": 77916661,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.427",
           "buildVersion": "427",
           "date": "2026-10-18T01:07:59Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-418/PaintByNumber.ipa",
           "size": 77903356,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.409",
-          "buildVersion": "409",
-          "date": "2026-10-17T10:23:39Z",
-          "localizedDescription": "UI tests: drag a slider from its thumb, and take Lines to the end [iphone] [ipa]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-409/PaintByNumber.ipa",
-          "size": 77886771,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.427",
-      "versionDate": "2026-10-18T01:07:59Z",
-      "versionDescription": "Merge the Gentle tips check: every tip at its view, the card tips, feedback on a fresh third painting",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-427/PaintByNumber.ipa",
-      "size": 77903533,
+      "version": "1.0.431",
+      "versionDate": "2026-10-18T03:11:31Z",
+      "versionDescription": "Merge Refine: honest \"too small\", drawn shapes take the photo's colors, pbn refine",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-431/PaintByNumber.ipa",
+      "size": 77916661,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
