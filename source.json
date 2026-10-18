@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.452",
+          "buildVersion": "452",
+          "date": "2026-10-18T14:36:04Z",
+          "localizedDescription": "Merge the Refine and Settings test flake fixes",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-452/PaintByNumber.ipa",
+          "size": 77979180,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.448",
           "buildVersion": "448",
           "date": "2026-10-18T12:49:27Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-436/PaintByNumber.ipa",
           "size": 77916586,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.431",
-          "buildVersion": "431",
-          "date": "2026-10-18T03:11:31Z",
-          "localizedDescription": "Merge Refine: honest \"too small\", drawn shapes take the photo's colors, pbn refine",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-431/PaintByNumber.ipa",
-          "size": 77916661,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.448",
-      "versionDate": "2026-10-18T12:49:27Z",
-      "versionDescription": "Merge the quality audit: paintings and drafts kept through passing read errors, two silent failures said, flakes fixed",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-448/PaintByNumber.ipa",
-      "size": 77979189,
+      "version": "1.0.452",
+      "versionDate": "2026-10-18T14:36:04Z",
+      "versionDescription": "Merge the Refine and Settings test flake fixes",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-452/PaintByNumber.ipa",
+      "size": 77979180,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
