@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.448",
+          "buildVersion": "448",
+          "date": "2026-10-18T12:49:27Z",
+          "localizedDescription": "Merge the quality audit: paintings and drafts kept through passing read errors, two silent failures said, flakes fixed",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-448/PaintByNumber.ipa",
+          "size": 77979189,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.444",
           "buildVersion": "444",
           "date": "2026-10-18T10:31:34Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-431/PaintByNumber.ipa",
           "size": 77916661,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.427",
-          "buildVersion": "427",
-          "date": "2026-10-18T01:07:59Z",
-          "localizedDescription": "Merge the Gentle tips check: every tip at its view, the card tips, feedback on a fresh third painting",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-427/PaintByNumber.ipa",
-          "size": 77903533,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.444",
-      "versionDate": "2026-10-18T10:31:34Z",
-      "versionDescription": "Merge the Color Splitter: Refine splits a color without a line; the detail brushes and their setting go",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-444/PaintByNumber.ipa",
-      "size": 77969517,
+      "version": "1.0.448",
+      "versionDate": "2026-10-18T12:49:27Z",
+      "versionDescription": "Merge the quality audit: paintings and drafts kept through passing read errors, two silent failures said, flakes fixed",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-448/PaintByNumber.ipa",
+      "size": 77979189,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
