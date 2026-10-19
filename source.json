@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.500",
+          "buildVersion": "500",
+          "date": "2026-10-19T20:33:42Z",
+          "localizedDescription": "Merge codex-decoder-fuzz-2: a compressed TMPL fixture pins the decompressed-length bound",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-500/PaintByNumber.ipa",
+          "size": 82030273,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.490",
           "buildVersion": "490",
           "date": "2026-10-19T16:25:36Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-479/PaintByNumber.ipa",
           "size": 78066360,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.476",
-          "buildVersion": "476",
-          "date": "2026-10-19T04:55:21Z",
-          "localizedDescription": "Merge the intro animations: night falls at the finish, the empty gallery's sketch paints itself (SideStore only)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-476/PaintByNumber.ipa",
-          "size": 78065515,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.490",
-      "versionDate": "2026-10-19T16:25:36Z",
-      "versionDescription": "Merge Caroline's guardians: Hope, Eno and Maynard, hatched",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-490/PaintByNumber.ipa",
-      "size": 82032415,
+      "version": "1.0.500",
+      "versionDate": "2026-10-19T20:33:42Z",
+      "versionDescription": "Merge codex-decoder-fuzz-2: a compressed TMPL fixture pins the decompressed-length bound",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-500/PaintByNumber.ipa",
+      "size": 82030273,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
