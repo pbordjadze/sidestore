@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.474",
+          "buildVersion": "474",
+          "date": "2026-10-19T03:15:33Z",
+          "localizedDescription": "Merge the toolbar tips: a card under the bar, no arrow",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-474/PaintByNumber.ipa",
+          "size": 78053469,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.470",
           "buildVersion": "470",
           "date": "2026-10-19T00:33:03Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-456/PaintByNumber.ipa",
           "size": 77986904,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.452",
-          "buildVersion": "452",
-          "date": "2026-10-18T14:36:04Z",
-          "localizedDescription": "Merge the Refine and Settings test flake fixes",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-452/PaintByNumber.ipa",
-          "size": 77979180,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.470",
-      "versionDate": "2026-10-19T00:33:03Z",
-      "versionDescription": "Merge claude/ci-tags: ci/train.sh land refuses a train whose tip message has CI's skip tag; CLAUDE.md says commit messages hold CI's tags only to mean them; the compile check's measured time. Review (Opus subagent) found the trailer form uncaught, a pipefail race and inaccurate wording; all fixed.",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-470/PaintByNumber.ipa",
-      "size": 78042122,
+      "version": "1.0.474",
+      "versionDate": "2026-10-19T03:15:33Z",
+      "versionDescription": "Merge the toolbar tips: a card under the bar, no arrow",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-474/PaintByNumber.ipa",
+      "size": 78053469,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
