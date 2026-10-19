@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.502",
+          "buildVersion": "502",
+          "date": "2026-10-19T22:44:52Z",
+          "localizedDescription": "Merge start-handoff-fix: the painting screen no longer re-renders without end",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-502/PaintByNumber.ipa",
+          "size": 82030631,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.500",
           "buildVersion": "500",
           "date": "2026-10-19T20:33:42Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-483/PaintByNumber.ipa",
           "size": 79786328,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.479",
-          "buildVersion": "479",
-          "date": "2026-10-19T07:07:50Z",
-          "localizedDescription": "Merge decoder hostile-input tests",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-479/PaintByNumber.ipa",
-          "size": 78066360,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.500",
-      "versionDate": "2026-10-19T20:33:42Z",
-      "versionDescription": "Merge codex-decoder-fuzz-2: a compressed TMPL fixture pins the decompressed-length bound",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-500/PaintByNumber.ipa",
-      "size": 82030273,
+      "version": "1.0.502",
+      "versionDate": "2026-10-19T22:44:52Z",
+      "versionDescription": "Merge start-handoff-fix: the painting screen no longer re-renders without end",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-502/PaintByNumber.ipa",
+      "size": 82030631,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
