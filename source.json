@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.483",
+          "buildVersion": "483",
+          "date": "2026-10-19T11:26:48Z",
+          "localizedDescription": "Merge Marginarium guardian pets. Fresh read by Codex of the whole diff against main: no findings.",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-483/PaintByNumber.ipa",
+          "size": 79786328,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.479",
           "buildVersion": "479",
           "date": "2026-10-19T07:07:50Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-470/PaintByNumber.ipa",
           "size": 78042122,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.462",
-          "buildVersion": "462",
-          "date": "2026-10-18T20:25:30Z",
-          "localizedDescription": "Merge the retro review: fixes from reviewing everything merged since Release 2",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-462/PaintByNumber.ipa",
-          "size": 77989747,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.479",
-      "versionDate": "2026-10-19T07:07:50Z",
-      "versionDescription": "Merge decoder hostile-input tests",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-479/PaintByNumber.ipa",
-      "size": 78066360,
+      "version": "1.0.483",
+      "versionDate": "2026-10-19T11:26:48Z",
+      "versionDescription": "Merge Marginarium guardian pets. Fresh read by Codex of the whole diff against main: no findings.",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-483/PaintByNumber.ipa",
+      "size": 79786328,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
