@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.479",
+          "buildVersion": "479",
+          "date": "2026-10-19T07:07:50Z",
+          "localizedDescription": "Merge decoder hostile-input tests",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-479/PaintByNumber.ipa",
+          "size": 78066360,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.476",
           "buildVersion": "476",
           "date": "2026-10-19T04:55:21Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-462/PaintByNumber.ipa",
           "size": 77989747,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.458",
-          "buildVersion": "458",
-          "date": "2026-10-18T17:47:15Z",
-          "localizedDescription": "Merge the page tips: a card on the page, no arrow",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-458/PaintByNumber.ipa",
-          "size": 77988609,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.476",
-      "versionDate": "2026-10-19T04:55:21Z",
-      "versionDescription": "Merge the intro animations: night falls at the finish, the empty gallery's sketch paints itself (SideStore only)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-476/PaintByNumber.ipa",
-      "size": 78065515,
+      "version": "1.0.479",
+      "versionDate": "2026-10-19T07:07:50Z",
+      "versionDescription": "Merge decoder hostile-input tests",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-479/PaintByNumber.ipa",
+      "size": 78066360,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
