@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.487",
+          "buildVersion": "487",
+          "date": "2026-10-19T14:45:07Z",
+          "localizedDescription": "Merge pets-oct19: the Hedge Witch, Bulat and Dino redrawn",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-487/PaintByNumber.ipa",
+          "size": 79698035,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.483",
           "buildVersion": "483",
           "date": "2026-10-19T11:26:48Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-474/PaintByNumber.ipa",
           "size": 78053469,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.470",
-          "buildVersion": "470",
-          "date": "2026-10-19T00:33:03Z",
-          "localizedDescription": "Merge claude/ci-tags: ci/train.sh land refuses a train whose tip message has CI's skip tag; CLAUDE.md says commit messages hold CI's tags only to mean them; the compile check's measured time. Review (Opus subagent) found the trailer form uncaught, a pipefail race and inaccurate wording; all fixed.",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-470/PaintByNumber.ipa",
-          "size": 78042122,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.483",
-      "versionDate": "2026-10-19T11:26:48Z",
-      "versionDescription": "Merge Marginarium guardian pets. Fresh read by Codex of the whole diff against main: no findings.",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-483/PaintByNumber.ipa",
-      "size": 79786328,
+      "version": "1.0.487",
+      "versionDate": "2026-10-19T14:45:07Z",
+      "versionDescription": "Merge pets-oct19: the Hedge Witch, Bulat and Dino redrawn",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-487/PaintByNumber.ipa",
+      "size": 79698035,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
