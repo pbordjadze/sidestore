@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.470",
+          "buildVersion": "470",
+          "date": "2026-10-19T00:33:03Z",
+          "localizedDescription": "Merge claude/ci-tags: ci/train.sh land refuses a train whose tip message has CI's skip tag; CLAUDE.md says commit messages hold CI's tags only to mean them; the compile check's measured time. Review (Opus subagent) found the trailer form uncaught, a pipefail race and inaccurate wording; all fixed.",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-470/PaintByNumber.ipa",
+          "size": 78042122,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.462",
           "buildVersion": "462",
           "date": "2026-10-18T20:25:30Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-452/PaintByNumber.ipa",
           "size": 77979180,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.448",
-          "buildVersion": "448",
-          "date": "2026-10-18T12:49:27Z",
-          "localizedDescription": "Merge the quality audit: paintings and drafts kept through passing read errors, two silent failures said, flakes fixed",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-448/PaintByNumber.ipa",
-          "size": 77979189,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.462",
-      "versionDate": "2026-10-18T20:25:30Z",
-      "versionDescription": "Merge the retro review: fixes from reviewing everything merged since Release 2",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-462/PaintByNumber.ipa",
-      "size": 77989747,
+      "version": "1.0.470",
+      "versionDate": "2026-10-19T00:33:03Z",
+      "versionDescription": "Merge claude/ci-tags: ci/train.sh land refuses a train whose tip message has CI's skip tag; CLAUDE.md says commit messages hold CI's tags only to mean them; the compile check's measured time. Review (Opus subagent) found the trailer form uncaught, a pipefail race and inaccurate wording; all fixed.",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-470/PaintByNumber.ipa",
+      "size": 78042122,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
