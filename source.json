@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.512",
+          "buildVersion": "512",
+          "date": "2026-10-20T23:34:32Z",
+          "localizedDescription": "Merge refine-studio: Refine Studio phase 1, behind UNRELEASED",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-512/PaintByNumber.ipa",
+          "size": 82076096,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.505",
           "buildVersion": "505",
           "date": "2026-10-20T04:35:53Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-502/PaintByNumber.ipa",
           "size": 82030631,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.500",
-          "buildVersion": "500",
-          "date": "2026-10-19T20:33:42Z",
-          "localizedDescription": "Merge codex-decoder-fuzz-2: a compressed TMPL fixture pins the decompressed-length bound",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-500/PaintByNumber.ipa",
-          "size": 82030273,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.505",
-      "versionDate": "2026-10-20T04:35:53Z",
-      "versionDescription": "Merge flake-fixes: UI test retries for lost gestures, and the tips log in CI",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-505/PaintByNumber.ipa",
-      "size": 82019315,
+      "version": "1.0.512",
+      "versionDate": "2026-10-20T23:34:32Z",
+      "versionDescription": "Merge refine-studio: Refine Studio phase 1, behind UNRELEASED",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-512/PaintByNumber.ipa",
+      "size": 82076096,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
