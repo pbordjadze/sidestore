@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.504",
+          "buildVersion": "504",
+          "date": "2026-10-20T03:03:33Z",
+          "localizedDescription": "Merge quiet-painting: the top bar fades to Back, ring and Hint once painting starts (UNRELEASED)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-504/PaintByNumber.ipa",
+          "size": 82018950,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.503",
           "buildVersion": "503",
           "date": "2026-10-20T00:42:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-490/PaintByNumber.ipa",
           "size": 82032415,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.487",
-          "buildVersion": "487",
-          "date": "2026-10-19T14:45:07Z",
-          "localizedDescription": "Merge pets-oct19: the Hedge Witch, Bulat and Dino redrawn",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-487/PaintByNumber.ipa",
-          "size": 79698035,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.503",
-      "versionDate": "2026-10-20T00:42:45Z",
-      "versionDescription": "Merge pets-redraws-oct19: the Baba Yaga, George, Madeleine, the Nutcracker and the Robber Girl redrawn",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-503/PaintByNumber.ipa",
-      "size": 82008880,
+      "version": "1.0.504",
+      "versionDate": "2026-10-20T03:03:33Z",
+      "versionDescription": "Merge quiet-painting: the top bar fades to Back, ring and Hint once painting starts (UNRELEASED)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-504/PaintByNumber.ipa",
+      "size": 82018950,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
