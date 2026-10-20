@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.503",
+          "buildVersion": "503",
+          "date": "2026-10-20T00:42:45Z",
+          "localizedDescription": "Merge pets-redraws-oct19: the Baba Yaga, George, Madeleine, the Nutcracker and the Robber Girl redrawn",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-503/PaintByNumber.ipa",
+          "size": 82008880,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.502",
           "buildVersion": "502",
           "date": "2026-10-19T22:44:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-487/PaintByNumber.ipa",
           "size": 79698035,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.483",
-          "buildVersion": "483",
-          "date": "2026-10-19T11:26:48Z",
-          "localizedDescription": "Merge Marginarium guardian pets. Fresh read by Codex of the whole diff against main: no findings.",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-483/PaintByNumber.ipa",
-          "size": 79786328,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.502",
-      "versionDate": "2026-10-19T22:44:52Z",
-      "versionDescription": "Merge start-handoff-fix: the painting screen no longer re-renders without end",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-502/PaintByNumber.ipa",
-      "size": 82030631,
+      "version": "1.0.503",
+      "versionDate": "2026-10-20T00:42:45Z",
+      "versionDescription": "Merge pets-redraws-oct19: the Baba Yaga, George, Madeleine, the Nutcracker and the Robber Girl redrawn",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-503/PaintByNumber.ipa",
+      "size": 82008880,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
