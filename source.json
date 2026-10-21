@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.534",
+          "buildVersion": "534",
+          "date": "2026-10-21T17:39:21Z",
+          "localizedDescription": "Merge qa-explore: exploratory QA, an agent using the app through Maestro's MCP server [skip ci]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-534/PaintByNumber.ipa",
+          "size": 82311186,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.531",
           "buildVersion": "531",
           "date": "2026-10-21T15:13:39Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-505/PaintByNumber.ipa",
           "size": 82019315,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.504",
-          "buildVersion": "504",
-          "date": "2026-10-20T03:03:33Z",
-          "localizedDescription": "Merge quiet-painting: the top bar fades to Back, ring and Hint once painting starts (UNRELEASED)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-504/PaintByNumber.ipa",
-          "size": 82018950,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.531",
-      "versionDate": "2026-10-21T15:13:39Z",
-      "versionDescription": "Merge app-store-candidate: Refine out of the release, the gallery's bar tips atop its pages, plain-data tip modifiers, the palette's first reveal",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-531/PaintByNumber.ipa",
-      "size": 82212311,
+      "version": "1.0.534",
+      "versionDate": "2026-10-21T17:39:21Z",
+      "versionDescription": "Merge qa-explore: exploratory QA, an agent using the app through Maestro's MCP server [skip ci]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-534/PaintByNumber.ipa",
+      "size": 82311186,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
