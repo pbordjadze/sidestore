@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.557",
+          "buildVersion": "557",
+          "date": "2026-10-22T04:01:22Z",
+          "localizedDescription": "Merge monetization: Unlimited Paintings, three free paintings of your own photos and $4.99 to unlock",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-557/PaintByNumber.ipa",
+          "size": 82365499,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.553",
           "buildVersion": "553",
           "date": "2026-10-22T02:05:29Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-531/PaintByNumber.ipa",
           "size": 82212311,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.523",
-          "buildVersion": "523",
-          "date": "2026-10-21T07:39:41Z",
-          "localizedDescription": "Merge refine-toolbox: the Refine Toolbox, all three batches, behind UNRELEASED",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-523/PaintByNumber.ipa",
-          "size": 82208129,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.553",
-      "versionDate": "2026-10-22T02:05:29Z",
-      "versionDescription": "Merge refine-qa-fixes: Refine after its exploratory QA; the Tool Guide on iPhone",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-553/PaintByNumber.ipa",
-      "size": 82319098,
+      "version": "1.0.557",
+      "versionDate": "2026-10-22T04:01:22Z",
+      "versionDescription": "Merge monetization: Unlimited Paintings, three free paintings of your own photos and $4.99 to unlock",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-557/PaintByNumber.ipa",
+      "size": 82365499,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
