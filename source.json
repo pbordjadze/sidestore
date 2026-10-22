@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.559",
+          "buildVersion": "559",
+          "date": "2026-10-22T05:54:15Z",
+          "localizedDescription": "Merge refine-sliders-flake: RefineAfterSlidersTests waits 20 s where CI's iPhone needs it",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-559/PaintByNumber.ipa",
+          "size": 82365500,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.557",
           "buildVersion": "557",
           "date": "2026-10-22T04:01:22Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-534/PaintByNumber.ipa",
           "size": 82311186,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.531",
-          "buildVersion": "531",
-          "date": "2026-10-21T15:13:39Z",
-          "localizedDescription": "Merge app-store-candidate: Refine out of the release, the gallery's bar tips atop its pages, plain-data tip modifiers, the palette's first reveal",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-531/PaintByNumber.ipa",
-          "size": 82212311,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.557",
-      "versionDate": "2026-10-22T04:01:22Z",
-      "versionDescription": "Merge monetization: Unlimited Paintings, three free paintings of your own photos and $4.99 to unlock",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-557/PaintByNumber.ipa",
-      "size": 82365499,
+      "version": "1.0.559",
+      "versionDate": "2026-10-22T05:54:15Z",
+      "versionDescription": "Merge refine-sliders-flake: RefineAfterSlidersTests waits 20 s where CI's iPhone needs it",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-559/PaintByNumber.ipa",
+      "size": 82365500,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
