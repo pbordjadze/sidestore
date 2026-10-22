@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.563",
+          "buildVersion": "563",
+          "date": "2026-10-22T21:05:53Z",
+          "localizedDescription": "Merge guide-lands: the Tool Guide's practice canvas waits for its page to have come in",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-563/PaintByNumber.ipa",
+          "size": 82366839,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.561",
           "buildVersion": "561",
           "date": "2026-10-22T17:37:23Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-553/PaintByNumber.ipa",
           "size": 82319098,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.548",
-          "buildVersion": "548",
-          "date": "2026-10-22T00:06:09Z",
-          "localizedDescription": "Merge app-store-polish: the release candidate's fixes from QA, for the TestFlight upload",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-548/PaintByNumber.ipa",
-          "size": 82315568,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.561",
-      "versionDate": "2026-10-22T17:37:23Z",
-      "versionDescription": "Merge ci-iphone-timeout: iPhone's job may run 160 minutes, and fetch.sh waits 180",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-561/PaintByNumber.ipa",
-      "size": 82365697,
+      "version": "1.0.563",
+      "versionDate": "2026-10-22T21:05:53Z",
+      "versionDescription": "Merge guide-lands: the Tool Guide's practice canvas waits for its page to have come in",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-563/PaintByNumber.ipa",
+      "size": 82366839,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
