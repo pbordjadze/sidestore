@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.561",
+          "buildVersion": "561",
+          "date": "2026-10-22T17:37:23Z",
+          "localizedDescription": "Merge ci-iphone-timeout: iPhone's job may run 160 minutes, and fetch.sh waits 180",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-561/PaintByNumber.ipa",
+          "size": 82365697,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.559",
           "buildVersion": "559",
           "date": "2026-10-22T05:54:15Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-548/PaintByNumber.ipa",
           "size": 82315568,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.534",
-          "buildVersion": "534",
-          "date": "2026-10-21T17:39:21Z",
-          "localizedDescription": "Merge qa-explore: exploratory QA, an agent using the app through Maestro's MCP server [skip ci]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-534/PaintByNumber.ipa",
-          "size": 82311186,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.559",
-      "versionDate": "2026-10-22T05:54:15Z",
-      "versionDescription": "Merge refine-sliders-flake: RefineAfterSlidersTests waits 20 s where CI's iPhone needs it",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-559/PaintByNumber.ipa",
-      "size": 82365500,
+      "version": "1.0.561",
+      "versionDate": "2026-10-22T17:37:23Z",
+      "versionDescription": "Merge ci-iphone-timeout: iPhone's job may run 160 minutes, and fetch.sh waits 180",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-561/PaintByNumber.ipa",
+      "size": 82365697,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
