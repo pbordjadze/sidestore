@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.548",
+          "buildVersion": "548",
+          "date": "2026-10-22T00:06:09Z",
+          "localizedDescription": "Merge app-store-polish: the release candidate's fixes from QA, for the TestFlight upload",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-548/PaintByNumber.ipa",
+          "size": 82315568,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.534",
           "buildVersion": "534",
           "date": "2026-10-21T17:39:21Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-512/PaintByNumber.ipa",
           "size": 82076096,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.505",
-          "buildVersion": "505",
-          "date": "2026-10-20T04:35:53Z",
-          "localizedDescription": "Merge flake-fixes: UI test retries for lost gestures, and the tips log in CI",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-505/PaintByNumber.ipa",
-          "size": 82019315,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.534",
-      "versionDate": "2026-10-21T17:39:21Z",
-      "versionDescription": "Merge qa-explore: exploratory QA, an agent using the app through Maestro's MCP server [skip ci]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-534/PaintByNumber.ipa",
-      "size": 82311186,
+      "version": "1.0.548",
+      "versionDate": "2026-10-22T00:06:09Z",
+      "versionDescription": "Merge app-store-polish: the release candidate's fixes from QA, for the TestFlight upload",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-548/PaintByNumber.ipa",
+      "size": 82315568,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
