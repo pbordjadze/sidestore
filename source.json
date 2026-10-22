@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.553",
+          "buildVersion": "553",
+          "date": "2026-10-22T02:05:29Z",
+          "localizedDescription": "Merge refine-qa-fixes: Refine after its exploratory QA; the Tool Guide on iPhone",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-553/PaintByNumber.ipa",
+          "size": 82319098,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.548",
           "buildVersion": "548",
           "date": "2026-10-22T00:06:09Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-523/PaintByNumber.ipa",
           "size": 82208129,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.512",
-          "buildVersion": "512",
-          "date": "2026-10-20T23:34:32Z",
-          "localizedDescription": "Merge refine-studio: Refine Studio phase 1, behind UNRELEASED",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-512/PaintByNumber.ipa",
-          "size": 82076096,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.548",
-      "versionDate": "2026-10-22T00:06:09Z",
-      "versionDescription": "Merge app-store-polish: the release candidate's fixes from QA, for the TestFlight upload",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-548/PaintByNumber.ipa",
-      "size": 82315568,
+      "version": "1.0.553",
+      "versionDate": "2026-10-22T02:05:29Z",
+      "versionDescription": "Merge refine-qa-fixes: Refine after its exploratory QA; the Tool Guide on iPhone",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-553/PaintByNumber.ipa",
+      "size": 82319098,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
