@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.586",
+          "buildVersion": "586",
+          "date": "2026-10-23T15:04:24Z",
+          "localizedDescription": "Merge claude/retire-splitter-ui (night train morning)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-586/PaintByNumber.ipa",
+          "size": 82356082,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.579",
           "buildVersion": "579",
           "date": "2026-10-23T12:32:32Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-561/PaintByNumber.ipa",
           "size": 82365697,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.559",
-          "buildVersion": "559",
-          "date": "2026-10-22T05:54:15Z",
-          "localizedDescription": "Merge refine-sliders-flake: RefineAfterSlidersTests waits 20 s where CI's iPhone needs it",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-559/PaintByNumber.ipa",
-          "size": 82365500,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.579",
-      "versionDate": "2026-10-23T12:32:32Z",
-      "versionDescription": "Merge claude/paintcore-guards (night train overnight)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-579/PaintByNumber.ipa",
-      "size": 82412956,
+      "version": "1.0.586",
+      "versionDate": "2026-10-23T15:04:24Z",
+      "versionDescription": "Merge claude/retire-splitter-ui (night train morning)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-586/PaintByNumber.ipa",
+      "size": 82356082,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
