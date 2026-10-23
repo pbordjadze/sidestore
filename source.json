@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.589",
+          "buildVersion": "589",
+          "date": "2026-10-23T18:39:28Z",
+          "localizedDescription": "Merge claude/marginarium-out: the Marginarium leaves every build and this repository",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-589/PaintByNumber.ipa",
+          "size": 60237187,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.586",
           "buildVersion": "586",
           "date": "2026-10-23T15:04:24Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-563/PaintByNumber.ipa",
           "size": 82366839,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.561",
-          "buildVersion": "561",
-          "date": "2026-10-22T17:37:23Z",
-          "localizedDescription": "Merge ci-iphone-timeout: iPhone's job may run 160 minutes, and fetch.sh waits 180",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-561/PaintByNumber.ipa",
-          "size": 82365697,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.586",
-      "versionDate": "2026-10-23T15:04:24Z",
-      "versionDescription": "Merge claude/retire-splitter-ui (night train morning)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-586/PaintByNumber.ipa",
-      "size": 82356082,
+      "version": "1.0.589",
+      "versionDate": "2026-10-23T18:39:28Z",
+      "versionDescription": "Merge claude/marginarium-out: the Marginarium leaves every build and this repository",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-589/PaintByNumber.ipa",
+      "size": 60237187,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
