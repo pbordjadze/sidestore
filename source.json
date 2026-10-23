@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.568",
+          "buildVersion": "568",
+          "date": "2026-10-23T04:45:09Z",
+          "localizedDescription": "Merge refine-ambition: Refine for ambitious refiners — Merge's glow, fast cuts, kept drafts",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-568/PaintByNumber.ipa",
+          "size": 82411832,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.563",
           "buildVersion": "563",
           "date": "2026-10-22T21:05:53Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-557/PaintByNumber.ipa",
           "size": 82365499,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.553",
-          "buildVersion": "553",
-          "date": "2026-10-22T02:05:29Z",
-          "localizedDescription": "Merge refine-qa-fixes: Refine after its exploratory QA; the Tool Guide on iPhone",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-553/PaintByNumber.ipa",
-          "size": 82319098,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.563",
-      "versionDate": "2026-10-22T21:05:53Z",
-      "versionDescription": "Merge guide-lands: the Tool Guide's practice canvas waits for its page to have come in",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-563/PaintByNumber.ipa",
-      "size": 82366839,
+      "version": "1.0.568",
+      "versionDate": "2026-10-23T04:45:09Z",
+      "versionDescription": "Merge refine-ambition: Refine for ambitious refiners — Merge's glow, fast cuts, kept drafts",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-568/PaintByNumber.ipa",
+      "size": 82411832,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
