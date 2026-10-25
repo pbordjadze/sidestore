@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.605",
+          "buildVersion": "605",
+          "date": "2026-10-25T04:43:01Z",
+          "localizedDescription": "Merge claude/auto-row-105: the forced-tip demos no longer repeat the tips' counts",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-605/PaintByNumber.ipa",
+          "size": 60243649,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.602",
           "buildVersion": "602",
           "date": "2026-10-25T02:58:17Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-586/PaintByNumber.ipa",
           "size": 82356082,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.579",
-          "buildVersion": "579",
-          "date": "2026-10-23T12:32:32Z",
-          "localizedDescription": "Merge claude/paintcore-guards (night train overnight)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-579/PaintByNumber.ipa",
-          "size": 82412956,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.602",
-      "versionDate": "2026-10-25T02:58:17Z",
-      "versionDescription": "Merge claude/auto-row-88: a failed draft save is kept, said and retried",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-602/PaintByNumber.ipa",
-      "size": 60244419,
+      "version": "1.0.605",
+      "versionDate": "2026-10-25T04:43:01Z",
+      "versionDescription": "Merge claude/auto-row-105: the forced-tip demos no longer repeat the tips' counts",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-605/PaintByNumber.ipa",
+      "size": 60243649,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
