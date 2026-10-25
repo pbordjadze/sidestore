@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.620",
+          "buildVersion": "620",
+          "date": "2026-10-25T13:07:19Z",
+          "localizedDescription": "Merge claude/auto-row-96: the canvas's shader constants packed in one place",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-620/PaintByNumber.ipa",
+          "size": 60250202,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.619",
           "buildVersion": "619",
           "date": "2026-10-25T11:18:49Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-609/PaintByNumber.ipa",
           "size": 60244298,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.605",
-          "buildVersion": "605",
-          "date": "2026-10-25T04:43:01Z",
-          "localizedDescription": "Merge claude/auto-row-105: the forced-tip demos no longer repeat the tips' counts",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-605/PaintByNumber.ipa",
-          "size": 60243649,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.619",
-      "versionDate": "2026-10-25T11:18:49Z",
-      "versionDescription": "Merge claude/auto-row-103: Vision runs the subject requests once per photo",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-619/PaintByNumber.ipa",
-      "size": 60250093,
+      "version": "1.0.620",
+      "versionDate": "2026-10-25T13:07:19Z",
+      "versionDescription": "Merge claude/auto-row-96: the canvas's shader constants packed in one place",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-620/PaintByNumber.ipa",
+      "size": 60250202,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
