@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.610",
+          "buildVersion": "610",
+          "date": "2026-10-25T07:52:25Z",
+          "localizedDescription": "Merge claude/auto-row-112: Browse All taps once more when no sheet shows",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-610/PaintByNumber.ipa",
+          "size": 60244215,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.609",
           "buildVersion": "609",
           "date": "2026-10-25T06:21:42Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-598/PaintByNumber.ipa",
           "size": 60238042,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.589",
-          "buildVersion": "589",
-          "date": "2026-10-23T18:39:28Z",
-          "localizedDescription": "Merge claude/marginarium-out: the Marginarium leaves every build and this repository",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-589/PaintByNumber.ipa",
-          "size": 60237187,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.609",
-      "versionDate": "2026-10-25T06:21:42Z",
-      "versionDescription": "Merge claude/auto-row-95: settings defaults in one place, every key pinned",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-609/PaintByNumber.ipa",
-      "size": 60244298,
+      "version": "1.0.610",
+      "versionDate": "2026-10-25T07:52:25Z",
+      "versionDescription": "Merge claude/auto-row-112: Browse All taps once more when no sheet shows",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-610/PaintByNumber.ipa",
+      "size": 60244215,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
