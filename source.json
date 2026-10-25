@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.602",
+          "buildVersion": "602",
+          "date": "2026-10-25T02:58:17Z",
+          "localizedDescription": "Merge claude/auto-row-88: a failed draft save is kept, said and retried",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-602/PaintByNumber.ipa",
+          "size": 60244419,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.598",
           "buildVersion": "598",
           "date": "2026-10-25T01:02:30Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-579/PaintByNumber.ipa",
           "size": 82412956,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.568",
-          "buildVersion": "568",
-          "date": "2026-10-23T04:45:09Z",
-          "localizedDescription": "Merge refine-ambition: Refine for ambitious refiners — Merge's glow, fast cuts, kept drafts",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-568/PaintByNumber.ipa",
-          "size": 82411832,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.598",
-      "versionDate": "2026-10-25T01:02:30Z",
-      "versionDescription": "Merge claude/auto-row-94: line art made in code is a coloring book; a shared painting's META never goes out empty",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-598/PaintByNumber.ipa",
-      "size": 60238042,
+      "version": "1.0.602",
+      "versionDate": "2026-10-25T02:58:17Z",
+      "versionDescription": "Merge claude/auto-row-88: a failed draft save is kept, said and retried",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-602/PaintByNumber.ipa",
+      "size": 60244419,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
