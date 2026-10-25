@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.613",
+          "buildVersion": "613",
+          "date": "2026-10-25T09:36:45Z",
+          "localizedDescription": "Merge claude/auto-row-104: unit tests that wait on the work, not the clock",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-613/PaintByNumber.ipa",
+          "size": 60243330,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.610",
           "buildVersion": "610",
           "date": "2026-10-25T07:52:25Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-602/PaintByNumber.ipa",
           "size": 60244419,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.598",
-          "buildVersion": "598",
-          "date": "2026-10-25T01:02:30Z",
-          "localizedDescription": "Merge claude/auto-row-94: line art made in code is a coloring book; a shared painting's META never goes out empty",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-598/PaintByNumber.ipa",
-          "size": 60238042,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.610",
-      "versionDate": "2026-10-25T07:52:25Z",
-      "versionDescription": "Merge claude/auto-row-112: Browse All taps once more when no sheet shows",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-610/PaintByNumber.ipa",
-      "size": 60244215,
+      "version": "1.0.613",
+      "versionDate": "2026-10-25T09:36:45Z",
+      "versionDescription": "Merge claude/auto-row-104: unit tests that wait on the work, not the clock",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-613/PaintByNumber.ipa",
+      "size": 60243330,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
