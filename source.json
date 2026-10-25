@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.621",
+          "buildVersion": "621",
+          "date": "2026-10-25T14:41:59Z",
+          "localizedDescription": "Merge claude/auto-row-107: check_release from the sources, the pinned Xcode's simulators, Xcode named once",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-621/PaintByNumber.ipa",
+          "size": 60251346,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.620",
           "buildVersion": "620",
           "date": "2026-10-25T13:07:19Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-610/PaintByNumber.ipa",
           "size": 60244215,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.609",
-          "buildVersion": "609",
-          "date": "2026-10-25T06:21:42Z",
-          "localizedDescription": "Merge claude/auto-row-95: settings defaults in one place, every key pinned",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-609/PaintByNumber.ipa",
-          "size": 60244298,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.620",
-      "versionDate": "2026-10-25T13:07:19Z",
-      "versionDescription": "Merge claude/auto-row-96: the canvas's shader constants packed in one place",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-620/PaintByNumber.ipa",
-      "size": 60250202,
+      "version": "1.0.621",
+      "versionDate": "2026-10-25T14:41:59Z",
+      "versionDescription": "Merge claude/auto-row-107: check_release from the sources, the pinned Xcode's simulators, Xcode named once",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-621/PaintByNumber.ipa",
+      "size": 60251346,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
