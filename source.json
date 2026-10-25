@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.619",
+          "buildVersion": "619",
+          "date": "2026-10-25T11:18:49Z",
+          "localizedDescription": "Merge claude/auto-row-103: Vision runs the subject requests once per photo",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-619/PaintByNumber.ipa",
+          "size": 60250093,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.613",
           "buildVersion": "613",
           "date": "2026-10-25T09:36:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-605/PaintByNumber.ipa",
           "size": 60243649,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.602",
-          "buildVersion": "602",
-          "date": "2026-10-25T02:58:17Z",
-          "localizedDescription": "Merge claude/auto-row-88: a failed draft save is kept, said and retried",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-602/PaintByNumber.ipa",
-          "size": 60244419,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.613",
-      "versionDate": "2026-10-25T09:36:45Z",
-      "versionDescription": "Merge claude/auto-row-104: unit tests that wait on the work, not the clock",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-613/PaintByNumber.ipa",
-      "size": 60243330,
+      "version": "1.0.619",
+      "versionDate": "2026-10-25T11:18:49Z",
+      "versionDescription": "Merge claude/auto-row-103: Vision runs the subject requests once per photo",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-619/PaintByNumber.ipa",
+      "size": 60250093,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
