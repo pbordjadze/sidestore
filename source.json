@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.598",
+          "buildVersion": "598",
+          "date": "2026-10-25T01:02:30Z",
+          "localizedDescription": "Merge claude/auto-row-94: line art made in code is a coloring book; a shared painting's META never goes out empty",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-598/PaintByNumber.ipa",
+          "size": 60238042,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.589",
           "buildVersion": "589",
           "date": "2026-10-23T18:39:28Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-568/PaintByNumber.ipa",
           "size": 82411832,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.563",
-          "buildVersion": "563",
-          "date": "2026-10-22T21:05:53Z",
-          "localizedDescription": "Merge guide-lands: the Tool Guide's practice canvas waits for its page to have come in",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-563/PaintByNumber.ipa",
-          "size": 82366839,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.589",
-      "versionDate": "2026-10-23T18:39:28Z",
-      "versionDescription": "Merge claude/marginarium-out: the Marginarium leaves every build and this repository",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-589/PaintByNumber.ipa",
-      "size": 60237187,
+      "version": "1.0.598",
+      "versionDate": "2026-10-25T01:02:30Z",
+      "versionDescription": "Merge claude/auto-row-94: line art made in code is a coloring book; a shared painting's META never goes out empty",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-598/PaintByNumber.ipa",
+      "size": 60238042,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
