@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.645",
+          "buildVersion": "645",
+          "date": "2026-10-28T11:01:52Z",
+          "localizedDescription": "Merge claude/refine-phase2: Refine made familiar to people coming from Procreate (phase 2 of painting-company row 143)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-645/PaintByNumber.ipa",
+          "size": 60356991,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.638",
           "buildVersion": "638",
           "date": "2026-10-27T03:11:47Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-620/PaintByNumber.ipa",
           "size": 60250202,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.619",
-          "buildVersion": "619",
-          "date": "2026-10-25T11:18:49Z",
-          "localizedDescription": "Merge claude/auto-row-103: Vision runs the subject requests once per photo",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-619/PaintByNumber.ipa",
-          "size": 60250093,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.638",
-      "versionDate": "2026-10-27T03:11:47Z",
-      "versionDescription": "Merge claude/refine-phase1: Refine made sound before it ships (phase 1 of painting-company row 143)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-638/PaintByNumber.ipa",
-      "size": 60284865,
+      "version": "1.0.645",
+      "versionDate": "2026-10-28T11:01:52Z",
+      "versionDescription": "Merge claude/refine-phase2: Refine made familiar to people coming from Procreate (phase 2 of painting-company row 143)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-645/PaintByNumber.ipa",
+      "size": 60356991,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
