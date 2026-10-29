@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.654",
+          "buildVersion": "654",
+          "date": "2026-10-29T06:16:35Z",
+          "localizedDescription": "Merge claude/fast-ci-checks: run only the UI tests a branch names (painting-company row 169)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-654/PaintByNumber.ipa",
+          "size": 60388244,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.652",
           "buildVersion": "652",
           "date": "2026-10-29T02:35:04Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-629/PaintByNumber.ipa",
           "size": 60276083,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.621",
-          "buildVersion": "621",
-          "date": "2026-10-25T14:41:59Z",
-          "localizedDescription": "Merge claude/auto-row-107: check_release from the sources, the pinned Xcode's simulators, Xcode named once",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-621/PaintByNumber.ipa",
-          "size": 60251346,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.652",
-      "versionDate": "2026-10-29T02:35:04Z",
-      "versionDescription": "Merge claude/refine-phase3: Refine proven (phase 3 of painting-company row 143)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-652/PaintByNumber.ipa",
-      "size": 60388902,
+      "version": "1.0.654",
+      "versionDate": "2026-10-29T06:16:35Z",
+      "versionDescription": "Merge claude/fast-ci-checks: run only the UI tests a branch names (painting-company row 169)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-654/PaintByNumber.ipa",
+      "size": 60388244,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
