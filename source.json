@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.657",
+          "buildVersion": "657",
+          "date": "2026-10-29T09:02:02Z",
+          "localizedDescription": "Merge claude/refine-audit-2: Refine's Snap, Smoothing and Tool Guide after the unbriefed audit (painting-company row 175)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-657/PaintByNumber.ipa",
+          "size": 60393105,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.654",
           "buildVersion": "654",
           "date": "2026-10-29T06:16:35Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-638/PaintByNumber.ipa",
           "size": 60284865,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.629",
-          "buildVersion": "629",
-          "date": "2026-10-26T09:59:02Z",
-          "localizedDescription": "Merge claude/start-handoff-smooth: Start Painting into the painting in one move, then still (painting-company row 142)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-629/PaintByNumber.ipa",
-          "size": 60276083,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.654",
-      "versionDate": "2026-10-29T06:16:35Z",
-      "versionDescription": "Merge claude/fast-ci-checks: run only the UI tests a branch names (painting-company row 169)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-654/PaintByNumber.ipa",
-      "size": 60388244,
+      "version": "1.0.657",
+      "versionDate": "2026-10-29T09:02:02Z",
+      "versionDescription": "Merge claude/refine-audit-2: Refine's Snap, Smoothing and Tool Guide after the unbriefed audit (painting-company row 175)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-657/PaintByNumber.ipa",
+      "size": 60393105,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
