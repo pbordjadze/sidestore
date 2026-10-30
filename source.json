@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.667",
+          "buildVersion": "667",
+          "date": "2026-10-30T23:53:13Z",
+          "localizedDescription": "Merge claude/start-from-a-drawing: Start from a Drawing (painting-company row 190)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-667/PaintByNumber.ipa",
+          "size": 60469507,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.657",
           "buildVersion": "657",
           "date": "2026-10-29T09:02:02Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-645/PaintByNumber.ipa",
           "size": 60356991,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.638",
-          "buildVersion": "638",
-          "date": "2026-10-27T03:11:47Z",
-          "localizedDescription": "Merge claude/refine-phase1: Refine made sound before it ships (phase 1 of painting-company row 143)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-638/PaintByNumber.ipa",
-          "size": 60284865,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.657",
-      "versionDate": "2026-10-29T09:02:02Z",
-      "versionDescription": "Merge claude/refine-audit-2: Refine's Snap, Smoothing and Tool Guide after the unbriefed audit (painting-company row 175)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-657/PaintByNumber.ipa",
-      "size": 60393105,
+      "version": "1.0.667",
+      "versionDate": "2026-10-30T23:53:13Z",
+      "versionDescription": "Merge claude/start-from-a-drawing: Start from a Drawing (painting-company row 190)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-667/PaintByNumber.ipa",
+      "size": 60469507,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
