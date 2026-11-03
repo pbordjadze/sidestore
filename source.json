@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.674",
+          "buildVersion": "674",
+          "date": "2026-11-03T07:18:44Z",
+          "localizedDescription": "Merge claude/kit-paint: kit paint, a loosened subject and Auto's finished taste, in SideStore builds (painting-company row 191)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-674/PaintByNumber.ipa",
+          "size": 60481776,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.667",
           "buildVersion": "667",
           "date": "2026-10-30T23:53:13Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-652/PaintByNumber.ipa",
           "size": 60388902,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.645",
-          "buildVersion": "645",
-          "date": "2026-10-28T11:01:52Z",
-          "localizedDescription": "Merge claude/refine-phase2: Refine made familiar to people coming from Procreate (phase 2 of painting-company row 143)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-645/PaintByNumber.ipa",
-          "size": 60356991,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.667",
-      "versionDate": "2026-10-30T23:53:13Z",
-      "versionDescription": "Merge claude/start-from-a-drawing: Start from a Drawing (painting-company row 190)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-667/PaintByNumber.ipa",
-      "size": 60469507,
+      "version": "1.0.674",
+      "versionDate": "2026-11-03T07:18:44Z",
+      "versionDescription": "Merge claude/kit-paint: kit paint, a loosened subject and Auto's finished taste, in SideStore builds (painting-company row 191)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-674/PaintByNumber.ipa",
+      "size": 60481776,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
