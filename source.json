@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.679",
+          "buildVersion": "679",
+          "date": "2026-11-03T10:20:58Z",
+          "localizedDescription": "Merge claude/refine-from-scratch: shapes a newcomer draws in Refine close (painting-company row 205)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-679/PaintByNumber.ipa",
+          "size": 60486442,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.674",
           "buildVersion": "674",
           "date": "2026-11-03T07:18:44Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-654/PaintByNumber.ipa",
           "size": 60388244,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.652",
-          "buildVersion": "652",
-          "date": "2026-10-29T02:35:04Z",
-          "localizedDescription": "Merge claude/refine-phase3: Refine proven (phase 3 of painting-company row 143)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-652/PaintByNumber.ipa",
-          "size": 60388902,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.674",
-      "versionDate": "2026-11-03T07:18:44Z",
-      "versionDescription": "Merge claude/kit-paint: kit paint, a loosened subject and Auto's finished taste, in SideStore builds (painting-company row 191)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-674/PaintByNumber.ipa",
-      "size": 60481776,
+      "version": "1.0.679",
+      "versionDate": "2026-11-03T10:20:58Z",
+      "versionDescription": "Merge claude/refine-from-scratch: shapes a newcomer draws in Refine close (painting-company row 205)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-679/PaintByNumber.ipa",
+      "size": 60486442,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
