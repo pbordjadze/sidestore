@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.683",
+          "buildVersion": "683",
+          "date": "2026-11-03T14:53:24Z",
+          "localizedDescription": "Merge claude/refine-from-scratch-2: Round 1's two refusals of a newcomer's lines (painting-company row 205)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-683/PaintByNumber.ipa",
+          "size": 60489921,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.681",
           "buildVersion": "681",
           "date": "2026-11-03T12:44:34Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-667/PaintByNumber.ipa",
           "size": 60469507,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.657",
-          "buildVersion": "657",
-          "date": "2026-10-29T09:02:02Z",
-          "localizedDescription": "Merge claude/refine-audit-2: Refine's Snap, Smoothing and Tool Guide after the unbriefed audit (painting-company row 175)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-657/PaintByNumber.ipa",
-          "size": 60393105,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.681",
-      "versionDate": "2026-11-03T12:44:34Z",
-      "versionDescription": "Merge claude/kit-paint-r5: a pale face painted as a kit paints fair skin, a large face in broad tones (painting-company row 191)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-681/PaintByNumber.ipa",
-      "size": 60486788,
+      "version": "1.0.683",
+      "versionDate": "2026-11-03T14:53:24Z",
+      "versionDescription": "Merge claude/refine-from-scratch-2: Round 1's two refusals of a newcomer's lines (painting-company row 205)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-683/PaintByNumber.ipa",
+      "size": 60489921,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
