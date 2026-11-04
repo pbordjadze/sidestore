@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.702",
+          "buildVersion": "702",
+          "date": "2026-11-04T21:14:47Z",
+          "localizedDescription": "Merge claude/iphone-duo: Paint by Moonlight on the iPhone Duo, and CI on Xcode 27.1 (painting-company row 212)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-702/PaintByNumber.ipa",
+          "size": 60451082,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.683",
           "buildVersion": "683",
           "date": "2026-11-03T14:53:24Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-674/PaintByNumber.ipa",
           "size": 60481776,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.667",
-          "buildVersion": "667",
-          "date": "2026-10-30T23:53:13Z",
-          "localizedDescription": "Merge claude/start-from-a-drawing: Start from a Drawing (painting-company row 190)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-667/PaintByNumber.ipa",
-          "size": 60469507,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.683",
-      "versionDate": "2026-11-03T14:53:24Z",
-      "versionDescription": "Merge claude/refine-from-scratch-2: Round 1's two refusals of a newcomer's lines (painting-company row 205)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-683/PaintByNumber.ipa",
-      "size": 60489921,
+      "version": "1.0.702",
+      "versionDate": "2026-11-04T21:14:47Z",
+      "versionDescription": "Merge claude/iphone-duo: Paint by Moonlight on the iPhone Duo, and CI on Xcode 27.1 (painting-company row 212)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-702/PaintByNumber.ipa",
+      "size": 60451082,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
