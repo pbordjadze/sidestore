@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.715",
+          "buildVersion": "715",
+          "date": "2026-11-05T01:29:40Z",
+          "localizedDescription": "Merge claude/compare-render: the comparison's render test survives iOS 27's blank first render (painting-company row 212)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-715/PaintByNumber.ipa",
+          "size": 60451080,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.702",
           "buildVersion": "702",
           "date": "2026-11-04T21:14:47Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-679/PaintByNumber.ipa",
           "size": 60486442,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.674",
-          "buildVersion": "674",
-          "date": "2026-11-03T07:18:44Z",
-          "localizedDescription": "Merge claude/kit-paint: kit paint, a loosened subject and Auto's finished taste, in SideStore builds (painting-company row 191)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-674/PaintByNumber.ipa",
-          "size": 60481776,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.702",
-      "versionDate": "2026-11-04T21:14:47Z",
-      "versionDescription": "Merge claude/iphone-duo: Paint by Moonlight on the iPhone Duo, and CI on Xcode 27.1 (painting-company row 212)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-702/PaintByNumber.ipa",
-      "size": 60451082,
+      "version": "1.0.715",
+      "versionDate": "2026-11-05T01:29:40Z",
+      "versionDescription": "Merge claude/compare-render: the comparison's render test survives iOS 27's blank first render (painting-company row 212)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-715/PaintByNumber.ipa",
+      "size": 60451080,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
