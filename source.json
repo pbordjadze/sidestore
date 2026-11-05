@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.755",
+          "buildVersion": "755",
+          "date": "2026-11-05T22:34:44Z",
+          "localizedDescription": "Merge claude/ravenna-door: Ravenna inside Paint by Moonlight, behind a secret door (painting-company row 234)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-755/PaintByNumber.ipa",
+          "size": 66066575,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.719",
           "buildVersion": "719",
           "date": "2026-11-05T05:48:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-702/PaintByNumber.ipa",
           "size": 60451082,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.683",
-          "buildVersion": "683",
-          "date": "2026-11-03T14:53:24Z",
-          "localizedDescription": "Merge claude/refine-from-scratch-2: Round 1's two refusals of a newcomer's lines (painting-company row 205)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-683/PaintByNumber.ipa",
-          "size": 60489921,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.719",
-      "versionDate": "2026-11-05T05:48:52Z",
-      "versionDescription": "Merge claude/from-scratch: From Scratch on the New Painting screen (painting-company row 231)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-719/PaintByNumber.ipa",
-      "size": 60460948,
+      "version": "1.0.755",
+      "versionDate": "2026-11-05T22:34:44Z",
+      "versionDescription": "Merge claude/ravenna-door: Ravenna inside Paint by Moonlight, behind a secret door (painting-company row 234)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-755/PaintByNumber.ipa",
+      "size": 66066575,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
