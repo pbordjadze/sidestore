@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.717",
+          "buildVersion": "717",
+          "date": "2026-11-05T03:34:09Z",
+          "localizedDescription": "Merge claude/tool-guide-rewrite: Refine's Tool Guide rewritten as prose, one page per tool (painting-company row 230)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-717/PaintByNumber.ipa",
+          "size": 60454560,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.715",
           "buildVersion": "715",
           "date": "2026-11-05T01:29:40Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-681/PaintByNumber.ipa",
           "size": 60486788,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.679",
-          "buildVersion": "679",
-          "date": "2026-11-03T10:20:58Z",
-          "localizedDescription": "Merge claude/refine-from-scratch: shapes a newcomer draws in Refine close (painting-company row 205)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-679/PaintByNumber.ipa",
-          "size": 60486442,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.715",
-      "versionDate": "2026-11-05T01:29:40Z",
-      "versionDescription": "Merge claude/compare-render: the comparison's render test survives iOS 27's blank first render (painting-company row 212)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-715/PaintByNumber.ipa",
-      "size": 60451080,
+      "version": "1.0.717",
+      "versionDate": "2026-11-05T03:34:09Z",
+      "versionDescription": "Merge claude/tool-guide-rewrite: Refine's Tool Guide rewritten as prose, one page per tool (painting-company row 230)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-717/PaintByNumber.ipa",
+      "size": 60454560,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
