@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.762",
+          "buildVersion": "762",
+          "date": "2026-11-06T01:52:10Z",
+          "localizedDescription": "Merge claude/refine-finish: Refine finished for 1.1 (painting-company row 235)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-762/PaintByNumber.ipa",
+          "size": 66096629,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.755",
           "buildVersion": "755",
           "date": "2026-11-05T22:34:44Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-715/PaintByNumber.ipa",
           "size": 60451080,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.702",
-          "buildVersion": "702",
-          "date": "2026-11-04T21:14:47Z",
-          "localizedDescription": "Merge claude/iphone-duo: Paint by Moonlight on the iPhone Duo, and CI on Xcode 27.1 (painting-company row 212)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-702/PaintByNumber.ipa",
-          "size": 60451082,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.755",
-      "versionDate": "2026-11-05T22:34:44Z",
-      "versionDescription": "Merge claude/ravenna-door: Ravenna inside Paint by Moonlight, behind a secret door (painting-company row 234)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-755/PaintByNumber.ipa",
-      "size": 66066575,
+      "version": "1.0.762",
+      "versionDate": "2026-11-06T01:52:10Z",
+      "versionDescription": "Merge claude/refine-finish: Refine finished for 1.1 (painting-company row 235)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-762/PaintByNumber.ipa",
+      "size": 66096629,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
