@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.772",
+          "buildVersion": "772",
+          "date": "2026-11-06T07:35:10Z",
+          "localizedDescription": "Merge claude/ravenna-year: the secret door is a Year row with a one-wheel setter (painting-company row 234)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-772/PaintByNumber.ipa",
+          "size": 66096990,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.762",
           "buildVersion": "762",
           "date": "2026-11-06T01:52:10Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-717/PaintByNumber.ipa",
           "size": 60454560,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.715",
-          "buildVersion": "715",
-          "date": "2026-11-05T01:29:40Z",
-          "localizedDescription": "Merge claude/compare-render: the comparison's render test survives iOS 27's blank first render (painting-company row 212)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-715/PaintByNumber.ipa",
-          "size": 60451080,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.762",
-      "versionDate": "2026-11-06T01:52:10Z",
-      "versionDescription": "Merge claude/refine-finish: Refine finished for 1.1 (painting-company row 235)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-762/PaintByNumber.ipa",
-      "size": 66096629,
+      "version": "1.0.772",
+      "versionDate": "2026-11-06T07:35:10Z",
+      "versionDescription": "Merge claude/ravenna-year: the secret door is a Year row with a one-wheel setter (painting-company row 234)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-772/PaintByNumber.ipa",
+      "size": 66096990,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
