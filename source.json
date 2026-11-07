@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.792",
+          "buildVersion": "792",
+          "date": "2026-11-07T20:55:27Z",
+          "localizedDescription": "Merge claude/receive-once again (night train polish3): a constant artwork for the write [compile]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-792/PaintByNumber.ipa",
+          "size": 66142342,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.785",
           "buildVersion": "785",
           "date": "2026-11-07T17:54:55Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-772/PaintByNumber.ipa",
           "size": 66096990,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.762",
-          "buildVersion": "762",
-          "date": "2026-11-06T01:52:10Z",
-          "localizedDescription": "Merge claude/refine-finish: Refine finished for 1.1 (painting-company row 235)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-762/PaintByNumber.ipa",
-          "size": 66096629,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.785",
-      "versionDate": "2026-11-07T17:54:55Z",
-      "versionDescription": "Train polish2 leaves Refine's Layers panel as it is on main (painting-company row 263)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-785/PaintByNumber.ipa",
-      "size": 66113940,
+      "version": "1.0.792",
+      "versionDate": "2026-11-07T20:55:27Z",
+      "versionDescription": "Merge claude/receive-once again (night train polish3): a constant artwork for the write [compile]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-792/PaintByNumber.ipa",
+      "size": 66142342,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
