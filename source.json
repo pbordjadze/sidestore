@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.803",
+          "buildVersion": "803",
+          "date": "2026-11-08T03:37:05Z",
+          "localizedDescription": "Train polish4 again: the Layers anchor without its cycle, no first-frame (painting-company row 263) [compile]",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-803/PaintByNumber.ipa",
+          "size": 66155452,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.792",
           "buildVersion": "792",
           "date": "2026-11-07T20:55:27Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-774/PaintByNumber.ipa",
           "size": 66096988,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.772",
-          "buildVersion": "772",
-          "date": "2026-11-06T07:35:10Z",
-          "localizedDescription": "Merge claude/ravenna-year: the secret door is a Year row with a one-wheel setter (painting-company row 234)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-772/PaintByNumber.ipa",
-          "size": 66096990,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.792",
-      "versionDate": "2026-11-07T20:55:27Z",
-      "versionDescription": "Merge claude/receive-once again (night train polish3): a constant artwork for the write [compile]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-792/PaintByNumber.ipa",
-      "size": 66142342,
+      "version": "1.0.803",
+      "versionDate": "2026-11-08T03:37:05Z",
+      "versionDescription": "Train polish4 again: the Layers anchor without its cycle, no first-frame (painting-company row 263) [compile]",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-803/PaintByNumber.ipa",
+      "size": 66155452,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
