@@ -72,6 +72,9 @@ and adds the build to `apps/<app-id>.json` on `main`, keeping the five newest bu
     python3 scripts/publish_build.py --app-id myapp --version 1.2.3 --build 57 \
         --ipa MyApp.ipa --manifest myapp.manifest.json --notes "what changed" --icon icon.png
 
+The Mac's CI passes `--version 1.0.$BUILD`, the release notes, and a manifest with
+`"minOSVersion": "26.0"`. Re-running the same build with the same inputs changes nothing.
+
 `--icon` (a PNG, becomes `icons/<app-id>.png`) is needed the first time and optional after.
 `--build` must equal the IPA's `CFBundleVersion`, and the IPA's `CFBundleIdentifier` must be the
 bundle id `sources.json` allows; privacy usage descriptions are read from its Info.plist.

@@ -159,8 +159,11 @@ def attempt(args, meta, ipa_info, work):
     if not IPA_NAME.match(ipa_name):
         die(f"bad ipaName {ipa_name!r}")
     ipa_file = f"{ipa_name}-{args.build}.ipa"
+    # No --date: an identical re-run keeps the date already published, so it changes nothing.
+    again = next((v for v in entry.get("versions", []) if str(v.get("buildVersion")) == args.build), {})
+    date = args.date or again.get("date") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     new = {"version": args.version, "buildVersion": args.build,
-           "date": args.date, "localizedDescription": args.notes or f"Build {args.build}",
+           "date": date, "localizedDescription": args.notes or f"Build {args.build}",
            "downloadURL": f"{RAW}/builds/{args.app_id}/{ipa_file}",
            "size": os.path.getsize(args.ipa), "minOSVersion": min_os}
     entry["versions"] = make_versions(entry.get("versions", []), new, args.build)
@@ -258,6 +261,10 @@ def main():
                    help=f"default {DEFAULT_PUSH}, or --remote if that was given")
     args = p.parse_args()
 
+    # git runs in a temp dir, so every path must survive a change of directory
+    args.ipa = os.path.abspath(args.ipa)
+    args.icon = os.path.abspath(args.icon) if args.icon else None
+    args.manifest = os.path.abspath(args.manifest) if args.manifest else None
     if not APP_ID.match(args.app_id):
         die("app id must be lowercase letters, digits and dashes")
     if not VERSION.match(args.version):
@@ -270,8 +277,7 @@ def main():
     if args.icon:
         if not os.path.isfile(args.icon) or open(args.icon, "rb").read(8) != b"\x89PNG\r\n\x1a\n":
             die("--icon must be a PNG file")
-    args.date = args.date or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    if not re.fullmatch(r"\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ", args.date):
+    if args.date and not re.fullmatch(r"\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ", args.date):
         die("--date must look like 2026-11-08T16:42:20Z")
     push_remote = args.push_remote or (args.remote if args.remote != DEFAULT_FETCH else DEFAULT_PUSH)
 

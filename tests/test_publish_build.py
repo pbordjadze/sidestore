@@ -8,6 +8,7 @@ import plistlib
 import subprocess
 import sys
 import tempfile
+import time
 import threading
 import unittest
 import zipfile
@@ -111,6 +112,28 @@ class Publish(Base):
         before = run(self.remote, "git", "rev-parse", "main").stdout
         self.publish(*a)
         self.assertEqual(before, run(self.remote, "git", "rev-parse", "main").stdout)
+
+    def test_rerun_without_date_is_noop(self):
+        a = self.args("alpha", 1, notes="same")
+        self.publish(*a)
+        main, builds = (run(self.remote, "git", "rev-parse", r).stdout for r in ("main", "builds"))
+        time.sleep(1.1)  # a "now" date would differ by now
+        self.publish(*a)
+        self.assertEqual(main, run(self.remote, "git", "rev-parse", "main").stdout)
+        self.assertEqual(builds, run(self.remote, "git", "rev-parse", "builds").stdout)
+
+    def test_relative_paths(self):
+        a = self.args("alpha", 1)
+        for flag in ("--ipa", "--icon", "--manifest"):
+            i = a.index(flag) + 1
+            a[i] = os.path.relpath(a[i], self.dir)
+        r = subprocess.run([sys.executable, SCRIPT, *a], cwd=self.dir, capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("alpha/Alpha-1.ipa", self.builds_files())
+
+    def test_repo_ignores_bytecode(self):
+        self.assertEqual(run(ROOT, "git", "ls-files", "*.pyc", "*__pycache__*").stdout, "")
+        self.assertIn("__pycache__", open(os.path.join(ROOT, ".gitignore")).read())
 
     def test_other_apps_untouched(self):
         self.publish(*self.args("alpha", 1))
