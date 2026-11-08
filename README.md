@@ -42,3 +42,47 @@ hosted elsewhere.
   can download it and write `apps/<name>.json`. Treasurr does it from the seedbox
   with a deploy key (its `ci/relay_sidestore.py`): IPAs live on the `builds`
   branch, one force-pushed commit with the newest five builds.
+
+## Adding a private app
+
+`scripts/publish_build.py` is what a private app's CI runs after a green build on its
+default branch. It puts the IPA on the `builds` branch (`<app-id>/<IpaName>-<build>.ipa`)
+and adds the build to `apps/<app-id>.json` on `main`, keeping the five newest builds.
+
+**One-time, by hand** (the script never does this, so a stolen deploy key can't add an app):
+
+1. Add the app to `sources.json`:
+   `{"local": "apps/<app-id>.json", "bundleIdentifiers": ["com.pbordjadze.<name>"]}`.
+   `<app-id>` is lowercase letters, digits and dashes.
+2. Write a manifest next to the app's CI (the parts that don't change per build):
+
+       {"name": "MyApp", "bundleIdentifier": "com.pbordjadze.myapp", "subtitle": "…",
+        "localizedDescription": "…", "tintColor": "#7B3F7E", "category": "utilities",
+        "minOSVersion": "18.0"}
+
+   Allowed keys: `name`, `bundleIdentifier`, `developerName`, `subtitle`, `localizedDescription`,
+   `tintColor`, `category`, `minOSVersion`, `ipaName`. No URLs: they're generated.
+3. Give the CI a deploy key for this repo (write access, this repo only; the key stays on the
+   Mac, never in a repo) and point git at it, e.g.
+   `GIT_SSH_COMMAND='ssh -i ~/.ssh/sidestore_deploy -o IdentitiesOnly=yes'`.
+
+**Every build:**
+
+    git clone https://github.com/pbordjadze/sidestore.git && cd sidestore
+    python3 scripts/publish_build.py --app-id myapp --version 1.2.3 --build 57 \
+        --ipa MyApp.ipa --manifest myapp.manifest.json --notes "what changed" --icon icon.png
+
+`--icon` (a PNG, becomes `icons/<app-id>.png`) is needed the first time and optional after.
+`--build` must equal the IPA's `CFBundleVersion`, and the IPA's `CFBundleIdentifier` must be the
+bundle id `sources.json` allows; privacy usage descriptions are read from its Info.plist.
+Release notes are public, so don't put anything private in `--notes`. Fetches use the public
+https URL and pushes use `git@github.com:pbordjadze/sidestore.git` (override with `--remote` /
+`--push-remote`, or `SIDESTORE_FETCH_URL` / `SIDESTORE_PUSH_URL`).
+
+Several apps can publish at once. `main` is only ever fast-forwarded, and `builds` is pushed
+with `--force-with-lease` against the commit that run read; if either push loses a race, the
+script fetches again and redoes it (8 attempts). It only touches its own app's entry, icon and
+`builds` directory. Every entry it writes goes through `build_source.py`'s own checks (bundle id
+allow-list, every URL on `pbordjadze`'s GitHub).
+
+Tests (a local bare repo stands in for GitHub): `python3 -m unittest discover -s tests`.
