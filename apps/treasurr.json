@@ -9,6 +9,15 @@
   "category": "utilities",
   "versions": [
     {
+      "version": "0.1.56",
+      "buildVersion": "56",
+      "date": "2026-11-08T16:42:20Z",
+      "localizedDescription": "CLAUDE.md: CI runs on Paul's MacBook",
+      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-56.ipa",
+      "size": 3058465,
+      "minOSVersion": "18.0"
+    },
+    {
       "version": "0.1.52",
       "buildVersion": "52",
       "date": "2026-10-10T17:22:35Z",
@@ -43,22 +52,13 @@
       "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-45.ipa",
       "size": 2827399,
       "minOSVersion": "18.0"
-    },
-    {
-      "version": "0.1.40",
-      "buildVersion": "40",
-      "date": "2026-10-06T19:13:23Z",
-      "localizedDescription": "Paul's TV: Home shows a short request list",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-40.ipa",
-      "size": 2724343,
-      "minOSVersion": "18.0"
     }
   ],
-  "version": "0.1.52",
-  "versionDate": "2026-10-10T17:22:35Z",
-  "versionDescription": "CI: build only main, pull requests and ci/<name> branches",
-  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
-  "size": 3012674,
+  "version": "0.1.56",
+  "versionDate": "2026-11-08T16:42:20Z",
+  "versionDescription": "CLAUDE.md: CI runs on Paul's MacBook",
+  "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-56.ipa",
+  "size": 3058465,
   "appPermissions": {
     "entitlements": [],
     "privacy": {
