@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.56",
+  "CFBundleVersion": "56",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "CLAUDE.md: CI runs on Paul's MacBook",
+  "commit": "00759e20367f4e3e9abd402760d795c7f728e4e9",
+  "date": "2026-11-08T16:42:20Z"
+}

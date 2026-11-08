@@ -1,0 +1,14 @@
+{
+  "CFBundleIdentifier": "com.pbordjadze.treasurr",
+  "CFBundleDisplayName": "Treasurr",
+  "CFBundleShortVersionString": "0.1.49",
+  "CFBundleVersion": "49",
+  "MinimumOSVersion": "18.0",
+  "privacy": {
+    "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
+    "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
+  },
+  "notes": "Watch while recording: the remote in Live TV (A26)",
+  "commit": "17bd9bae0dfa2781c5c4c5818fb74bf5e66c6a34",
+  "date": "2026-10-07T02:53:56Z"
+}
