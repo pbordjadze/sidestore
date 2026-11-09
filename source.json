@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.838",
+          "buildVersion": "838",
+          "date": "2026-11-09T14:27:39Z",
+          "localizedDescription": "Merge claude/remake-keeps-edits: Refine's re-makes keep the painter's paints and edits (painting-company row 278)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-838/PaintByNumber.ipa",
+          "size": 66247194,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.824",
           "buildVersion": "824",
           "date": "2026-11-08T12:51:11Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-792/PaintByNumber.ipa",
           "size": 66142342,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.785",
-          "buildVersion": "785",
-          "date": "2026-11-07T17:54:55Z",
-          "localizedDescription": "Train polish2 leaves Refine's Layers panel as it is on main (painting-company row 263)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-785/PaintByNumber.ipa",
-          "size": 66113940,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.824",
-      "versionDate": "2026-11-08T12:51:11Z",
-      "versionDescription": "Train polish6 again: the palette takes its taps (painting-company row 263) [test PaintingNavigationTests AccessibilityUITests PlayTests GentleTipsUITests PaintingTipsTests]",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-824/PaintByNumber.ipa",
-      "size": 66184195,
+      "version": "1.0.838",
+      "versionDate": "2026-11-09T14:27:39Z",
+      "versionDescription": "Merge claude/remake-keeps-edits: Refine's re-makes keep the painter's paints and edits (painting-company row 278)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-838/PaintByNumber.ipa",
+      "size": 66247194,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
