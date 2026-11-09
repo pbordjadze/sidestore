@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.846",
+          "buildVersion": "846",
+          "date": "2026-11-09T22:00:11Z",
+          "localizedDescription": "Merge claude/pbm-11-fixes: Bend Line bends the line you see; Ravenna's shares show their file (painting-company rows 277, 274, 226)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-846/PaintByNumber.ipa",
+          "size": 66271872,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.838",
           "buildVersion": "838",
           "date": "2026-11-09T14:27:39Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-803/PaintByNumber.ipa",
           "size": 66155452,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.792",
-          "buildVersion": "792",
-          "date": "2026-11-07T20:55:27Z",
-          "localizedDescription": "Merge claude/receive-once again (night train polish3): a constant artwork for the write [compile]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-792/PaintByNumber.ipa",
-          "size": 66142342,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.838",
-      "versionDate": "2026-11-09T14:27:39Z",
-      "versionDescription": "Merge claude/remake-keeps-edits: Refine's re-makes keep the painter's paints and edits (painting-company row 278)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-838/PaintByNumber.ipa",
-      "size": 66247194,
+      "version": "1.0.846",
+      "versionDate": "2026-11-09T22:00:11Z",
+      "versionDescription": "Merge claude/pbm-11-fixes: Bend Line bends the line you see; Ravenna's shares show their file (painting-company rows 277, 274, 226)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-846/PaintByNumber.ipa",
+      "size": 66271872,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
