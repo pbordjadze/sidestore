@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.865",
+          "buildVersion": "865",
+          "date": "2026-11-10T12:30:54Z",
+          "localizedDescription": "Merge claude/paint-by-mosaic: Ravenna is Paint by Mosaic to the painter; the Year value tinted (painting-company row 281)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-865/PaintByNumber.ipa",
+          "size": 66311220,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.863",
           "buildVersion": "863",
           "date": "2026-11-10T10:36:40Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-824/PaintByNumber.ipa",
           "size": 66184195,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.807",
-          "buildVersion": "807",
-          "date": "2026-11-08T06:33:14Z",
-          "localizedDescription": "Train polish5 (painting-company row 263) [test RefineUITests DynamicTypeUITests/testRefineBadgeAndPenOptions GentleTipsUITests PaintingTipsTests]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-807/PaintByNumber.ipa",
-          "size": 66176545,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.863",
-      "versionDate": "2026-11-10T10:36:40Z",
-      "versionDescription": "Merge claude/refine-landscape-land: Refine on a phone on its side, the tools beside the picture (painting-company row 276)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-863/PaintByNumber.ipa",
-      "size": 66310140,
+      "version": "1.0.865",
+      "versionDate": "2026-11-10T12:30:54Z",
+      "versionDescription": "Merge claude/paint-by-mosaic: Ravenna is Paint by Mosaic to the painter; the Year value tinted (painting-company row 281)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-865/PaintByNumber.ipa",
+      "size": 66311220,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
