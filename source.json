@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.870",
+          "buildVersion": "870",
+          "date": "2026-11-10T19:24:25Z",
+          "localizedDescription": "Merge claude/pbm-11-sweep-fixes: the Mac critic's sweep (items 1-4), Paint Now (row 239) and 1.1's small fixes",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-870/PaintByNumber.ipa",
+          "size": 66389648,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.865",
           "buildVersion": "865",
           "date": "2026-11-10T12:30:54Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-838/PaintByNumber.ipa",
           "size": 66247194,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.824",
-          "buildVersion": "824",
-          "date": "2026-11-08T12:51:11Z",
-          "localizedDescription": "Train polish6 again: the palette takes its taps (painting-company row 263) [test PaintingNavigationTests AccessibilityUITests PlayTests GentleTipsUITests PaintingTipsTests]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-824/PaintByNumber.ipa",
-          "size": 66184195,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.865",
-      "versionDate": "2026-11-10T12:30:54Z",
-      "versionDescription": "Merge claude/paint-by-mosaic: Ravenna is Paint by Mosaic to the painter; the Year value tinted (painting-company row 281)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-865/PaintByNumber.ipa",
-      "size": 66311220,
+      "version": "1.0.870",
+      "versionDate": "2026-11-10T19:24:25Z",
+      "versionDescription": "Merge claude/pbm-11-sweep-fixes: the Mac critic's sweep (items 1-4), Paint Now (row 239) and 1.1's small fixes",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-870/PaintByNumber.ipa",
+      "size": 66389648,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
