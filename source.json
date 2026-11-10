@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.863",
+          "buildVersion": "863",
+          "date": "2026-11-10T10:36:40Z",
+          "localizedDescription": "Merge claude/refine-landscape-land: Refine on a phone on its side, the tools beside the picture (painting-company row 276)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-863/PaintByNumber.ipa",
+          "size": 66310140,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.846",
           "buildVersion": "846",
           "date": "2026-11-09T22:00:11Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-807/PaintByNumber.ipa",
           "size": 66176545,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.803",
-          "buildVersion": "803",
-          "date": "2026-11-08T03:37:05Z",
-          "localizedDescription": "Train polish4 again: the Layers anchor without its cycle, no first-frame (painting-company row 263) [compile]",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-803/PaintByNumber.ipa",
-          "size": 66155452,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.846",
-      "versionDate": "2026-11-09T22:00:11Z",
-      "versionDescription": "Merge claude/pbm-11-fixes: Bend Line bends the line you see; Ravenna's shares show their file (painting-company rows 277, 274, 226)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-846/PaintByNumber.ipa",
-      "size": 66271872,
+      "version": "1.0.863",
+      "versionDate": "2026-11-10T10:36:40Z",
+      "versionDescription": "Merge claude/refine-landscape-land: Refine on a phone on its side, the tools beside the picture (painting-company row 276)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-863/PaintByNumber.ipa",
+      "size": 66310140,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
