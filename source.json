@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.884",
+          "buildVersion": "884",
+          "date": "2026-11-11T16:09:11Z",
+          "localizedDescription": "Merge claude/about-contact: Settings › About gains Privacy Policy and Contact; PRIVACY.md's retention (painting-company row 310)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-884/PaintByNumber.ipa",
+          "size": 66390805,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.870",
           "buildVersion": "870",
           "date": "2026-11-10T19:24:25Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-846/PaintByNumber.ipa",
           "size": 66271872,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.838",
-          "buildVersion": "838",
-          "date": "2026-11-09T14:27:39Z",
-          "localizedDescription": "Merge claude/remake-keeps-edits: Refine's re-makes keep the painter's paints and edits (painting-company row 278)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-838/PaintByNumber.ipa",
-          "size": 66247194,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.870",
-      "versionDate": "2026-11-10T19:24:25Z",
-      "versionDescription": "Merge claude/pbm-11-sweep-fixes: the Mac critic's sweep (items 1-4), Paint Now (row 239) and 1.1's small fixes",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-870/PaintByNumber.ipa",
-      "size": 66389648,
+      "version": "1.0.884",
+      "versionDate": "2026-11-11T16:09:11Z",
+      "versionDescription": "Merge claude/about-contact: Settings › About gains Privacy Policy and Contact; PRIVACY.md's retention (painting-company row 310)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-884/PaintByNumber.ipa",
+      "size": 66390805,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
