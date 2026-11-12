@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.890",
+          "buildVersion": "890",
+          "date": "2026-11-12T13:26:12Z",
+          "localizedDescription": "Merge claude/pbm-1.1-candidate: 1.1 as on TestFlight 17.1, with the making-of freeze fix (painting-company rows 236, 320)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-890/PaintByNumber.ipa",
+          "size": 66402703,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.884",
           "buildVersion": "884",
           "date": "2026-11-11T16:09:11Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-863/PaintByNumber.ipa",
           "size": 66310140,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.846",
-          "buildVersion": "846",
-          "date": "2026-11-09T22:00:11Z",
-          "localizedDescription": "Merge claude/pbm-11-fixes: Bend Line bends the line you see; Ravenna's shares show their file (painting-company rows 277, 274, 226)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-846/PaintByNumber.ipa",
-          "size": 66271872,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.884",
-      "versionDate": "2026-11-11T16:09:11Z",
-      "versionDescription": "Merge claude/about-contact: Settings › About gains Privacy Policy and Contact; PRIVACY.md's retention (painting-company row 310)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-884/PaintByNumber.ipa",
-      "size": 66390805,
+      "version": "1.0.890",
+      "versionDate": "2026-11-12T13:26:12Z",
+      "versionDescription": "Merge claude/pbm-1.1-candidate: 1.1 as on TestFlight 17.1, with the making-of freeze fix (painting-company rows 236, 320)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-890/PaintByNumber.ipa",
+      "size": 66402703,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
