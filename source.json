@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.927",
+          "buildVersion": "927",
+          "date": "2026-11-13T21:41:48Z",
+          "localizedDescription": "Merge claude/project-thread-8wig4r: the gallery's Tonight's Picture, the Tool Guide's practice first, the top-of-page audit back, and fetch.sh waiting for a run's own report (painting-company rows 302, 303, 316, 317)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-927/PaintByNumber.ipa",
+          "size": 66413463,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.922",
           "buildVersion": "922",
           "date": "2026-11-13T17:39:53Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-901/PaintByNumber.ipa",
           "size": 66398702,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.894",
-          "buildVersion": "894",
-          "date": "2026-11-13T02:42:08Z",
-          "localizedDescription": "Merge claude/hide-drawing-tile: hide A Drawing on Paper (painting-company row 190)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-894/PaintByNumber.ipa",
-          "size": 66398983,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.922",
-      "versionDate": "2026-11-13T17:39:53Z",
-      "versionDescription": "Merge claude/project-thread-80oj5a: an Eraser rub laid again on a remade picture follows its line (painting-company row 322)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-922/PaintByNumber.ipa",
-      "size": 66401417,
+      "version": "1.0.927",
+      "versionDate": "2026-11-13T21:41:48Z",
+      "versionDescription": "Merge claude/project-thread-8wig4r: the gallery's Tonight's Picture, the Tool Guide's practice first, the top-of-page audit back, and fetch.sh waiting for a run's own report (painting-company rows 302, 303, 316, 317)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-927/PaintByNumber.ipa",
+      "size": 66413463,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
