@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.933",
+          "buildVersion": "933",
+          "date": "2026-11-13T23:18:57Z",
+          "localizedDescription": "Merge claude/project-thread-ubilen: Fable 292 Step 1, a faster coloring book and Start Painting (painting-company row 292)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-933/PaintByNumber.ipa",
+          "size": 66456447,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.927",
           "buildVersion": "927",
           "date": "2026-11-13T21:41:48Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-912/PaintByNumber.ipa",
           "size": 66390747,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.901",
-          "buildVersion": "901",
-          "date": "2026-11-13T06:30:25Z",
-          "localizedDescription": "Merge claude/project-thread-8wig4r: the length chip's chosen row shows its time (painting-company row 305)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-901/PaintByNumber.ipa",
-          "size": 66398702,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.927",
-      "versionDate": "2026-11-13T21:41:48Z",
-      "versionDescription": "Merge claude/project-thread-8wig4r: the gallery's Tonight's Picture, the Tool Guide's practice first, the top-of-page audit back, and fetch.sh waiting for a run's own report (painting-company rows 302, 303, 316, 317)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-927/PaintByNumber.ipa",
-      "size": 66413463,
+      "version": "1.0.933",
+      "versionDate": "2026-11-13T23:18:57Z",
+      "versionDescription": "Merge claude/project-thread-ubilen: Fable 292 Step 1, a faster coloring book and Start Painting (painting-company row 292)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-933/PaintByNumber.ipa",
+      "size": 66456447,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
