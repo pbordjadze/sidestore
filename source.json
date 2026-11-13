@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.915",
+          "buildVersion": "915",
+          "date": "2026-11-13T14:30:41Z",
+          "localizedDescription": "Merge claude/project-thread-9cwdgx: lively paint, kit paint's hues spread, in SideStore builds (painting-company row 326)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-915/PaintByNumber.ipa",
+          "size": 66396261,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.912",
           "buildVersion": "912",
           "date": "2026-11-13T10:59:40Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-892/PaintByNumber.ipa",
           "size": 66402696,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.890",
-          "buildVersion": "890",
-          "date": "2026-11-12T13:26:12Z",
-          "localizedDescription": "Merge claude/pbm-1.1-candidate: 1.1 as on TestFlight 17.1, with the making-of freeze fix (painting-company rows 236, 320)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-890/PaintByNumber.ipa",
-          "size": 66402703,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.912",
-      "versionDate": "2026-11-13T10:59:40Z",
-      "versionDescription": "Merge claude/project-thread-du8lcn: 1.1's store slides tooling, What's New, and a release workflow (painting-company rows 318, 236)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-912/PaintByNumber.ipa",
-      "size": 66390747,
+      "version": "1.0.915",
+      "versionDate": "2026-11-13T14:30:41Z",
+      "versionDescription": "Merge claude/project-thread-9cwdgx: lively paint, kit paint's hues spread, in SideStore builds (painting-company row 326)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-915/PaintByNumber.ipa",
+      "size": 66396261,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
