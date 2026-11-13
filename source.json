@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.894",
+          "buildVersion": "894",
+          "date": "2026-11-13T02:42:08Z",
+          "localizedDescription": "Merge claude/hide-drawing-tile: hide A Drawing on Paper (painting-company row 190)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-894/PaintByNumber.ipa",
+          "size": 66398983,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.892",
           "buildVersion": "892",
           "date": "2026-11-12T19:40:04Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-870/PaintByNumber.ipa",
           "size": 66389648,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.865",
-          "buildVersion": "865",
-          "date": "2026-11-10T12:30:54Z",
-          "localizedDescription": "Merge claude/paint-by-mosaic: Ravenna is Paint by Mosaic to the painter; the Year value tinted (painting-company row 281)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-865/PaintByNumber.ipa",
-          "size": 66311220,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.892",
-      "versionDate": "2026-11-12T19:40:04Z",
-      "versionDescription": "Merge claude/dynamic-type-own-tiles: allow the audit's false flags on Your Own's tiles",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-892/PaintByNumber.ipa",
-      "size": 66402696,
+      "version": "1.0.894",
+      "versionDate": "2026-11-13T02:42:08Z",
+      "versionDescription": "Merge claude/hide-drawing-tile: hide A Drawing on Paper (painting-company row 190)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-894/PaintByNumber.ipa",
+      "size": 66398983,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
