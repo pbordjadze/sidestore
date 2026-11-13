@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.912",
+          "buildVersion": "912",
+          "date": "2026-11-13T10:59:40Z",
+          "localizedDescription": "Merge claude/project-thread-du8lcn: 1.1's store slides tooling, What's New, and a release workflow (painting-company rows 318, 236)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-912/PaintByNumber.ipa",
+          "size": 66390747,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.901",
           "buildVersion": "901",
           "date": "2026-11-13T06:30:25Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-890/PaintByNumber.ipa",
           "size": 66402703,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.884",
-          "buildVersion": "884",
-          "date": "2026-11-11T16:09:11Z",
-          "localizedDescription": "Merge claude/about-contact: Settings › About gains Privacy Policy and Contact; PRIVACY.md's retention (painting-company row 310)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-884/PaintByNumber.ipa",
-          "size": 66390805,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.901",
-      "versionDate": "2026-11-13T06:30:25Z",
-      "versionDescription": "Merge claude/project-thread-8wig4r: the length chip's chosen row shows its time (painting-company row 305)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-901/PaintByNumber.ipa",
-      "size": 66398702,
+      "version": "1.0.912",
+      "versionDate": "2026-11-13T10:59:40Z",
+      "versionDescription": "Merge claude/project-thread-du8lcn: 1.1's store slides tooling, What's New, and a release workflow (painting-company rows 318, 236)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-912/PaintByNumber.ipa",
+      "size": 66390747,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
