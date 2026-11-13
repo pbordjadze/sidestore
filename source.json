@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.922",
+          "buildVersion": "922",
+          "date": "2026-11-13T17:39:53Z",
+          "localizedDescription": "Merge claude/project-thread-80oj5a: an Eraser rub laid again on a remade picture follows its line (painting-company row 322)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-922/PaintByNumber.ipa",
+          "size": 66401417,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.915",
           "buildVersion": "915",
           "date": "2026-11-13T14:30:41Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-894/PaintByNumber.ipa",
           "size": 66398983,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.892",
-          "buildVersion": "892",
-          "date": "2026-11-12T19:40:04Z",
-          "localizedDescription": "Merge claude/dynamic-type-own-tiles: allow the audit's false flags on Your Own's tiles",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-892/PaintByNumber.ipa",
-          "size": 66402696,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.915",
-      "versionDate": "2026-11-13T14:30:41Z",
-      "versionDescription": "Merge claude/project-thread-9cwdgx: lively paint, kit paint's hues spread, in SideStore builds (painting-company row 326)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-915/PaintByNumber.ipa",
-      "size": 66396261,
+      "version": "1.0.922",
+      "versionDate": "2026-11-13T17:39:53Z",
+      "versionDescription": "Merge claude/project-thread-80oj5a: an Eraser rub laid again on a remade picture follows its line (painting-company row 322)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-922/PaintByNumber.ipa",
+      "size": 66401417,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
