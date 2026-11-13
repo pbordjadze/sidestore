@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.901",
+          "buildVersion": "901",
+          "date": "2026-11-13T06:30:25Z",
+          "localizedDescription": "Merge claude/project-thread-8wig4r: the length chip's chosen row shows its time (painting-company row 305)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-901/PaintByNumber.ipa",
+          "size": 66398702,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.894",
           "buildVersion": "894",
           "date": "2026-11-13T02:42:08Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-884/PaintByNumber.ipa",
           "size": 66390805,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.870",
-          "buildVersion": "870",
-          "date": "2026-11-10T19:24:25Z",
-          "localizedDescription": "Merge claude/pbm-11-sweep-fixes: the Mac critic's sweep (items 1-4), Paint Now (row 239) and 1.1's small fixes",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-870/PaintByNumber.ipa",
-          "size": 66389648,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.894",
-      "versionDate": "2026-11-13T02:42:08Z",
-      "versionDescription": "Merge claude/hide-drawing-tile: hide A Drawing on Paper (painting-company row 190)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-894/PaintByNumber.ipa",
-      "size": 66398983,
+      "version": "1.0.901",
+      "versionDate": "2026-11-13T06:30:25Z",
+      "versionDescription": "Merge claude/project-thread-8wig4r: the length chip's chosen row shows its time (painting-company row 305)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-901/PaintByNumber.ipa",
+      "size": 66398702,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
