@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.952",
+          "buildVersion": "952",
+          "date": "2026-11-14T10:07:29Z",
+          "localizedDescription": "Merge claude/project-thread-8wig4r: the critics' polish of the gallery shelf and the Tool Guide, and a unit-tests lane for the test tag (painting-company rows 288, 316, 317)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-952/PaintByNumber.ipa",
+          "size": 66473619,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.942",
           "buildVersion": "942",
           "date": "2026-11-14T05:45:05Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-927/PaintByNumber.ipa",
           "size": 66413463,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.922",
-          "buildVersion": "922",
-          "date": "2026-11-13T17:39:53Z",
-          "localizedDescription": "Merge claude/project-thread-80oj5a: an Eraser rub laid again on a remade picture follows its line (painting-company row 322)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-922/PaintByNumber.ipa",
-          "size": 66401417,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.942",
-      "versionDate": "2026-11-14T05:45:05Z",
-      "versionDescription": "Merge claude/project-thread-80oj5a: error words in a red that reads at AA (painting-company row 266)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-942/PaintByNumber.ipa",
-      "size": 66461053,
+      "version": "1.0.952",
+      "versionDate": "2026-11-14T10:07:29Z",
+      "versionDescription": "Merge claude/project-thread-8wig4r: the critics' polish of the gallery shelf and the Tool Guide, and a unit-tests lane for the test tag (painting-company rows 288, 316, 317)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-952/PaintByNumber.ipa",
+      "size": 66473619,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
