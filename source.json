@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.941",
+          "buildVersion": "941",
+          "date": "2026-11-14T02:47:49Z",
+          "localizedDescription": "Merge claude/project-thread-odafwk: the App Store listing for the next version, and a rating prompt after a finished painting (painting-company rows 340, 341)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-941/PaintByNumber.ipa",
+          "size": 66461019,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.933",
           "buildVersion": "933",
           "date": "2026-11-13T23:18:57Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-915/PaintByNumber.ipa",
           "size": 66396261,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.912",
-          "buildVersion": "912",
-          "date": "2026-11-13T10:59:40Z",
-          "localizedDescription": "Merge claude/project-thread-du8lcn: 1.1's store slides tooling, What's New, and a release workflow (painting-company rows 318, 236)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-912/PaintByNumber.ipa",
-          "size": 66390747,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.933",
-      "versionDate": "2026-11-13T23:18:57Z",
-      "versionDescription": "Merge claude/project-thread-ubilen: Fable 292 Step 1, a faster coloring book and Start Painting (painting-company row 292)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-933/PaintByNumber.ipa",
-      "size": 66456447,
+      "version": "1.0.941",
+      "versionDate": "2026-11-14T02:47:49Z",
+      "versionDescription": "Merge claude/project-thread-odafwk: the App Store listing for the next version, and a rating prompt after a finished painting (painting-company rows 340, 341)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-941/PaintByNumber.ipa",
+      "size": 66461019,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
