@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.967",
+          "buildVersion": "967",
+          "date": "2026-11-14T13:51:17Z",
+          "localizedDescription": "Merge claude/project-thread-pp61z9: Paint by Mosaic and the app compile one copy of what they share, App/Shared (painting-company row 336)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-967/PaintByNumber.ipa",
+          "size": 66480695,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.963",
           "buildVersion": "963",
           "date": "2026-11-14T12:27:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-941/PaintByNumber.ipa",
           "size": 66461019,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.933",
-          "buildVersion": "933",
-          "date": "2026-11-13T23:18:57Z",
-          "localizedDescription": "Merge claude/project-thread-ubilen: Fable 292 Step 1, a faster coloring book and Start Painting (painting-company row 292)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-933/PaintByNumber.ipa",
-          "size": 66456447,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.963",
-      "versionDate": "2026-11-14T12:27:45Z",
-      "versionDescription": "Merge claude/project-thread-8wig4r: the iPhone's CI work in two jobs, iphone and iphone-ui, as the iPad's (painting-company row 289)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-963/PaintByNumber.ipa",
-      "size": 66473617,
+      "version": "1.0.967",
+      "versionDate": "2026-11-14T13:51:17Z",
+      "versionDescription": "Merge claude/project-thread-pp61z9: Paint by Mosaic and the app compile one copy of what they share, App/Shared (painting-company row 336)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-967/PaintByNumber.ipa",
+      "size": 66480695,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
