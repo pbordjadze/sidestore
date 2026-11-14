@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.963",
+          "buildVersion": "963",
+          "date": "2026-11-14T12:27:45Z",
+          "localizedDescription": "Merge claude/project-thread-8wig4r: the iPhone's CI work in two jobs, iphone and iphone-ui, as the iPad's (painting-company row 289)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-963/PaintByNumber.ipa",
+          "size": 66473617,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.952",
           "buildVersion": "952",
           "date": "2026-11-14T10:07:29Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-933/PaintByNumber.ipa",
           "size": 66456447,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.927",
-          "buildVersion": "927",
-          "date": "2026-11-13T21:41:48Z",
-          "localizedDescription": "Merge claude/project-thread-8wig4r: the gallery's Tonight's Picture, the Tool Guide's practice first, the top-of-page audit back, and fetch.sh waiting for a run's own report (painting-company rows 302, 303, 316, 317)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-927/PaintByNumber.ipa",
-          "size": 66413463,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.952",
-      "versionDate": "2026-11-14T10:07:29Z",
-      "versionDescription": "Merge claude/project-thread-8wig4r: the critics' polish of the gallery shelf and the Tool Guide, and a unit-tests lane for the test tag (painting-company rows 288, 316, 317)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-952/PaintByNumber.ipa",
-      "size": 66473619,
+      "version": "1.0.963",
+      "versionDate": "2026-11-14T12:27:45Z",
+      "versionDescription": "Merge claude/project-thread-8wig4r: the iPhone's CI work in two jobs, iphone and iphone-ui, as the iPad's (painting-company row 289)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-963/PaintByNumber.ipa",
+      "size": 66473617,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
