@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.983",
+          "buildVersion": "983",
+          "date": "2026-11-14T21:16:42Z",
+          "localizedDescription": "Merge claude/project-thread-nrvmog: Zen Mode's fills and the finish with fewer late frames (painting-company row 299)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-983/PaintByNumber.ipa",
+          "size": 66558104,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.977",
           "buildVersion": "977",
           "date": "2026-11-14T18:41:02Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-963/PaintByNumber.ipa",
           "size": 66473617,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.952",
-          "buildVersion": "952",
-          "date": "2026-11-14T10:07:29Z",
-          "localizedDescription": "Merge claude/project-thread-8wig4r: the critics' polish of the gallery shelf and the Tool Guide, and a unit-tests lane for the test tag (painting-company rows 288, 316, 317)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-952/PaintByNumber.ipa",
-          "size": 66473619,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.977",
-      "versionDate": "2026-11-14T18:41:02Z",
-      "versionDescription": "Merge claude/project-thread-36rvnt: the App Store build's tests in CI, release-tests (painting-company row 337)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-977/PaintByNumber.ipa",
-      "size": 66552550,
+      "version": "1.0.983",
+      "versionDate": "2026-11-14T21:16:42Z",
+      "versionDescription": "Merge claude/project-thread-nrvmog: Zen Mode's fills and the finish with fewer late frames (painting-company row 299)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-983/PaintByNumber.ipa",
+      "size": 66558104,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
