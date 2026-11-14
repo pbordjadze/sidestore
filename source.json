@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.984",
+          "buildVersion": "984",
+          "date": "2026-11-14T23:04:57Z",
+          "localizedDescription": "Merge claude/project-thread-vct8ie: main's runs are never cut off, and skip what a branch already passed (painting-company row 345)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-984/PaintByNumber.ipa",
+          "size": 66558106,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.983",
           "buildVersion": "983",
           "date": "2026-11-14T21:16:42Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-967/PaintByNumber.ipa",
           "size": 66480695,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.963",
-          "buildVersion": "963",
-          "date": "2026-11-14T12:27:45Z",
-          "localizedDescription": "Merge claude/project-thread-8wig4r: the iPhone's CI work in two jobs, iphone and iphone-ui, as the iPad's (painting-company row 289)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-963/PaintByNumber.ipa",
-          "size": 66473617,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.983",
-      "versionDate": "2026-11-14T21:16:42Z",
-      "versionDescription": "Merge claude/project-thread-nrvmog: Zen Mode's fills and the finish with fewer late frames (painting-company row 299)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-983/PaintByNumber.ipa",
-      "size": 66558104,
+      "version": "1.0.984",
+      "versionDate": "2026-11-14T23:04:57Z",
+      "versionDescription": "Merge claude/project-thread-vct8ie: main's runs are never cut off, and skip what a branch already passed (painting-company row 345)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-984/PaintByNumber.ipa",
+      "size": 66558106,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
