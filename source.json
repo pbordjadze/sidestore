@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1019",
+          "buildVersion": "1019",
+          "date": "2026-11-15T12:11:05Z",
+          "localizedDescription": "Merge claude/project-thread-vct8ie: the privacy and accessibility links lead to paulbordjadze.com, and a branch's run may give one entry to the Mac (painting-company row 346)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1019/PaintByNumber.ipa",
+          "size": 66606605,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1009",
           "buildVersion": "1009",
           "date": "2026-11-15T08:54:57Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-992/PaintByNumber.ipa",
           "size": 66549946,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.985",
-          "buildVersion": "985",
-          "date": "2026-11-15T00:17:38Z",
-          "localizedDescription": "Merge claude/project-thread-n647rt: rich paint, a face's own paints and richer hues, in SideStore builds (painting-company row 344)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-985/PaintByNumber.ipa",
-          "size": 66561641,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1009",
-      "versionDate": "2026-11-15T08:54:57Z",
-      "versionDescription": "Merge three 1.3 items for SideStore builds: the palette keeps its places, The Original, a finished book without its lines (painting-company rows 293, 120, 295)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1009/PaintByNumber.ipa",
-      "size": 66606574,
+      "version": "1.0.1019",
+      "versionDate": "2026-11-15T12:11:05Z",
+      "versionDescription": "Merge claude/project-thread-vct8ie: the privacy and accessibility links lead to paulbordjadze.com, and a branch's run may give one entry to the Mac (painting-company row 346)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1019/PaintByNumber.ipa",
+      "size": 66606605,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
