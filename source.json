@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1008",
+          "buildVersion": "1008",
+          "date": "2026-11-15T07:20:03Z",
+          "localizedDescription": "The app's version is 1.2 (painting-company row 315)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1008/PaintByNumber.ipa",
+          "size": 66550733,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.995",
           "buildVersion": "995",
           "date": "2026-11-15T03:56:50Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-984/PaintByNumber.ipa",
           "size": 66558106,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.983",
-          "buildVersion": "983",
-          "date": "2026-11-14T21:16:42Z",
-          "localizedDescription": "Merge claude/project-thread-nrvmog: Zen Mode's fills and the finish with fewer late frames (painting-company row 299)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-983/PaintByNumber.ipa",
-          "size": 66558104,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.995",
-      "versionDate": "2026-11-15T03:56:50Z",
-      "versionDescription": "Merge claude/project-thread-8wig4r: TestFlight's dry run on every main push that changes what the app bundles (painting-company row 315), and no painting screen built out of sight under Refine or for a blank page (row 292)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-995/PaintByNumber.ipa",
-      "size": 66550725,
+      "version": "1.0.1008",
+      "versionDate": "2026-11-15T07:20:03Z",
+      "versionDescription": "The app's version is 1.2 (painting-company row 315)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1008/PaintByNumber.ipa",
+      "size": 66550733,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
