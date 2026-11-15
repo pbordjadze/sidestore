@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1036",
+          "buildVersion": "1036",
+          "date": "2026-11-15T20:08:49Z",
+          "localizedDescription": "Merge claude/project-thread-kejgta: Refine's screen split into a model and small views (painting-company row 338)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1036/PaintByNumber.ipa",
+          "size": 67532252,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1034",
           "buildVersion": "1034",
           "date": "2026-11-15T18:43:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1019/PaintByNumber.ipa",
           "size": 66606605,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1009",
-          "buildVersion": "1009",
-          "date": "2026-11-15T08:54:57Z",
-          "localizedDescription": "Merge three 1.3 items for SideStore builds: the palette keeps its places, The Original, a finished book without its lines (painting-company rows 293, 120, 295)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1009/PaintByNumber.ipa",
-          "size": 66606574,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1034",
-      "versionDate": "2026-11-15T18:43:52Z",
-      "versionDescription": "Merge claude/project-thread-vvz7rv: widgets and stickers, in SideStore builds (painting-company rows 348 and 349)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1034/PaintByNumber.ipa",
-      "size": 67542999,
+      "version": "1.0.1036",
+      "versionDate": "2026-11-15T20:08:49Z",
+      "versionDescription": "Merge claude/project-thread-kejgta: Refine's screen split into a model and small views (painting-company row 338)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1036/PaintByNumber.ipa",
+      "size": 67532252,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
