@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1034",
+          "buildVersion": "1034",
+          "date": "2026-11-15T18:43:52Z",
+          "localizedDescription": "Merge claude/project-thread-vvz7rv: widgets and stickers, in SideStore builds (painting-company rows 348 and 349)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1034/PaintByNumber.ipa",
+          "size": 67542999,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1028",
           "buildVersion": "1028",
           "date": "2026-11-15T15:38:54Z",
@@ -51,24 +60,17 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1009/PaintByNumber.ipa",
           "size": 66606574,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1008",
-          "buildVersion": "1008",
-          "date": "2026-11-15T07:20:03Z",
-          "localizedDescription": "The app's version is 1.2 (painting-company row 315)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1008/PaintByNumber.ipa",
-          "size": 66550733,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1028",
-      "versionDate": "2026-11-15T15:38:54Z",
-      "versionDescription": "Merge claude/project-thread-zawlur: Fine-Tune in the length chip, Colors, Detail and Lines for a painting not begun, in SideStore builds (painting-company row 352)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1028/PaintByNumber.ipa",
-      "size": 67164346,
+      "version": "1.0.1034",
+      "versionDate": "2026-11-15T18:43:52Z",
+      "versionDescription": "Merge claude/project-thread-vvz7rv: widgets and stickers, in SideStore builds (painting-company rows 348 and 349)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1034/PaintByNumber.ipa",
+      "size": 67542999,
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "Paint by Moonlight uses the camera to take a photo you can turn into a paint-by-numbers picture. The photo stays on your device.",
           "NSPhotoLibraryAddUsageDescription": "Paint by Moonlight saves a painting or its time-lapse to your photo library when you choose Save Image or Save Video as you share it."
