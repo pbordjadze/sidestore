@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.985",
+          "buildVersion": "985",
+          "date": "2026-11-15T00:17:38Z",
+          "localizedDescription": "Merge claude/project-thread-n647rt: rich paint, a face's own paints and richer hues, in SideStore builds (painting-company row 344)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-985/PaintByNumber.ipa",
+          "size": 66561641,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.984",
           "buildVersion": "984",
           "date": "2026-11-14T23:04:57Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-974/PaintByNumber.ipa",
           "size": 66552546,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.967",
-          "buildVersion": "967",
-          "date": "2026-11-14T13:51:17Z",
-          "localizedDescription": "Merge claude/project-thread-pp61z9: Paint by Mosaic and the app compile one copy of what they share, App/Shared (painting-company row 336)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-967/PaintByNumber.ipa",
-          "size": 66480695,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.984",
-      "versionDate": "2026-11-14T23:04:57Z",
-      "versionDescription": "Merge claude/project-thread-vct8ie: main's runs are never cut off, and skip what a branch already passed (painting-company row 345)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-984/PaintByNumber.ipa",
-      "size": 66558106,
+      "version": "1.0.985",
+      "versionDate": "2026-11-15T00:17:38Z",
+      "versionDescription": "Merge claude/project-thread-n647rt: rich paint, a face's own paints and richer hues, in SideStore builds (painting-company row 344)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-985/PaintByNumber.ipa",
+      "size": 66561641,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
