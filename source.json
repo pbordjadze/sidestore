@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.995",
+          "buildVersion": "995",
+          "date": "2026-11-15T03:56:50Z",
+          "localizedDescription": "Merge claude/project-thread-8wig4r: TestFlight's dry run on every main push that changes what the app bundles (painting-company row 315), and no painting screen built out of sight under Refine or for a blank page (row 292)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-995/PaintByNumber.ipa",
+          "size": 66550725,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.992",
           "buildVersion": "992",
           "date": "2026-11-15T03:29:25Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-983/PaintByNumber.ipa",
           "size": 66558104,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.977",
-          "buildVersion": "977",
-          "date": "2026-11-14T18:41:02Z",
-          "localizedDescription": "Merge claude/project-thread-36rvnt: the App Store build's tests in CI, release-tests (painting-company row 337)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-977/PaintByNumber.ipa",
-          "size": 66552550,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.992",
-      "versionDate": "2026-11-15T03:29:25Z",
-      "versionDescription": "Merge claude/project-thread-kejgta: code health, five audit rows (painting-company rows 90, 91, 93, 99, 110)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-992/PaintByNumber.ipa",
-      "size": 66549946,
+      "version": "1.0.995",
+      "versionDate": "2026-11-15T03:56:50Z",
+      "versionDescription": "Merge claude/project-thread-8wig4r: TestFlight's dry run on every main push that changes what the app bundles (painting-company row 315), and no painting screen built out of sight under Refine or for a blank page (row 292)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-995/PaintByNumber.ipa",
+      "size": 66550725,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
