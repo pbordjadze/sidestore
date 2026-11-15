@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1039",
+          "buildVersion": "1039",
+          "date": "2026-11-15T22:04:58Z",
+          "localizedDescription": "Merge the picture forming as one act, in SideStore builds (painting-company row 293)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1039/PaintByNumber.ipa",
+          "size": 67557021,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1036",
           "buildVersion": "1036",
           "date": "2026-11-15T20:08:49Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1021/PaintByNumber.ipa",
           "size": 67153320,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1019",
-          "buildVersion": "1019",
-          "date": "2026-11-15T12:11:05Z",
-          "localizedDescription": "Merge claude/project-thread-vct8ie: the privacy and accessibility links lead to paulbordjadze.com, and a branch's run may give one entry to the Mac (painting-company row 346)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1019/PaintByNumber.ipa",
-          "size": 66606605,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1036",
-      "versionDate": "2026-11-15T20:08:49Z",
-      "versionDescription": "Merge claude/project-thread-kejgta: Refine's screen split into a model and small views (painting-company row 338)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1036/PaintByNumber.ipa",
-      "size": 67532252,
+      "version": "1.0.1039",
+      "versionDate": "2026-11-15T22:04:58Z",
+      "versionDescription": "Merge the picture forming as one act, in SideStore builds (painting-company row 293)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1039/PaintByNumber.ipa",
+      "size": 67557021,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
