@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1021",
+          "buildVersion": "1021",
+          "date": "2026-11-15T13:57:30Z",
+          "localizedDescription": "Merge claude/project-thread-unnhb4: Paint by Moonlight in ten languages (painting-company row 354)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1021/PaintByNumber.ipa",
+          "size": 67153320,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1019",
           "buildVersion": "1019",
           "date": "2026-11-15T12:11:05Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-995/PaintByNumber.ipa",
           "size": 66550725,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.992",
-          "buildVersion": "992",
-          "date": "2026-11-15T03:29:25Z",
-          "localizedDescription": "Merge claude/project-thread-kejgta: code health, five audit rows (painting-company rows 90, 91, 93, 99, 110)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-992/PaintByNumber.ipa",
-          "size": 66549946,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1019",
-      "versionDate": "2026-11-15T12:11:05Z",
-      "versionDescription": "Merge claude/project-thread-vct8ie: the privacy and accessibility links lead to paulbordjadze.com, and a branch's run may give one entry to the Mac (painting-company row 346)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1019/PaintByNumber.ipa",
-      "size": 66606605,
+      "version": "1.0.1021",
+      "versionDate": "2026-11-15T13:57:30Z",
+      "versionDescription": "Merge claude/project-thread-unnhb4: Paint by Moonlight in ten languages (painting-company row 354)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1021/PaintByNumber.ipa",
+      "size": 67153320,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
