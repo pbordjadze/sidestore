@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1064",
+          "buildVersion": "1064",
+          "date": "2026-11-16T15:52:05Z",
+          "localizedDescription": "Merge Print's preview, with paper, orientation, size and color key, for SideStore builds (painting-company row 357)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1064/PaintByNumber.ipa",
+          "size": 67656426,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1062",
           "buildVersion": "1062",
           "date": "2026-11-16T12:21:28Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1054/PaintByNumber.ipa",
           "size": 67620246,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1047",
-          "buildVersion": "1047",
-          "date": "2026-11-16T03:27:24Z",
-          "localizedDescription": "Merge the palette coming back to the color in hand (painting-company row 356)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1047/PaintByNumber.ipa",
-          "size": 67558605,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1062",
-      "versionDate": "2026-11-16T12:21:28Z",
-      "versionDescription": "Merge quirks for SideStore builds: six small motion touches in place of the door arches (painting-company row 351)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1062/PaintByNumber.ipa",
-      "size": 67608632,
+      "version": "1.0.1064",
+      "versionDate": "2026-11-16T15:52:05Z",
+      "versionDescription": "Merge Print's preview, with paper, orientation, size and color key, for SideStore builds (painting-company row 357)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1064/PaintByNumber.ipa",
+      "size": 67656426,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
