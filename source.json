@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1057",
+          "buildVersion": "1057",
+          "date": "2026-11-16T07:48:56Z",
+          "localizedDescription": "Merge claude/project-thread-kejgta: Refine's ink shown again by a touch fades in again (painting-company row 338)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1057/PaintByNumber.ipa",
+          "size": 67620609,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1054",
           "buildVersion": "1054",
           "date": "2026-11-16T05:57:10Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1039/PaintByNumber.ipa",
           "size": 67557021,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1036",
-          "buildVersion": "1036",
-          "date": "2026-11-15T20:08:49Z",
-          "localizedDescription": "Merge claude/project-thread-kejgta: Refine's screen split into a model and small views (painting-company row 338)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1036/PaintByNumber.ipa",
-          "size": 67532252,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1054",
-      "versionDate": "2026-11-16T05:57:10Z",
-      "versionDescription": "Merge Print… in the menus, the way back from Paint by Mosaic, tips beside their subjects, and tests of sent paint names (painting-company rows 240, 281, 269)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1054/PaintByNumber.ipa",
-      "size": 67620246,
+      "version": "1.0.1057",
+      "versionDate": "2026-11-16T07:48:56Z",
+      "versionDescription": "Merge claude/project-thread-kejgta: Refine's ink shown again by a touch fades in again (painting-company row 338)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1057/PaintByNumber.ipa",
+      "size": 67620609,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
