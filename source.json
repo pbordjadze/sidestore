@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1062",
+          "buildVersion": "1062",
+          "date": "2026-11-16T12:21:28Z",
+          "localizedDescription": "Merge quirks for SideStore builds: six small motion touches in place of the door arches (painting-company row 351)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1062/PaintByNumber.ipa",
+          "size": 67608632,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1061",
           "buildVersion": "1061",
           "date": "2026-11-16T10:38:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1047/PaintByNumber.ipa",
           "size": 67558605,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1046",
-          "buildVersion": "1046",
-          "date": "2026-11-16T02:06:18Z",
-          "localizedDescription": "Merge Tonight's Picture on the gallery into the release, with 1.2's store and TestFlight text (painting-company row 317)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1046/PaintByNumber.ipa",
-          "size": 67557023,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1061",
-      "versionDate": "2026-11-16T10:38:45Z",
-      "versionDescription": "Merge 1.2's Print line in What's New and What to Test, and the sections test in the App Store build (painting-company rows 240, 331)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1061/PaintByNumber.ipa",
-      "size": 67620583,
+      "version": "1.0.1062",
+      "versionDate": "2026-11-16T12:21:28Z",
+      "versionDescription": "Merge quirks for SideStore builds: six small motion touches in place of the door arches (painting-company row 351)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1062/PaintByNumber.ipa",
+      "size": 67608632,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
