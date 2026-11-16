@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1047",
+          "buildVersion": "1047",
+          "date": "2026-11-16T03:27:24Z",
+          "localizedDescription": "Merge the palette coming back to the color in hand (painting-company row 356)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1047/PaintByNumber.ipa",
+          "size": 67558605,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1046",
           "buildVersion": "1046",
           "date": "2026-11-16T02:06:18Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1034/PaintByNumber.ipa",
           "size": 67542999,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1028",
-          "buildVersion": "1028",
-          "date": "2026-11-15T15:38:54Z",
-          "localizedDescription": "Merge claude/project-thread-zawlur: Fine-Tune in the length chip, Colors, Detail and Lines for a painting not begun, in SideStore builds (painting-company row 352)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1028/PaintByNumber.ipa",
-          "size": 67164346,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1046",
-      "versionDate": "2026-11-16T02:06:18Z",
-      "versionDescription": "Merge Tonight's Picture on the gallery into the release, with 1.2's store and TestFlight text (painting-company row 317)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1046/PaintByNumber.ipa",
-      "size": 67557023,
+      "version": "1.0.1047",
+      "versionDate": "2026-11-16T03:27:24Z",
+      "versionDescription": "Merge the palette coming back to the color in hand (painting-company row 356)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1047/PaintByNumber.ipa",
+      "size": 67558605,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
