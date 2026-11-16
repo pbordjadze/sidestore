@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1054",
+          "buildVersion": "1054",
+          "date": "2026-11-16T05:57:10Z",
+          "localizedDescription": "Merge Print… in the menus, the way back from Paint by Mosaic, tips beside their subjects, and tests of sent paint names (painting-company rows 240, 281, 269)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1054/PaintByNumber.ipa",
+          "size": 67620246,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1047",
           "buildVersion": "1047",
           "date": "2026-11-16T03:27:24Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1036/PaintByNumber.ipa",
           "size": 67532252,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1034",
-          "buildVersion": "1034",
-          "date": "2026-11-15T18:43:52Z",
-          "localizedDescription": "Merge claude/project-thread-vvz7rv: widgets and stickers, in SideStore builds (painting-company rows 348 and 349)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1034/PaintByNumber.ipa",
-          "size": 67542999,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1047",
-      "versionDate": "2026-11-16T03:27:24Z",
-      "versionDescription": "Merge the palette coming back to the color in hand (painting-company row 356)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1047/PaintByNumber.ipa",
-      "size": 67558605,
+      "version": "1.0.1054",
+      "versionDate": "2026-11-16T05:57:10Z",
+      "versionDescription": "Merge Print… in the menus, the way back from Paint by Mosaic, tips beside their subjects, and tests of sent paint names (painting-company rows 240, 281, 269)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1054/PaintByNumber.ipa",
+      "size": 67620246,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
