@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1061",
+          "buildVersion": "1061",
+          "date": "2026-11-16T10:38:45Z",
+          "localizedDescription": "Merge 1.2's Print line in What's New and What to Test, and the sections test in the App Store build (painting-company rows 240, 331)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1061/PaintByNumber.ipa",
+          "size": 67620583,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1057",
           "buildVersion": "1057",
           "date": "2026-11-16T07:48:56Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1046/PaintByNumber.ipa",
           "size": 67557023,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1039",
-          "buildVersion": "1039",
-          "date": "2026-11-15T22:04:58Z",
-          "localizedDescription": "Merge the picture forming as one act, in SideStore builds (painting-company row 293)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1039/PaintByNumber.ipa",
-          "size": 67557021,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1057",
-      "versionDate": "2026-11-16T07:48:56Z",
-      "versionDescription": "Merge claude/project-thread-kejgta: Refine's ink shown again by a touch fades in again (painting-company row 338)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1057/PaintByNumber.ipa",
-      "size": 67620609,
+      "version": "1.0.1061",
+      "versionDate": "2026-11-16T10:38:45Z",
+      "versionDescription": "Merge 1.2's Print line in What's New and What to Test, and the sections test in the App Store build (painting-company rows 240, 331)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1061/PaintByNumber.ipa",
+      "size": 67620583,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
