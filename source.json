@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1046",
+          "buildVersion": "1046",
+          "date": "2026-11-16T02:06:18Z",
+          "localizedDescription": "Merge Tonight's Picture on the gallery into the release, with 1.2's store and TestFlight text (painting-company row 317)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1046/PaintByNumber.ipa",
+          "size": 67557023,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1039",
           "buildVersion": "1039",
           "date": "2026-11-15T22:04:58Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1028/PaintByNumber.ipa",
           "size": 67164346,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1021",
-          "buildVersion": "1021",
-          "date": "2026-11-15T13:57:30Z",
-          "localizedDescription": "Merge claude/project-thread-unnhb4: Paint by Moonlight in ten languages (painting-company row 354)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1021/PaintByNumber.ipa",
-          "size": 67153320,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1039",
-      "versionDate": "2026-11-15T22:04:58Z",
-      "versionDescription": "Merge the picture forming as one act, in SideStore builds (painting-company row 293)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1039/PaintByNumber.ipa",
-      "size": 67557021,
+      "version": "1.0.1046",
+      "versionDate": "2026-11-16T02:06:18Z",
+      "versionDescription": "Merge Tonight's Picture on the gallery into the release, with 1.2's store and TestFlight text (painting-company row 317)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1046/PaintByNumber.ipa",
+      "size": 67557023,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
