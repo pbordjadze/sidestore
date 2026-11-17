@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1068",
+          "buildVersion": "1068",
+          "date": "2026-11-17T00:57:11Z",
+          "localizedDescription": "Merge claude/project-thread-rfbevm: the gallery's bar comes back after a painting is swiped away as it opens (painting-company row 324)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1068/PaintByNumber.ipa",
+          "size": 67658746,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1064",
           "buildVersion": "1064",
           "date": "2026-11-16T15:52:05Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1057/PaintByNumber.ipa",
           "size": 67620609,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1054",
-          "buildVersion": "1054",
-          "date": "2026-11-16T05:57:10Z",
-          "localizedDescription": "Merge Print… in the menus, the way back from Paint by Mosaic, tips beside their subjects, and tests of sent paint names (painting-company rows 240, 281, 269)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1054/PaintByNumber.ipa",
-          "size": 67620246,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1064",
-      "versionDate": "2026-11-16T15:52:05Z",
-      "versionDescription": "Merge Print's preview, with paper, orientation, size and color key, for SideStore builds (painting-company row 357)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1064/PaintByNumber.ipa",
-      "size": 67656426,
+      "version": "1.0.1068",
+      "versionDate": "2026-11-17T00:57:11Z",
+      "versionDescription": "Merge claude/project-thread-rfbevm: the gallery's bar comes back after a painting is swiped away as it opens (painting-company row 324)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1068/PaintByNumber.ipa",
+      "size": 67658746,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
