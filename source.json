@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1074",
+          "buildVersion": "1074",
+          "date": "2026-11-17T15:28:44Z",
+          "localizedDescription": "Merge the widgets' and stickers' words in ten languages, their first look's fixes, the lit crescent and tips kept off the pictures on iPhone (painting-company rows 348, 349, 281, 240)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1074/PaintByNumber.ipa",
+          "size": 67692846,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1068",
           "buildVersion": "1068",
           "date": "2026-11-17T00:57:11Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1061/PaintByNumber.ipa",
           "size": 67620583,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1057",
-          "buildVersion": "1057",
-          "date": "2026-11-16T07:48:56Z",
-          "localizedDescription": "Merge claude/project-thread-kejgta: Refine's ink shown again by a touch fades in again (painting-company row 338)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1057/PaintByNumber.ipa",
-          "size": 67620609,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1068",
-      "versionDate": "2026-11-17T00:57:11Z",
-      "versionDescription": "Merge claude/project-thread-rfbevm: the gallery's bar comes back after a painting is swiped away as it opens (painting-company row 324)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1068/PaintByNumber.ipa",
-      "size": 67658746,
+      "version": "1.0.1074",
+      "versionDate": "2026-11-17T15:28:44Z",
+      "versionDescription": "Merge the widgets' and stickers' words in ten languages, their first look's fixes, the lit crescent and tips kept off the pictures on iPhone (painting-company rows 348, 349, 281, 240)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1074/PaintByNumber.ipa",
+      "size": 67692846,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
