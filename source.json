@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1099",
+          "buildVersion": "1099",
+          "date": "2026-11-18T06:57:37Z",
+          "localizedDescription": "Merge claude/project-thread-hnvl0q: Start Painting and the Making-of wait less (Nov 17 ET, painting-company row 361)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1099/PaintByNumber.ipa",
+          "size": 67676136,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1097",
           "buildVersion": "1097",
           "date": "2026-11-18T04:46:49Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1075/PaintByNumber.ipa",
           "size": 67698006,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1074",
-          "buildVersion": "1074",
-          "date": "2026-11-17T15:28:44Z",
-          "localizedDescription": "Merge the widgets' and stickers' words in ten languages, their first look's fixes, the lit crescent and tips kept off the pictures on iPhone (painting-company rows 348, 349, 281, 240)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1074/PaintByNumber.ipa",
-          "size": 67692846,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1097",
-      "versionDate": "2026-11-18T04:46:49Z",
-      "versionDescription": "Merge claude/project-thread-gtq2qw: finished colors leave the iPad's palette again (painting-company row 293)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1097/PaintByNumber.ipa",
-      "size": 67670605,
+      "version": "1.0.1099",
+      "versionDate": "2026-11-18T06:57:37Z",
+      "versionDescription": "Merge claude/project-thread-hnvl0q: Start Painting and the Making-of wait less (Nov 17 ET, painting-company row 361)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1099/PaintByNumber.ipa",
+      "size": 67676136,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
