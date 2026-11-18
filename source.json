@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1117",
+          "buildVersion": "1117",
+          "date": "2026-11-18T17:41:48Z",
+          "localizedDescription": "Merge: Print's preview drops Paper and Orientation",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1117/PaintByNumber.ipa",
+          "size": 67719244,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1115",
           "buildVersion": "1115",
           "date": "2026-11-18T14:44:37Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1099/PaintByNumber.ipa",
           "size": 67676136,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1097",
-          "buildVersion": "1097",
-          "date": "2026-11-18T04:46:49Z",
-          "localizedDescription": "Merge claude/project-thread-gtq2qw: finished colors leave the iPad's palette again (painting-company row 293)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1097/PaintByNumber.ipa",
-          "size": 67670605,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1115",
-      "versionDate": "2026-11-18T14:44:37Z",
-      "versionDescription": "Merge claude/project-thread-d6sfeh: the UI pass of Nov 18 ET, one way to each thing on Finished (painting-company row 331)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1115/PaintByNumber.ipa",
-      "size": 67727562,
+      "version": "1.0.1117",
+      "versionDate": "2026-11-18T17:41:48Z",
+      "versionDescription": "Merge: Print's preview drops Paper and Orientation",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1117/PaintByNumber.ipa",
+      "size": 67719244,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
