@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1109",
+          "buildVersion": "1109",
+          "date": "2026-11-18T08:41:42Z",
+          "localizedDescription": "Merge claude/project-thread-wotpt7: Blend keeps a face near the photo's colors, lips no longer crimson (Nov 17 ET, painting-company row 363)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1109/PaintByNumber.ipa",
+          "size": 67733154,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1099",
           "buildVersion": "1099",
           "date": "2026-11-18T06:57:37Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1089/PaintByNumber.ipa",
           "size": 67697831,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1075",
-          "buildVersion": "1075",
-          "date": "2026-11-17T16:11:10Z",
-          "localizedDescription": "Merge claude/project-thread-h71i4e: beauty paint, the SideStore build's new paint mix (painting-company row 360)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1075/PaintByNumber.ipa",
-          "size": 67698006,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1099",
-      "versionDate": "2026-11-18T06:57:37Z",
-      "versionDescription": "Merge claude/project-thread-hnvl0q: Start Painting and the Making-of wait less (Nov 17 ET, painting-company row 361)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1099/PaintByNumber.ipa",
-      "size": 67676136,
+      "version": "1.0.1109",
+      "versionDate": "2026-11-18T08:41:42Z",
+      "versionDescription": "Merge claude/project-thread-wotpt7: Blend keeps a face near the photo's colors, lips no longer crimson (Nov 17 ET, painting-company row 363)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1109/PaintByNumber.ipa",
+      "size": 67733154,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
