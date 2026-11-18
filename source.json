@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1113",
+          "buildVersion": "1113",
+          "date": "2026-11-18T12:51:04Z",
+          "localizedDescription": "Merge claude/project-thread-hbd48v: On Paper opens Print's preview, Send It sends the time-lapse, widget taps paint the largest areas (Nov 18 ET, painting-company rows 332, 348, 357)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1113/PaintByNumber.ipa",
+          "size": 67727279,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1109",
           "buildVersion": "1109",
           "date": "2026-11-18T08:41:42Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1091/PaintByNumber.ipa",
           "size": 67672163,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1089",
-          "buildVersion": "1089",
-          "date": "2026-11-18T00:53:15Z",
-          "localizedDescription": "Merge critic fixes: widget taps that show, Print's settings above Print on iPhone, Hold's tip atop the gallery, a brighter moon (painting-company rows 348, 357, 240, 281)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1089/PaintByNumber.ipa",
-          "size": 67697831,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1109",
-      "versionDate": "2026-11-18T08:41:42Z",
-      "versionDescription": "Merge claude/project-thread-wotpt7: Blend keeps a face near the photo's colors, lips no longer crimson (Nov 17 ET, painting-company row 363)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1109/PaintByNumber.ipa",
-      "size": 67733154,
+      "version": "1.0.1113",
+      "versionDate": "2026-11-18T12:51:04Z",
+      "versionDescription": "Merge claude/project-thread-hbd48v: On Paper opens Print's preview, Send It sends the time-lapse, widget taps paint the largest areas (Nov 18 ET, painting-company rows 332, 348, 357)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1113/PaintByNumber.ipa",
+      "size": 67727279,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
