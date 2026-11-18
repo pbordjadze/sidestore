@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1091",
+          "buildVersion": "1091",
+          "date": "2026-11-18T02:55:51Z",
+          "localizedDescription": "QA brief: Photo's Colors in place of Looks (synced from painting-company row 152's shared copy)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1091/PaintByNumber.ipa",
+          "size": 67672163,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1089",
           "buildVersion": "1089",
           "date": "2026-11-18T00:53:15Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1068/PaintByNumber.ipa",
           "size": 67658746,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1064",
-          "buildVersion": "1064",
-          "date": "2026-11-16T15:52:05Z",
-          "localizedDescription": "Merge Print's preview, with paper, orientation, size and color key, for SideStore builds (painting-company row 357)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1064/PaintByNumber.ipa",
-          "size": 67656426,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1089",
-      "versionDate": "2026-11-18T00:53:15Z",
-      "versionDescription": "Merge critic fixes: widget taps that show, Print's settings above Print on iPhone, Hold's tip atop the gallery, a brighter moon (painting-company rows 348, 357, 240, 281)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1089/PaintByNumber.ipa",
-      "size": 67697831,
+      "version": "1.0.1091",
+      "versionDate": "2026-11-18T02:55:51Z",
+      "versionDescription": "QA brief: Photo's Colors in place of Looks (synced from painting-company row 152's shared copy)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1091/PaintByNumber.ipa",
+      "size": 67672163,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
