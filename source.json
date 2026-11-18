@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1128",
+          "buildVersion": "1128",
+          "date": "2026-11-18T23:25:06Z",
+          "localizedDescription": "Merge: Settings' first tip lies among its rows on a phone",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1128/PaintByNumber.ipa",
+          "size": 67734155,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1126",
           "buildVersion": "1126",
           "date": "2026-11-18T21:30:08Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1113/PaintByNumber.ipa",
           "size": 67727279,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1109",
-          "buildVersion": "1109",
-          "date": "2026-11-18T08:41:42Z",
-          "localizedDescription": "Merge claude/project-thread-wotpt7: Blend keeps a face near the photo's colors, lips no longer crimson (Nov 17 ET, painting-company row 363)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1109/PaintByNumber.ipa",
-          "size": 67733154,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1126",
-      "versionDate": "2026-11-18T21:30:08Z",
-      "versionDescription": "Merge claude/project-thread-hnvl0q: a painting opened from the gallery never moves as it loads (Nov 18 ET, painting-company row 364)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1126/PaintByNumber.ipa",
-      "size": 67732577,
+      "version": "1.0.1128",
+      "versionDate": "2026-11-18T23:25:06Z",
+      "versionDescription": "Merge: Settings' first tip lies among its rows on a phone",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1128/PaintByNumber.ipa",
+      "size": 67734155,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
