@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1115",
+          "buildVersion": "1115",
+          "date": "2026-11-18T14:44:37Z",
+          "localizedDescription": "Merge claude/project-thread-d6sfeh: the UI pass of Nov 18 ET, one way to each thing on Finished (painting-company row 331)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1115/PaintByNumber.ipa",
+          "size": 67727562,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1113",
           "buildVersion": "1113",
           "date": "2026-11-18T12:51:04Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1097/PaintByNumber.ipa",
           "size": 67670605,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1091",
-          "buildVersion": "1091",
-          "date": "2026-11-18T02:55:51Z",
-          "localizedDescription": "QA brief: Photo's Colors in place of Looks (synced from painting-company row 152's shared copy)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1091/PaintByNumber.ipa",
-          "size": 67672163,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1113",
-      "versionDate": "2026-11-18T12:51:04Z",
-      "versionDescription": "Merge claude/project-thread-hbd48v: On Paper opens Print's preview, Send It sends the time-lapse, widget taps paint the largest areas (Nov 18 ET, painting-company rows 332, 348, 357)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1113/PaintByNumber.ipa",
-      "size": 67727279,
+      "version": "1.0.1115",
+      "versionDate": "2026-11-18T14:44:37Z",
+      "versionDescription": "Merge claude/project-thread-d6sfeh: the UI pass of Nov 18 ET, one way to each thing on Finished (painting-company row 331)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1115/PaintByNumber.ipa",
+      "size": 67727562,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
