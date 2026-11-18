@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1089",
+          "buildVersion": "1089",
+          "date": "2026-11-18T00:53:15Z",
+          "localizedDescription": "Merge critic fixes: widget taps that show, Print's settings above Print on iPhone, Hold's tip atop the gallery, a brighter moon (painting-company rows 348, 357, 240, 281)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1089/PaintByNumber.ipa",
+          "size": 67697831,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1075",
           "buildVersion": "1075",
           "date": "2026-11-17T16:11:10Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1064/PaintByNumber.ipa",
           "size": 67656426,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1062",
-          "buildVersion": "1062",
-          "date": "2026-11-16T12:21:28Z",
-          "localizedDescription": "Merge quirks for SideStore builds: six small motion touches in place of the door arches (painting-company row 351)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1062/PaintByNumber.ipa",
-          "size": 67608632,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1075",
-      "versionDate": "2026-11-17T16:11:10Z",
-      "versionDescription": "Merge claude/project-thread-h71i4e: beauty paint, the SideStore build's new paint mix (painting-company row 360)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1075/PaintByNumber.ipa",
-      "size": 67698006,
+      "version": "1.0.1089",
+      "versionDate": "2026-11-18T00:53:15Z",
+      "versionDescription": "Merge critic fixes: widget taps that show, Print's settings above Print on iPhone, Hold's tip atop the gallery, a brighter moon (painting-company rows 348, 357, 240, 281)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1089/PaintByNumber.ipa",
+      "size": 67697831,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
