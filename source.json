@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1097",
+          "buildVersion": "1097",
+          "date": "2026-11-18T04:46:49Z",
+          "localizedDescription": "Merge claude/project-thread-gtq2qw: finished colors leave the iPad's palette again (painting-company row 293)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1097/PaintByNumber.ipa",
+          "size": 67670605,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1091",
           "buildVersion": "1091",
           "date": "2026-11-18T02:55:51Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1074/PaintByNumber.ipa",
           "size": 67692846,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1068",
-          "buildVersion": "1068",
-          "date": "2026-11-17T00:57:11Z",
-          "localizedDescription": "Merge claude/project-thread-rfbevm: the gallery's bar comes back after a painting is swiped away as it opens (painting-company row 324)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1068/PaintByNumber.ipa",
-          "size": 67658746,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1091",
-      "versionDate": "2026-11-18T02:55:51Z",
-      "versionDescription": "QA brief: Photo's Colors in place of Looks (synced from painting-company row 152's shared copy)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1091/PaintByNumber.ipa",
-      "size": 67672163,
+      "version": "1.0.1097",
+      "versionDate": "2026-11-18T04:46:49Z",
+      "versionDescription": "Merge claude/project-thread-gtq2qw: finished colors leave the iPad's palette again (painting-company row 293)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1097/PaintByNumber.ipa",
+      "size": 67670605,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
