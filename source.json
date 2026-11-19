@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1133",
+          "buildVersion": "1133",
+          "date": "2026-11-19T06:08:16Z",
+          "localizedDescription": "Merge: Settings' tip card in a section of its own on a phone",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1133/PaintByNumber.ipa",
+          "size": 67734116,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1128",
           "buildVersion": "1128",
           "date": "2026-11-18T23:25:06Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1115/PaintByNumber.ipa",
           "size": 67727562,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1113",
-          "buildVersion": "1113",
-          "date": "2026-11-18T12:51:04Z",
-          "localizedDescription": "Merge claude/project-thread-hbd48v: On Paper opens Print's preview, Send It sends the time-lapse, widget taps paint the largest areas (Nov 18 ET, painting-company rows 332, 348, 357)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1113/PaintByNumber.ipa",
-          "size": 67727279,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1128",
-      "versionDate": "2026-11-18T23:25:06Z",
-      "versionDescription": "Merge: Settings' first tip lies among its rows on a phone",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1128/PaintByNumber.ipa",
-      "size": 67734155,
+      "version": "1.0.1133",
+      "versionDate": "2026-11-19T06:08:16Z",
+      "versionDescription": "Merge: Settings' tip card in a section of its own on a phone",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1133/PaintByNumber.ipa",
+      "size": 67734116,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
