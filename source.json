@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1142",
+          "buildVersion": "1142",
+          "date": "2026-11-20T03:13:23Z",
+          "localizedDescription": "Merge claude/project-thread-czb5nm: previews for the Mac to render, a CI warning for entitlements the developer site lacks (Nov 19 ET)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1142/PaintByNumber.ipa",
+          "size": 67742336,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1134",
           "buildVersion": "1134",
           "date": "2026-11-19T08:10:06Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1126/PaintByNumber.ipa",
           "size": 67732577,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1117",
-          "buildVersion": "1117",
-          "date": "2026-11-18T17:41:48Z",
-          "localizedDescription": "Merge: Print's preview drops Paper and Orientation",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1117/PaintByNumber.ipa",
-          "size": 67719244,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1134",
-      "versionDate": "2026-11-19T08:10:06Z",
-      "versionDescription": "Merge claude/project-thread-yn6bw0: 1.3, what Paul chose for the release leaves its gates (Nov 19 ET)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1134/PaintByNumber.ipa",
-      "size": 67732690,
+      "version": "1.0.1142",
+      "versionDate": "2026-11-20T03:13:23Z",
+      "versionDescription": "Merge claude/project-thread-czb5nm: previews for the Mac to render, a CI warning for entitlements the developer site lacks (Nov 19 ET)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1142/PaintByNumber.ipa",
+      "size": 67742336,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
