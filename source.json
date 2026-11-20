@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1148",
+          "buildVersion": "1148",
+          "date": "2026-11-20T05:43:57Z",
+          "localizedDescription": "Merge claude/project-thread-6dka6h: a friend's fills keep the hints away (Nov 19 ET, painting-company row 350)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1148/PaintByNumber.ipa",
+          "size": 67742808,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1146",
           "buildVersion": "1146",
           "date": "2026-11-20T04:59:26Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1133/PaintByNumber.ipa",
           "size": 67734116,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1128",
-          "buildVersion": "1128",
-          "date": "2026-11-18T23:25:06Z",
-          "localizedDescription": "Merge: Settings' first tip lies among its rows on a phone",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1128/PaintByNumber.ipa",
-          "size": 67734155,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1146",
-      "versionDate": "2026-11-20T04:59:26Z",
-      "versionDescription": "Merge claude/project-thread-vct8ie: the Mac takes only compile checks (Nov 19 ET, painting-company row 346)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1146/PaintByNumber.ipa",
-      "size": 67742334,
+      "version": "1.0.1148",
+      "versionDate": "2026-11-20T05:43:57Z",
+      "versionDescription": "Merge claude/project-thread-6dka6h: a friend's fills keep the hints away (Nov 19 ET, painting-company row 350)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1148/PaintByNumber.ipa",
+      "size": 67742808,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
