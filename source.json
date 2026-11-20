@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1180",
+          "buildVersion": "1180",
+          "date": "2026-11-20T23:39:34Z",
+          "localizedDescription": "Merge the Museum: browse the museums' open-access works and paint any (painting-company row 369)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1180/PaintByNumber.ipa",
+          "size": 67866880,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1164",
           "buildVersion": "1164",
           "date": "2026-11-20T18:45:12Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1146/PaintByNumber.ipa",
           "size": 67742334,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1142",
-          "buildVersion": "1142",
-          "date": "2026-11-20T03:13:23Z",
-          "localizedDescription": "Merge claude/project-thread-czb5nm: previews for the Mac to render, a CI warning for entitlements the developer site lacks (Nov 19 ET)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1142/PaintByNumber.ipa",
-          "size": 67742336,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1164",
-      "versionDate": "2026-11-20T18:45:12Z",
-      "versionDescription": "Merge Paint Together's light, hand and finale (painting-company row 350)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1164/PaintByNumber.ipa",
-      "size": 67779820,
+      "version": "1.0.1180",
+      "versionDate": "2026-11-20T23:39:34Z",
+      "versionDescription": "Merge the Museum: browse the museums' open-access works and paint any (painting-company row 369)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1180/PaintByNumber.ipa",
+      "size": 67866880,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
