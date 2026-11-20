@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1164",
+          "buildVersion": "1164",
+          "date": "2026-11-20T18:45:12Z",
+          "localizedDescription": "Merge Paint Together's light, hand and finale (painting-company row 350)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1164/PaintByNumber.ipa",
+          "size": 67779820,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1152",
           "buildVersion": "1152",
           "date": "2026-11-20T09:07:20Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1142/PaintByNumber.ipa",
           "size": 67742336,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1134",
-          "buildVersion": "1134",
-          "date": "2026-11-19T08:10:06Z",
-          "localizedDescription": "Merge claude/project-thread-yn6bw0: 1.3, what Paul chose for the release leaves its gates (Nov 19 ET)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1134/PaintByNumber.ipa",
-          "size": 67732690,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1152",
-      "versionDate": "2026-11-20T09:07:20Z",
-      "versionDescription": "Merge claude/project-thread-97uh49: the length chip readable over the page (Nov 20 ET)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1152/PaintByNumber.ipa",
-      "size": 67743083,
+      "version": "1.0.1164",
+      "versionDate": "2026-11-20T18:45:12Z",
+      "versionDescription": "Merge Paint Together's light, hand and finale (painting-company row 350)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1164/PaintByNumber.ipa",
+      "size": 67779820,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
