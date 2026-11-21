@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1238",
+          "buildVersion": "1238",
+          "date": "2026-11-21T23:02:05Z",
+          "localizedDescription": "Merge Stained Glass's suggested lead, the critics' and the audit's fixes (painting-company row 366)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1238/PaintByNumber.ipa",
+          "size": 68399166,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1230",
           "buildVersion": "1230",
           "date": "2026-11-21T18:50:49Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1214/PaintByNumber.ipa",
           "size": 68260905,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1193",
-          "buildVersion": "1193",
-          "date": "2026-11-21T04:24:05Z",
-          "localizedDescription": "Merge Stained Glass: the first mode on the app's own code (painting-company row 366)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1193/PaintByNumber.ipa",
-          "size": 68254695,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1230",
-      "versionDate": "2026-11-21T18:50:49Z",
-      "versionDescription": "Merge remote-tracking branch 'origin/main' into claude/project-thread-vjiuma",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1230/PaintByNumber.ipa",
-      "size": 68356422,
+      "version": "1.0.1238",
+      "versionDate": "2026-11-21T23:02:05Z",
+      "versionDescription": "Merge Stained Glass's suggested lead, the critics' and the audit's fixes (painting-company row 366)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1238/PaintByNumber.ipa",
+      "size": 68399166,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
