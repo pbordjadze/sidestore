@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1217",
+          "buildVersion": "1217",
+          "date": "2026-11-21T15:19:30Z",
+          "localizedDescription": "Merge Paint by Mosaic's ported fixes: Back, swipe back, opening and Start (painting-company rows 324, 361, 364)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1217/PaintByNumber.ipa",
+          "size": 68356437,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1215",
           "buildVersion": "1215",
           "date": "2026-11-21T13:22:29Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1187/PaintByNumber.ipa",
           "size": 68081073,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1180",
-          "buildVersion": "1180",
-          "date": "2026-11-20T23:39:34Z",
-          "localizedDescription": "Merge the Museum: browse the museums' open-access works and paint any (painting-company row 369)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1180/PaintByNumber.ipa",
-          "size": 67866880,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1215",
-      "versionDate": "2026-11-21T13:22:29Z",
-      "versionDescription": "Merge Tonight's Picture: a picture a night from the museums, and the vote for the next (painting-company row 368)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1215/PaintByNumber.ipa",
-      "size": 68345120,
+      "version": "1.0.1217",
+      "versionDate": "2026-11-21T15:19:30Z",
+      "versionDescription": "Merge Paint by Mosaic's ported fixes: Back, swipe back, opening and Start (painting-company rows 324, 361, 364)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1217/PaintByNumber.ipa",
+      "size": 68356437,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
