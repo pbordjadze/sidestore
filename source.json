@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1187",
+          "buildVersion": "1187",
+          "date": "2026-11-21T02:08:27Z",
+          "localizedDescription": "Set in Stone: estimates, a newcomer's lessons, and an assembly book's look (painting-company row 367)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1187/PaintByNumber.ipa",
+          "size": 68081073,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1180",
           "buildVersion": "1180",
           "date": "2026-11-20T23:39:34Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1148/PaintByNumber.ipa",
           "size": 67742808,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1146",
-          "buildVersion": "1146",
-          "date": "2026-11-20T04:59:26Z",
-          "localizedDescription": "Merge claude/project-thread-vct8ie: the Mac takes only compile checks (Nov 19 ET, painting-company row 346)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1146/PaintByNumber.ipa",
-          "size": 67742334,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1180",
-      "versionDate": "2026-11-20T23:39:34Z",
-      "versionDescription": "Merge the Museum: browse the museums' open-access works and paint any (painting-company row 369)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1180/PaintByNumber.ipa",
-      "size": 67866880,
+      "version": "1.0.1187",
+      "versionDate": "2026-11-21T02:08:27Z",
+      "versionDescription": "Set in Stone: estimates, a newcomer's lessons, and an assembly book's look (painting-company row 367)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1187/PaintByNumber.ipa",
+      "size": 68081073,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
