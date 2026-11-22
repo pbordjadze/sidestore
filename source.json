@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1295",
+          "buildVersion": "1295",
+          "date": "2026-11-22T14:01:08Z",
+          "localizedDescription": "Merge the iPad's one-row palette (painting-company row 378)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1295/PaintByNumber.ipa",
+          "size": 68724511,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1289",
           "buildVersion": "1289",
           "date": "2026-11-22T08:21:32Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1230/PaintByNumber.ipa",
           "size": 68356422,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1217",
-          "buildVersion": "1217",
-          "date": "2026-11-21T15:19:30Z",
-          "localizedDescription": "Merge Paint by Mosaic's ported fixes: Back, swipe back, opening and Start (painting-company rows 324, 361, 364)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1217/PaintByNumber.ipa",
-          "size": 68356437,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1289",
-      "versionDate": "2026-11-22T08:21:32Z",
-      "versionDescription": "Merge Paint by Mosaic's doors, naming, Print… and Show Lines, and the Year row's year (painting-company rows 236, 330, 366)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1289/PaintByNumber.ipa",
-      "size": 68725856,
+      "version": "1.0.1295",
+      "versionDate": "2026-11-22T14:01:08Z",
+      "versionDescription": "Merge the iPad's one-row palette (painting-company row 378)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1295/PaintByNumber.ipa",
+      "size": 68724511,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
