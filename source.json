@@ -1,7 +1,7 @@
 {
   "name": "pbordjadze's apps",
   "identifier": "com.pbordjadze.source",
-  "subtitle": "Paint by Moonlight, Beanbox and Treasurr",
+  "subtitle": "Paint by Moonlight and Beanbox",
   "website": "https://github.com/pbordjadze/sidestore",
   "tintColor": "#7B3F7E",
   "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/source.png",
@@ -124,75 +124,6 @@
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "Beanbox uses the camera to photograph paper and beans so it can measure their colours. Photos stay on your device."
-        }
-      }
-    },
-    {
-      "name": "Treasurr",
-      "bundleIdentifier": "com.pbordjadze.treasurr",
-      "developerName": "pbordjadze",
-      "subtitle": "Your seedbox, in your pocket",
-      "localizedDescription": "A personal dashboard for a self-hosted media server: live speeds, who's watching, downloads, service status and fun watch stats. Pairs with its own gateway by QR code; it does nothing without one.",
-      "iconURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/main/icons/treasurr.png",
-      "tintColor": "#C7548F",
-      "category": "utilities",
-      "versions": [
-        {
-          "version": "0.1.56",
-          "buildVersion": "56",
-          "date": "2026-11-08T16:42:20Z",
-          "localizedDescription": "CLAUDE.md: CI runs on Paul's MacBook",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-56.ipa",
-          "size": 3058465,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.52",
-          "buildVersion": "52",
-          "date": "2026-10-10T17:22:35Z",
-          "localizedDescription": "CI: build only main, pull requests and ci/<name> branches",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-52.ipa",
-          "size": 3012674,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.51",
-          "buildVersion": "51",
-          "date": "2026-10-08T22:14:54Z",
-          "localizedDescription": "CI: give the App Store Connect secrets only to the steps that use them",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-51.ipa",
-          "size": 3012674,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.49",
-          "buildVersion": "49",
-          "date": "2026-10-07T02:53:56Z",
-          "localizedDescription": "Watch while recording: the remote in Live TV (A26)",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-49.ipa",
-          "size": 3012674,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.1.45",
-          "buildVersion": "45",
-          "date": "2026-10-06T21:36:00Z",
-          "localizedDescription": "Polish Paul's TV: one close button, readable bars and hints, large text, plain reasons",
-          "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-45.ipa",
-          "size": 2827399,
-          "minOSVersion": "18.0"
-        }
-      ],
-      "version": "0.1.56",
-      "versionDate": "2026-11-08T16:42:20Z",
-      "versionDescription": "CLAUDE.md: CI runs on Paul's MacBook",
-      "downloadURL": "https://raw.githubusercontent.com/pbordjadze/sidestore/builds/treasurr/Treasurr-56.ipa",
-      "size": 3058465,
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Scan the pairing code shown on your seedbox.",
-          "NSFaceIDUsageDescription": "Treasurr locks with Face ID and asks again before changing anything."
         }
       }
     }
