@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1310",
+          "buildVersion": "1310",
+          "date": "2026-11-22T17:09:26Z",
+          "localizedDescription": "Merge Watercolor's speed: the water's blur on every core, the upload in bands, no catch-up spiral, a wet sheet dries on opening (painting-company row 373)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1310/PaintByNumber.ipa",
+          "size": 68750199,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1295",
           "buildVersion": "1295",
           "date": "2026-11-22T14:01:08Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1238/PaintByNumber.ipa",
           "size": 68399166,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1230",
-          "buildVersion": "1230",
-          "date": "2026-11-21T18:50:49Z",
-          "localizedDescription": "Merge remote-tracking branch 'origin/main' into claude/project-thread-vjiuma",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1230/PaintByNumber.ipa",
-          "size": 68356422,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1295",
-      "versionDate": "2026-11-22T14:01:08Z",
-      "versionDescription": "Merge the iPad's one-row palette (painting-company row 378)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1295/PaintByNumber.ipa",
-      "size": 68724511,
+      "version": "1.0.1310",
+      "versionDate": "2026-11-22T17:09:26Z",
+      "versionDescription": "Merge Watercolor's speed: the water's blur on every core, the upload in bands, no catch-up spiral, a wet sheet dries on opening (painting-company row 373)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1310/PaintByNumber.ipa",
+      "size": 68750199,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
