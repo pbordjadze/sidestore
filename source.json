@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1335",
+          "buildVersion": "1335",
+          "date": "2026-11-22T22:56:05Z",
+          "localizedDescription": "Merge Woodblock, the era at 1765: your photos, printed by numbers (painting-company row 375)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1335/PaintByNumber.ipa",
+          "size": 69012408,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1323",
           "buildVersion": "1323",
           "date": "2026-11-22T20:12:15Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1289/PaintByNumber.ipa",
           "size": 68725856,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1263",
-          "buildVersion": "1263",
-          "date": "2026-11-22T03:55:52Z",
-          "localizedDescription": "Merge Watercolor: real water on the app's own templates, at 1502 (painting-company row 373)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1263/PaintByNumber.ipa",
-          "size": 68631251,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1323",
-      "versionDate": "2026-11-22T20:12:15Z",
-      "versionDescription": "Merge 1.5 Instant: models kept warm, Tonight's Picture and Painting Lengths made ahead, the short Making-of as the wait (painting-company row 361)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1323/PaintByNumber.ipa",
-      "size": 68882424,
+      "version": "1.0.1335",
+      "versionDate": "2026-11-22T22:56:05Z",
+      "versionDescription": "Merge Woodblock, the era at 1765: your photos, printed by numbers (painting-company row 375)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1335/PaintByNumber.ipa",
+      "size": 69012408,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
