@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1289",
+          "buildVersion": "1289",
+          "date": "2026-11-22T08:21:32Z",
+          "localizedDescription": "Merge Paint by Mosaic's doors, naming, Print… and Show Lines, and the Year row's year (painting-company rows 236, 330, 366)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1289/PaintByNumber.ipa",
+          "size": 68725856,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1263",
           "buildVersion": "1263",
           "date": "2026-11-22T03:55:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1217/PaintByNumber.ipa",
           "size": 68356437,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1215",
-          "buildVersion": "1215",
-          "date": "2026-11-21T13:22:29Z",
-          "localizedDescription": "Merge Tonight's Picture: a picture a night from the museums, and the vote for the next (painting-company row 368)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1215/PaintByNumber.ipa",
-          "size": 68345120,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1263",
-      "versionDate": "2026-11-22T03:55:52Z",
-      "versionDescription": "Merge Watercolor: real water on the app's own templates, at 1502 (painting-company row 373)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1263/PaintByNumber.ipa",
-      "size": 68631251,
+      "version": "1.0.1289",
+      "versionDate": "2026-11-22T08:21:32Z",
+      "versionDescription": "Merge Paint by Mosaic's doors, naming, Print… and Show Lines, and the Year row's year (painting-company rows 236, 330, 366)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1289/PaintByNumber.ipa",
+      "size": 68725856,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
