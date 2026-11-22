@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1263",
+          "buildVersion": "1263",
+          "date": "2026-11-22T03:55:52Z",
+          "localizedDescription": "Merge Watercolor: real water on the app's own templates, at 1502 (painting-company row 373)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1263/PaintByNumber.ipa",
+          "size": 68631251,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1238",
           "buildVersion": "1238",
           "date": "2026-11-21T23:02:05Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1215/PaintByNumber.ipa",
           "size": 68345120,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1214",
-          "buildVersion": "1214",
-          "date": "2026-11-21T09:26:45Z",
-          "localizedDescription": "Set in Stone: golds named by shade (painting-company row 367)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1214/PaintByNumber.ipa",
-          "size": 68260905,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1238",
-      "versionDate": "2026-11-21T23:02:05Z",
-      "versionDescription": "Merge Stained Glass's suggested lead, the critics' and the audit's fixes (painting-company row 366)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1238/PaintByNumber.ipa",
-      "size": 68399166,
+      "version": "1.0.1263",
+      "versionDate": "2026-11-22T03:55:52Z",
+      "versionDescription": "Merge Watercolor: real water on the app's own templates, at 1502 (painting-company row 373)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1263/PaintByNumber.ipa",
+      "size": 68631251,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
