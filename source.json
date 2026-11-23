@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1383",
+          "buildVersion": "1383",
+          "date": "2026-11-23T12:00:22Z",
+          "localizedDescription": "Merge the hidden modes' sounds: the year wheel, every passage, Watercolor's water (painting-company row 381)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1383/PaintByNumber.ipa",
+          "size": 69254835,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1377",
           "buildVersion": "1377",
           "date": "2026-11-23T10:21:48Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1323/PaintByNumber.ipa",
           "size": 68882424,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1310",
-          "buildVersion": "1310",
-          "date": "2026-11-22T17:09:26Z",
-          "localizedDescription": "Merge Watercolor's speed: the water's blur on every core, the upload in bands, no catch-up spiral, a wet sheet dries on opening (painting-company row 373)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1310/PaintByNumber.ipa",
-          "size": 68750199,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1377",
-      "versionDate": "2026-11-23T10:21:48Z",
-      "versionDescription": "Merge the frame and the Museum into App/Shared, so Paint by Mosaic can move in (painting-company row 379)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1377/PaintByNumber.ipa",
-      "size": 69231683,
+      "version": "1.0.1383",
+      "versionDate": "2026-11-23T12:00:22Z",
+      "versionDescription": "Merge the hidden modes' sounds: the year wheel, every passage, Watercolor's water (painting-company row 381)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1383/PaintByNumber.ipa",
+      "size": 69254835,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
