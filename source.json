@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1388",
+          "buildVersion": "1388",
+          "date": "2026-11-23T17:49:26Z",
+          "localizedDescription": "Merge the graphite drawn from the painting's own line drawing (painting-company row 361)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1388/PaintByNumber.ipa",
+          "size": 69268073,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1383",
           "buildVersion": "1383",
           "date": "2026-11-23T12:00:22Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1335/PaintByNumber.ipa",
           "size": 69012408,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1323",
-          "buildVersion": "1323",
-          "date": "2026-11-22T20:12:15Z",
-          "localizedDescription": "Merge 1.5 Instant: models kept warm, Tonight's Picture and Painting Lengths made ahead, the short Making-of as the wait (painting-company row 361)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1323/PaintByNumber.ipa",
-          "size": 68882424,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1383",
-      "versionDate": "2026-11-23T12:00:22Z",
-      "versionDescription": "Merge the hidden modes' sounds: the year wheel, every passage, Watercolor's water (painting-company row 381)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1383/PaintByNumber.ipa",
-      "size": 69254835,
+      "version": "1.0.1388",
+      "versionDate": "2026-11-23T17:49:26Z",
+      "versionDescription": "Merge the graphite drawn from the painting's own line drawing (painting-company row 361)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1388/PaintByNumber.ipa",
+      "size": 69268073,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
