@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1403",
+          "buildVersion": "1403",
+          "date": "2026-11-23T23:50:09Z",
+          "localizedDescription": "Merge Stained Glass's gallery onto the frame's (painting-company row 379)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1403/PaintByNumber.ipa",
+          "size": 69282160,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1395",
           "buildVersion": "1395",
           "date": "2026-11-23T22:55:04Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1377/PaintByNumber.ipa",
           "size": 69231683,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1355",
-          "buildVersion": "1355",
-          "date": "2026-11-23T06:24:03Z",
-          "localizedDescription": "Merge Paint by Mosaic's Finished doors told true, Set in Stone's cover spaced (painting-company row 330, critic round 1)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1355/PaintByNumber.ipa",
-          "size": 69013883,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1395",
-      "versionDate": "2026-11-23T22:55:04Z",
-      "versionDescription": "Merge Stained Glass: real Liquid Glass in the chrome, HDR glow glass, the window in the shared frame (painting-company row 366)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1395/PaintByNumber.ipa",
-      "size": 69282162,
+      "version": "1.0.1403",
+      "versionDate": "2026-11-23T23:50:09Z",
+      "versionDescription": "Merge Stained Glass's gallery onto the frame's (painting-company row 379)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1403/PaintByNumber.ipa",
+      "size": 69282160,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
