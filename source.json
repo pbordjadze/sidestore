@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1418",
+          "buildVersion": "1418",
+          "date": "2026-11-24T09:41:21Z",
+          "localizedDescription": "Merge Apple APIs: Portrait depth for Woodblock's bokashi, Save as Live Photo (painting-company research 2026-11-22-obscure-apple-apis)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1418/PaintByNumber.ipa",
+          "size": 69435714,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1417",
           "buildVersion": "1417",
           "date": "2026-11-24T07:23:45Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1408/PaintByNumber.ipa",
           "size": 69384721,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1406",
-          "buildVersion": "1406",
-          "date": "2026-11-24T00:57:01Z",
-          "localizedDescription": "Merge One Big Sheet: full-size prints of a template through Prodigi's sandbox, paid with Apple Pay through Stripe's test mode, SideStore and nightly only (painting-company row 380)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1406/PaintByNumber.ipa",
-          "size": 69376779,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1417",
-      "versionDate": "2026-11-24T07:23:45Z",
-      "versionDescription": "Merge 1.5 for the App Store: the Instant work in the release, version 1.5, What's New in every language (painting-company row 361)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1417/PaintByNumber.ipa",
-      "size": 69399053,
+      "version": "1.0.1418",
+      "versionDate": "2026-11-24T09:41:21Z",
+      "versionDescription": "Merge Apple APIs: Portrait depth for Woodblock's bokashi, Save as Live Photo (painting-company research 2026-11-22-obscure-apple-apis)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1418/PaintByNumber.ipa",
+      "size": 69435714,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
