@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1408",
+          "buildVersion": "1408",
+          "date": "2026-11-24T02:52:24Z",
+          "localizedDescription": "Merge One Big Sheet: rolled canvas and watercolor paper, the relay on Prodigi's v5 API (painting-company row 380)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1408/PaintByNumber.ipa",
+          "size": 69384721,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1406",
           "buildVersion": "1406",
           "date": "2026-11-24T00:57:01Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1388/PaintByNumber.ipa",
           "size": 69268073,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1383",
-          "buildVersion": "1383",
-          "date": "2026-11-23T12:00:22Z",
-          "localizedDescription": "Merge the hidden modes' sounds: the year wheel, every passage, Watercolor's water (painting-company row 381)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1383/PaintByNumber.ipa",
-          "size": 69254835,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1406",
-      "versionDate": "2026-11-24T00:57:01Z",
-      "versionDescription": "Merge One Big Sheet: full-size prints of a template through Prodigi's sandbox, paid with Apple Pay through Stripe's test mode, SideStore and nightly only (painting-company row 380)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1406/PaintByNumber.ipa",
-      "size": 69376779,
+      "version": "1.0.1408",
+      "versionDate": "2026-11-24T02:52:24Z",
+      "versionDescription": "Merge One Big Sheet: rolled canvas and watercolor paper, the relay on Prodigi's v5 API (painting-company row 380)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1408/PaintByNumber.ipa",
+      "size": 69384721,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
