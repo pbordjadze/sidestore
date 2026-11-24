@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1412",
+          "buildVersion": "1412",
+          "date": "2026-11-24T03:14:10Z",
+          "localizedDescription": "Merge One Big Sheet's offer in Print's preview and Christmas's order-by day (painting-company row 380)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1412/PaintByNumber.ipa",
+          "size": 69393334,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1408",
           "buildVersion": "1408",
           "date": "2026-11-24T02:52:24Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1395/PaintByNumber.ipa",
           "size": 69282162,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1388",
-          "buildVersion": "1388",
-          "date": "2026-11-23T17:49:26Z",
-          "localizedDescription": "Merge the graphite drawn from the painting's own line drawing (painting-company row 361)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1388/PaintByNumber.ipa",
-          "size": 69268073,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1408",
-      "versionDate": "2026-11-24T02:52:24Z",
-      "versionDescription": "Merge One Big Sheet: rolled canvas and watercolor paper, the relay on Prodigi's v5 API (painting-company row 380)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1408/PaintByNumber.ipa",
-      "size": 69384721,
+      "version": "1.0.1412",
+      "versionDate": "2026-11-24T03:14:10Z",
+      "versionDescription": "Merge One Big Sheet's offer in Print's preview and Christmas's order-by day (painting-company row 380)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1412/PaintByNumber.ipa",
+      "size": 69393334,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
