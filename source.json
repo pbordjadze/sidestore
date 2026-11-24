@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1417",
+          "buildVersion": "1417",
+          "date": "2026-11-24T07:23:45Z",
+          "localizedDescription": "Merge 1.5 for the App Store: the Instant work in the release, version 1.5, What's New in every language (painting-company row 361)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1417/PaintByNumber.ipa",
+          "size": 69399053,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1416",
           "buildVersion": "1416",
           "date": "2026-11-24T05:39:13Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1406/PaintByNumber.ipa",
           "size": 69376779,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1403",
-          "buildVersion": "1403",
-          "date": "2026-11-23T23:50:09Z",
-          "localizedDescription": "Merge Stained Glass's gallery onto the frame's (painting-company row 379)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1403/PaintByNumber.ipa",
-          "size": 69282160,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1416",
-      "versionDate": "2026-11-24T05:39:13Z",
-      "versionDescription": "Merge One Big Sheet's launch blockers: every paid order placed or refunded (painting-company row 380)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1416/PaintByNumber.ipa",
-      "size": 69399061,
+      "version": "1.0.1417",
+      "versionDate": "2026-11-24T07:23:45Z",
+      "versionDescription": "Merge 1.5 for the App Store: the Instant work in the release, version 1.5, What's New in every language (painting-company row 361)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1417/PaintByNumber.ipa",
+      "size": 69399053,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
