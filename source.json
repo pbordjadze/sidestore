@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1424",
+          "buildVersion": "1424",
+          "date": "2026-11-24T18:11:08Z",
+          "localizedDescription": "Merge One Big Sheet: receipts, Stripe Tax (off), terms page, ships-from in sandbox quotes (painting-company row 380)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1424/PaintByNumber.ipa",
+          "size": 69445700,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1421",
           "buildVersion": "1421",
           "date": "2026-11-24T14:47:37Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1416/PaintByNumber.ipa",
           "size": 69399061,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1412",
-          "buildVersion": "1412",
-          "date": "2026-11-24T03:14:10Z",
-          "localizedDescription": "Merge One Big Sheet's offer in Print's preview and Christmas's order-by day (painting-company row 380)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1412/PaintByNumber.ipa",
-          "size": 69393334,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1421",
-      "versionDate": "2026-11-24T14:47:37Z",
-      "versionDescription": "Merge One Big Sheet: say when it ships, print only your own pictures, and check each sheet before it is printed (painting-company row 380)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1421/PaintByNumber.ipa",
-      "size": 69437054,
+      "version": "1.0.1424",
+      "versionDate": "2026-11-24T18:11:08Z",
+      "versionDescription": "Merge One Big Sheet: receipts, Stripe Tax (off), terms page, ships-from in sandbox quotes (painting-company row 380)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1424/PaintByNumber.ipa",
+      "size": 69445700,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
