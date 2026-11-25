@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1452",
+          "buildVersion": "1452",
+          "date": "2026-11-25T13:51:54Z",
+          "localizedDescription": "Merge the hitch stack sampler: -tourStacks YES names what the main thread ran in each hitch (painting-company row 390)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1452/PaintByNumber.ipa",
+          "size": 69447739,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1447",
           "buildVersion": "1447",
           "date": "2026-11-25T06:40:22Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1421/PaintByNumber.ipa",
           "size": 69437054,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1418",
-          "buildVersion": "1418",
-          "date": "2026-11-24T09:41:21Z",
-          "localizedDescription": "Merge Apple APIs: Portrait depth for Woodblock's bokashi, Save as Live Photo (painting-company research 2026-11-22-obscure-apple-apis)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1418/PaintByNumber.ipa",
-          "size": 69435714,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1447",
-      "versionDate": "2026-11-25T06:40:22Z",
-      "versionDescription": "Merge the gentler short Making-of: a slower pencil, a softer eased fuse, a rest before the lift, fewer stars (painting-company row 361)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1447/PaintByNumber.ipa",
-      "size": 69448517,
+      "version": "1.0.1452",
+      "versionDate": "2026-11-25T13:51:54Z",
+      "versionDescription": "Merge the hitch stack sampler: -tourStacks YES names what the main thread ran in each hitch (painting-company row 390)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1452/PaintByNumber.ipa",
+      "size": 69447739,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
