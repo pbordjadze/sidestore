@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1453",
+          "buildVersion": "1453",
+          "date": "2026-11-25T21:31:04Z",
+          "localizedDescription": "Merge remote-tracking branch 'origin/main' into claude/release-1-6",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1453/PaintByNumber.ipa",
+          "size": 69447741,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1452",
           "buildVersion": "1452",
           "date": "2026-11-25T13:51:54Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1424/PaintByNumber.ipa",
           "size": 69445700,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1421",
-          "buildVersion": "1421",
-          "date": "2026-11-24T14:47:37Z",
-          "localizedDescription": "Merge One Big Sheet: say when it ships, print only your own pictures, and check each sheet before it is printed (painting-company row 380)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1421/PaintByNumber.ipa",
-          "size": 69437054,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1452",
-      "versionDate": "2026-11-25T13:51:54Z",
-      "versionDescription": "Merge the hitch stack sampler: -tourStacks YES names what the main thread ran in each hitch (painting-company row 390)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1452/PaintByNumber.ipa",
-      "size": 69447739,
+      "version": "1.0.1453",
+      "versionDate": "2026-11-25T21:31:04Z",
+      "versionDescription": "Merge remote-tracking branch 'origin/main' into claude/release-1-6",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1453/PaintByNumber.ipa",
+      "size": 69447741,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
