@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1430",
+          "buildVersion": "1430",
+          "date": "2026-11-25T03:23:35Z",
+          "localizedDescription": "Merge the length chip's wait for its menu: picking a Painting Length no longer freezes the menu over a stuttering canvas (painting-company row 361)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1430/PaintByNumber.ipa",
+          "size": 69449418,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1424",
           "buildVersion": "1424",
           "date": "2026-11-24T18:11:08Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1417/PaintByNumber.ipa",
           "size": 69399053,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1416",
-          "buildVersion": "1416",
-          "date": "2026-11-24T05:39:13Z",
-          "localizedDescription": "Merge One Big Sheet's launch blockers: every paid order placed or refunded (painting-company row 380)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1416/PaintByNumber.ipa",
-          "size": 69399061,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1424",
-      "versionDate": "2026-11-24T18:11:08Z",
-      "versionDescription": "Merge One Big Sheet: receipts, Stripe Tax (off), terms page, ships-from in sandbox quotes (painting-company row 380)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1424/PaintByNumber.ipa",
-      "size": 69445700,
+      "version": "1.0.1430",
+      "versionDate": "2026-11-25T03:23:35Z",
+      "versionDescription": "Merge the length chip's wait for its menu: picking a Painting Length no longer freezes the menu over a stuttering canvas (painting-company row 361)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1430/PaintByNumber.ipa",
+      "size": 69449418,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
