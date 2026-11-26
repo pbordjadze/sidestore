@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1466",
+          "buildVersion": "1466",
+          "date": "2026-11-26T20:30:33Z",
+          "localizedDescription": "Merge Watercolor on the main game's loop, behind UNRELEASED (painting-company row 373)",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1466/PaintByNumber.ipa",
+          "size": 69468447,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1460",
           "buildVersion": "1460",
           "date": "2026-11-26T09:18:52Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1447/PaintByNumber.ipa",
           "size": 69448517,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1430",
-          "buildVersion": "1430",
-          "date": "2026-11-25T03:23:35Z",
-          "localizedDescription": "Merge the length chip's wait for its menu: picking a Painting Length no longer freezes the menu over a stuttering canvas (painting-company row 361)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1430/PaintByNumber.ipa",
-          "size": 69449418,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1460",
-      "versionDate": "2026-11-26T09:18:52Z",
-      "versionDescription": "Zen Mode's daily temperament, in its motion alone, behind UNRELEASED (painting-company row 394)",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1460/PaintByNumber.ipa",
-      "size": 69451394,
+      "version": "1.0.1466",
+      "versionDate": "2026-11-26T20:30:33Z",
+      "versionDescription": "Merge Watercolor on the main game's loop, behind UNRELEASED (painting-company row 373)",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1466/PaintByNumber.ipa",
+      "size": 69468447,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
