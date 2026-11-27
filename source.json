@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1479",
+          "buildVersion": "1479",
+          "date": "2026-11-27T15:36:37Z",
+          "localizedDescription": "Merge: ✎ Change never deletes edits (a vault of saves); a 1.5 painting every build must open",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1479/PaintByNumber.ipa",
+          "size": 69495345,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1476",
           "buildVersion": "1476",
           "date": "2026-11-27T08:23:34Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1460/PaintByNumber.ipa",
           "size": 69451394,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1453",
-          "buildVersion": "1453",
-          "date": "2026-11-25T21:31:04Z",
-          "localizedDescription": "Merge remote-tracking branch 'origin/main' into claude/release-1-6",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1453/PaintByNumber.ipa",
-          "size": 69447741,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1476",
-      "versionDate": "2026-11-27T08:23:34Z",
-      "versionDescription": "Merge: keep ✎ Change's unsaved edits on disk; a diary of saves in feedback",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1476/PaintByNumber.ipa",
-      "size": 69486222,
+      "version": "1.0.1479",
+      "versionDate": "2026-11-27T15:36:37Z",
+      "versionDescription": "Merge: ✎ Change never deletes edits (a vault of saves); a 1.5 painting every build must open",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1479/PaintByNumber.ipa",
+      "size": 69495345,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
