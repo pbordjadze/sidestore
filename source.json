@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1487",
+          "buildVersion": "1487",
+          "date": "2026-11-28T04:43:54Z",
+          "localizedDescription": "Merge: Refine's lines stay as drawn, no jog where a line passes a corner",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1487/PaintByNumber.ipa",
+          "size": 69489801,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1479",
           "buildVersion": "1479",
           "date": "2026-11-27T15:36:37Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1466/PaintByNumber.ipa",
           "size": 69468447,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1460",
-          "buildVersion": "1460",
-          "date": "2026-11-26T09:18:52Z",
-          "localizedDescription": "Zen Mode's daily temperament, in its motion alone, behind UNRELEASED (painting-company row 394)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1460/PaintByNumber.ipa",
-          "size": 69451394,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1479",
-      "versionDate": "2026-11-27T15:36:37Z",
-      "versionDescription": "Merge: ✎ Change never deletes edits (a vault of saves); a 1.5 painting every build must open",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1479/PaintByNumber.ipa",
-      "size": 69495345,
+      "version": "1.0.1487",
+      "versionDate": "2026-11-28T04:43:54Z",
+      "versionDescription": "Merge: Refine's lines stay as drawn, no jog where a line passes a corner",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1487/PaintByNumber.ipa",
+      "size": 69489801,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
