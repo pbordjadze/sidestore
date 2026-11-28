@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1491",
+          "buildVersion": "1491",
+          "date": "2026-11-28T11:29:19Z",
+          "localizedDescription": "Merge remote-tracking branch 'origin/main' into claude/project-thread-hj19xi",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1491/PaintByNumber.ipa",
+          "size": 69495344,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1489",
           "buildVersion": "1489",
           "date": "2026-11-28T07:18:55Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1476/PaintByNumber.ipa",
           "size": 69486222,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1473",
-          "buildVersion": "1473",
-          "date": "2026-11-27T03:24:12Z",
-          "localizedDescription": "Zen Mode's days feel different: calm or lively, behind UNRELEASED (painting-company row 394)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1473/PaintByNumber.ipa",
-          "size": 69468353,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1489",
-      "versionDate": "2026-11-28T07:18:55Z",
-      "versionDescription": "Merge: Refine's held undo takes only one hand's fingertips; undo's triggers in the diary",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1489/PaintByNumber.ipa",
-      "size": 69495072,
+      "version": "1.0.1491",
+      "versionDate": "2026-11-28T11:29:19Z",
+      "versionDescription": "Merge remote-tracking branch 'origin/main' into claude/project-thread-hj19xi",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1491/PaintByNumber.ipa",
+      "size": 69495344,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
