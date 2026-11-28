@@ -17,6 +17,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.0.1489",
+          "buildVersion": "1489",
+          "date": "2026-11-28T07:18:55Z",
+          "localizedDescription": "Merge: Refine's held undo takes only one hand's fingertips; undo's triggers in the diary",
+          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1489/PaintByNumber.ipa",
+          "size": 69495072,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1487",
           "buildVersion": "1487",
           "date": "2026-11-28T04:43:54Z",
@@ -51,22 +60,13 @@
           "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1473/PaintByNumber.ipa",
           "size": 69468353,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0.1466",
-          "buildVersion": "1466",
-          "date": "2026-11-26T20:30:33Z",
-          "localizedDescription": "Merge Watercolor on the main game's loop, behind UNRELEASED (painting-company row 373)",
-          "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1466/PaintByNumber.ipa",
-          "size": 69468447,
-          "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0.1487",
-      "versionDate": "2026-11-28T04:43:54Z",
-      "versionDescription": "Merge: Refine's lines stay as drawn, no jog where a line passes a corner",
-      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1487/PaintByNumber.ipa",
-      "size": 69489801,
+      "version": "1.0.1489",
+      "versionDate": "2026-11-28T07:18:55Z",
+      "versionDescription": "Merge: Refine's held undo takes only one hand's fingertips; undo's triggers in the diary",
+      "downloadURL": "https://github.com/pbordjadze/paint-by-number/releases/download/build-1489/PaintByNumber.ipa",
+      "size": 69495072,
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups"
